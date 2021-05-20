@@ -17186,7 +17186,8 @@
     ],
     "CVE-2009-0545": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/zeroshell_exec.rb",
-        "https://www.exploit-db.com/raw/8023"
+        "https://www.exploit-db.com/raw/8023",
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2009/CVE-2009-0545.yaml"
     ],
     "CVE-2009-0546": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/feeddemon_opml.rb",
@@ -34845,9 +34846,6 @@
     "CVE-2017-10688": [
         "https://www.exploit-db.com/raw/42299"
     ],
-    "CVE-2017-10796": [
-        "https://github.com/JamesGeee/CVE-2017-10796"
-    ],
     "CVE-2017-10797": [
         "https://github.com/n4xh4ck5/CVE-2017-10797"
     ],
@@ -42352,7 +42350,6 @@
         "https://github.com/darthvader-htb/CVE-2018-6574",
         "https://github.com/it3x55/CVE-2018-6574",
         "https://github.com/Malone5923/CVE-2018-6574-go-get-RCE",
-        "https://github.com/shivam18u/CVE-2018-6574",
         "https://github.com/illnino/CVE-2018-6574",
         "https://github.com/TakuCoder/CVE-2018-6574",
         "https://github.com/kawkab101/cve-2018-6574",
@@ -43412,7 +43409,7 @@
         "https://github.com/akuhidayat/HTC",
         "https://github.com/g5q2/cve-2018-9995",
         "https://github.com/HACKGM/CVE-2018-9995",
-        "https://github.com/kienquoc102/Exploit-CVE-2018-9995",
+        "https://github.com/kienquoc102/CVE-2018-9995-Exploit",
         "https://www.exploit-db.com/raw/44577",
         "https://gitlab.com/softdream/CVE-2018-9995_dvr_credentials",
         "https://gitlab.com/softdream/CVE-2018-9995_dvr_credentials",
@@ -46511,9 +46508,6 @@
     "CVE-2020-0976": [
         "https://github.com/ericzhong2010/GUI-Check-CVE-2020-0976"
     ],
-    "CVE-2020-1": [
-        "https://github.com/full-disclosure/FDEU-CVE-2020-1FC5"
-    ],
     "CVE-2020-10135": [
         "https://github.com/marcinguy/CVE-2020-10135-BIAS"
     ],
@@ -46539,6 +46533,9 @@
         "https://github.com/aleenzz/CVE-2020-10199",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/nexus_repo_manager_el_injection.rb",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/nexus-repository-manager-rce-cve-2020-10199.yaml"
+    ],
+    "CVE-2020-1020": [
+        "https://github.com/mavillon1/CVE-2020-1020-Exploit"
     ],
     "CVE-2020-10204": [
         "https://github.com/zhzyker/CVE-2020-10204",
@@ -47086,9 +47083,6 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/apache-unomi-rce-cve-2020-13942.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-13942.yaml"
     ],
-    "CVE-2020-13949": [
-        "https://github.com/JamesGeee/CVE-2020-13949"
-    ],
     "CVE-2020-13957": [
         "https://github.com/s-index/CVE-2020-13957"
     ],
@@ -47544,9 +47538,6 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/artica-web-proxy-sqli-cve-2020-17506.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-17506.yaml"
     ],
-    "CVE-2020-17517": [
-        "https://github.com/JamesGeee/CVE-2020-17517"
-    ],
     "CVE-2020-17518": [
         "https://github.com/QmF0c3UK/CVE-2020-17518",
         "https://github.com/murataydemir/CVE-2020-17518",
@@ -47591,24 +47582,6 @@
     ],
     "CVE-2020-1764": [
         "https://github.com/jpts/cve-2020-1764-poc"
-    ],
-    "CVE-2020-19107": [
-        "https://github.com/JamesGeee/CVE-2020-19107"
-    ],
-    "CVE-2020-19108": [
-        "https://github.com/JamesGeee/CVE-2020-19108"
-    ],
-    "CVE-2020-19109": [
-        "https://github.com/JamesGeee/CVE-2020-19109"
-    ],
-    "CVE-2020-19110": [
-        "https://github.com/JamesGeee/CVE-2020-19110"
-    ],
-    "CVE-2020-19112": [
-        "https://github.com/JamesGeee/CVE-2020-19112"
-    ],
-    "CVE-2020-19114": [
-        "https://github.com/JamesGeee/CVE-2020-19114"
     ],
     "CVE-2020-1937": [
         "https://github.com/shanika04/apache_kylin"
@@ -47703,9 +47676,6 @@
     ],
     "CVE-2020-22840": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-22840.yaml"
-    ],
-    "CVE-2020-23127": [
-        "https://github.com/JamesGeee/CVE-2020-23127"
     ],
     "CVE-2020-23160": [
         "https://github.com/Outpost24/Pyrescom-Termod-PoC"
@@ -47858,9 +47828,6 @@
     "CVE-2020-25399": [
         "https://github.com/h3llraiser/CVE-2020-25399"
     ],
-    "CVE-2020-25453": [
-        "https://github.com/JamesGeee/CVE-2020-25453"
-    ],
     "CVE-2020-2546": [
         "https://github.com/hktalent/CVE_2020_2546"
     ],
@@ -48001,8 +47968,7 @@
         "https://github.com/9lyph/CVE-2020-27199"
     ],
     "CVE-2020-27223": [
-        "https://github.com/motikan2010/CVE-2020-27223",
-        "https://github.com/JamesGeee/CVE-2020-27223"
+        "https://github.com/motikan2010/CVE-2020-27223"
     ],
     "CVE-2020-27358": [
         "https://github.com/sebastian-mora/cve-2020-27358-27359"
@@ -48305,6 +48271,9 @@
     "CVE-2020-36109": [
         "https://github.com/tin-z/CVE-2020-36109-POC"
     ],
+    "CVE-2020-36112": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-36112.yaml"
+    ],
     "CVE-2020-36179": [
         "https://github.com/Al1ex/CVE-2020-36179"
     ],
@@ -48313,9 +48282,6 @@
     ],
     "CVE-2020-36188": [
         "https://github.com/Al1ex/CVE-2020-36188"
-    ],
-    "CVE-2020-36326": [
-        "https://github.com/JamesGeee/CVE-2020-36326"
     ],
     "CVE-2020-3766": [
         "https://github.com/hessandrew/CVE-2020-3766_APSB20-12"
@@ -48369,27 +48335,6 @@
         "https://github.com/Ibonok/CVE-2020-4463",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/ibm-maximo-xxe-cve-2020-4463.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-4463.yaml"
-    ],
-    "CVE-2020-4883": [
-        "https://github.com/JamesGeee/CVE-2020-4883"
-    ],
-    "CVE-2020-4901": [
-        "https://github.com/JamesGeee/CVE-2020-4901"
-    ],
-    "CVE-2020-4929": [
-        "https://github.com/JamesGeee/CVE-2020-4929"
-    ],
-    "CVE-2020-4932": [
-        "https://github.com/JamesGeee/CVE-2020-4932"
-    ],
-    "CVE-2020-4979": [
-        "https://github.com/JamesGeee/CVE-2020-4979"
-    ],
-    "CVE-2020-4993": [
-        "https://github.com/JamesGeee/CVE-2020-4993"
-    ],
-    "CVE-2020-5013": [
-        "https://github.com/JamesGeee/CVE-2020-5013"
     ],
     "CVE-2020-5014": [
         "https://github.com/copethomas/datapower-redis-rce-exploit"
@@ -49074,6 +49019,7 @@
         "https://github.com/AssassinUKG/CVE-2020-9484",
         "https://github.com/VICXOR/CVE-2020-9484",
         "https://github.com/DXY0411/CVE-2020-9484",
+        "https://github.com/RepublicR0K/CVE-2020-9484",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-9484_-_Apache_Tomcat_RCE_by_deserialization.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/apache-tomcat-rce-cve-2020-9484.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-9484.yaml"
@@ -49178,9 +49124,6 @@
     "CVE-2021-2021": [
         "https://github.com/TheCryingGame/CVE-2021-2021good"
     ],
-    "CVE-2021-20716": [
-        "https://github.com/JamesGeee/CVE-2021-20716"
-    ],
     "CVE-2021-21014": [
         "https://github.com/HoangKien1020/CVE-2021-21014"
     ],
@@ -49242,20 +49185,8 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/jellyfin-lfi-cve-2021-21402.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-21402.yaml"
     ],
-    "CVE-2021-21419": [
-        "https://github.com/JamesGeee/CVE-2021-21419"
-    ],
     "CVE-2021-21425": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/gravcms_exec.rb"
-    ],
-    "CVE-2021-21534": [
-        "https://github.com/JamesGeee/CVE-2021-21534"
-    ],
-    "CVE-2021-21535": [
-        "https://github.com/JamesGeee/CVE-2021-21535"
-    ],
-    "CVE-2021-21536": [
-        "https://github.com/JamesGeee/CVE-2021-21536"
     ],
     "CVE-2021-21551": [
         "https://github.com/waldo-irc/CVE-2021-21551",
@@ -49327,20 +49258,11 @@
         "https://github.com/se162xg/CVE-2021-22204",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/fileformat/exiftool_djvu_ant_perl_injection.rb"
     ],
-    "CVE-2021-2222222": [
-        "https://github.com/1151806933/cve-2021-2222222"
-    ],
     "CVE-2021-22502": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/microfocus_obr_cmd_injection.rb"
     ],
     "CVE-2021-22652": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/advantech_iview_unauth_rce.rb"
-    ],
-    "CVE-2021-22660": [
-        "https://github.com/JamesGeee/CVE-2021-22660"
-    ],
-    "CVE-2021-22677": [
-        "https://github.com/JamesGeee/CVE-2021-22677"
     ],
     "CVE-2021-22873": [
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/revive-adserver-open-redirect-cve-2021-22873.yaml",
@@ -49367,9 +49289,6 @@
     ],
     "CVE-2021-23132": [
         "https://github.com/HoangKien1020/CVE-2021-23132"
-    ],
-    "CVE-2021-2321": [
-        "https://github.com/JamesGeee/CVE-2021-2321"
     ],
     "CVE-2021-24027": [
         "https://github.com/CENSUS/whatsapp-mitd-mitm"
@@ -49457,6 +49376,10 @@
     ],
     "CVE-2021-26758": [
         "https://www.exploit-db.com/raw/49556"
+    ],
+    "CVE-2021-26814": [
+        "https://github.com/WickdDavid/CVE-2021-26814",
+        "https://github.com/CYS4srl/CVE-2021-26814"
     ],
     "CVE-2021-26828": [
         "https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE"
@@ -49570,12 +49493,6 @@
     "CVE-2021-27404": [
         "https://github.com/bokanrb/CVE-2021-27404"
     ],
-    "CVE-2021-27437": [
-        "https://github.com/JamesGeee/CVE-2021-27437"
-    ],
-    "CVE-2021-27480": [
-        "https://github.com/JamesGeee/CVE-2021-27480"
-    ],
     "CVE-2021-27651": [
         "https://github.com/samwcyo/CVE-2021-27651-PoC",
         "https://github.com/Vulnmachines/CVE-2021-27651",
@@ -49598,27 +49515,6 @@
     "CVE-2021-28073": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-28073.yaml"
     ],
-    "CVE-2021-28125": [
-        "https://github.com/JamesGeee/CVE-2021-28125"
-    ],
-    "CVE-2021-28163": [
-        "https://github.com/JamesGeee/CVE-2021-28163"
-    ],
-    "CVE-2021-28164": [
-        "https://github.com/JamesGeee/CVE-2021-28164"
-    ],
-    "CVE-2021-28165": [
-        "https://github.com/JamesGeee/CVE-2021-28165"
-    ],
-    "CVE-2021-28168": [
-        "https://github.com/JamesGeee/CVE-2021-28168"
-    ],
-    "CVE-2021-28269": [
-        "https://github.com/JamesGeee/CVE-2021-28269"
-    ],
-    "CVE-2021-28271": [
-        "https://github.com/JamesGeee/CVE-2021-28271"
-    ],
     "CVE-2021-28310": [
         "https://github.com/Rafael-Svechinskaya/IOC_for_CVE-2021-28310"
     ],
@@ -49637,21 +49533,6 @@
     "CVE-2021-29133": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/post/linux/gather/haserl_read.rb"
     ],
-    "CVE-2021-29138": [
-        "https://github.com/JamesGeee/CVE-2021-29138"
-    ],
-    "CVE-2021-29139": [
-        "https://github.com/JamesGeee/CVE-2021-29139"
-    ],
-    "CVE-2021-29140": [
-        "https://github.com/JamesGeee/CVE-2021-29140"
-    ],
-    "CVE-2021-29141": [
-        "https://github.com/JamesGeee/CVE-2021-29141"
-    ],
-    "CVE-2021-29142": [
-        "https://github.com/JamesGeee/CVE-2021-29142"
-    ],
     "CVE-2021-29200": [
         "https://github.com/r0ckysec/CVE-2021-29200"
     ],
@@ -49669,17 +49550,10 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29441.yaml"
     ],
     "CVE-2021-29442": [
-        "https://github.com/JamesGeee/CVE-2021-29442",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29442.yaml"
     ],
     "CVE-2021-29447": [
         "https://github.com/motikan2010/CVE-2021-29447"
-    ],
-    "CVE-2021-29488": [
-        "https://github.com/JamesGeee/CVE-2021-29488"
-    ],
-    "CVE-2021-29495": [
-        "https://github.com/JamesGeee/CVE-2021-29495"
     ],
     "CVE-2021-29627": [
         "https://github.com/raymontag/cve-2021-29627"
@@ -49687,13 +49561,15 @@
     "CVE-2021-30005": [
         "https://github.com/atorralba/CVE-2021-30005-POC"
     ],
+    "CVE-2021-3007": [
+        "https://github.com/Vulnmachines/ZF3_CVE-2021-3007"
+    ],
     "CVE-2021-30109": [
         "https://github.com/Hackdwerg/CVE-2021-30109"
     ],
     "CVE-2021-30128": [
         "https://github.com/LioTree/CVE-2021-30128-EXP",
-        "https://github.com/r0ckysec/CVE-2021-30128",
-        "https://github.com/JamesGeee/CVE-2021-30128"
+        "https://github.com/r0ckysec/CVE-2021-30128"
     ],
     "CVE-2021-30146": [
         "https://github.com/Security-AVS/CVE-2021-30146"
@@ -49706,9 +49582,6 @@
     ],
     "CVE-2021-30151": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-30151.yaml"
-    ],
-    "CVE-2021-30165": [
-        "https://github.com/JamesGeee/CVE-2021-30165"
     ],
     "CVE-2021-3019": [
         "https://github.com/B1anda0/CVE-2021-3019",
@@ -49728,19 +49601,15 @@
     "CVE-2021-30481": [
         "https://github.com/floesen/CVE-2021-30481"
     ],
-    "CVE-2021-30502": [
-        "https://github.com/JamesGeee/CVE-2021-30502"
-    ],
-    "CVE-2021-30642": [
-        "https://github.com/JamesGeee/CVE-2021-30642"
-    ],
     "CVE-2021-30657": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/osx/browser/osx_gatekeeper_bypass.rb"
     ],
     "CVE-2021-31166": [
         "https://github.com/0vercl0k/CVE-2021-31166",
         "https://github.com/An0ny-m0us/CVE-2021-31166",
-        "https://github.com/Frankmock/CVE-2021-31166-detection-rules"
+        "https://github.com/Frankmock/CVE-2021-31166-detection-rules",
+        "https://github.com/corelight/CVE-2021-31166",
+        "https://github.com/zecopro/CVE-2021-31166"
     ],
     "CVE-2021-31184": [
         "https://github.com/waleedassar/CVE-2021-31184"
@@ -49767,18 +49636,6 @@
     ],
     "CVE-2021-3138": [
         "https://github.com/Mesh3l911/CVE-2021-3138"
-    ],
-    "CVE-2021-31417": [
-        "https://github.com/JamesGeee/CVE-2021-31417"
-    ],
-    "CVE-2021-31418": [
-        "https://github.com/JamesGeee/CVE-2021-31418"
-    ],
-    "CVE-2021-31419": [
-        "https://github.com/JamesGeee/CVE-2021-31419"
-    ],
-    "CVE-2021-31420": [
-        "https://github.com/JamesGeee/CVE-2021-31420"
     ],
     "CVE-2021-31537": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-31537.yaml"
@@ -49842,6 +49699,12 @@
     "CVE-2021-3165": [
         "https://github.com/orionhridoy/CVE-2021-3165"
     ],
+    "CVE-2021-31702": [
+        "https://github.com/l00neyhacker/CVE-2021-31702"
+    ],
+    "CVE-2021-31703": [
+        "https://github.com/l00neyhacker/CVE-2021-31703"
+    ],
     "CVE-2021-31728": [
         "https://github.com/irql0/CVE-2021-31728"
     ],
@@ -49857,29 +49720,8 @@
         "https://github.com/Mesh3l911/CVE-2021-31762",
         "https://github.com/electronicbots/CVE-2021-31762"
     ],
-    "CVE-2021-31777": [
-        "https://github.com/JamesGeee/CVE-2021-31777"
-    ],
-    "CVE-2021-31778": [
-        "https://github.com/JamesGeee/CVE-2021-31778"
-    ],
-    "CVE-2021-31779": [
-        "https://github.com/JamesGeee/CVE-2021-31779"
-    ],
-    "CVE-2021-31795": [
-        "https://github.com/JamesGeee/CVE-2021-31795"
-    ],
-    "CVE-2021-31826": [
-        "https://github.com/JamesGeee/CVE-2021-31826"
-    ],
-    "CVE-2021-31828": [
-        "https://github.com/JamesGeee/CVE-2021-31828"
-    ],
     "CVE-2021-31856": [
         "https://github.com/ssst0n3/CVE-2021-31856"
-    ],
-    "CVE-2021-32259": [
-        "https://github.com/JamesGeee/CVE-2021-32259"
     ],
     "CVE-2021-3229": [
         "https://github.com/fullbbadda1208/CVE-2021-3229"

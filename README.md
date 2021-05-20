@@ -32,22 +32,8 @@
 - https://github.com/intrinsic-propensity/turing-machine
 ## CVE-2021-3229 (1)
 - https://github.com/fullbbadda1208/CVE-2021-3229
-## CVE-2021-32259 (1)
-- https://github.com/JamesGeee/CVE-2021-32259
 ## CVE-2021-31856 (1)
 - https://github.com/ssst0n3/CVE-2021-31856
-## CVE-2021-31828 (1)
-- https://github.com/JamesGeee/CVE-2021-31828
-## CVE-2021-31826 (1)
-- https://github.com/JamesGeee/CVE-2021-31826
-## CVE-2021-31795 (1)
-- https://github.com/JamesGeee/CVE-2021-31795
-## CVE-2021-31779 (1)
-- https://github.com/JamesGeee/CVE-2021-31779
-## CVE-2021-31778 (1)
-- https://github.com/JamesGeee/CVE-2021-31778
-## CVE-2021-31777 (1)
-- https://github.com/JamesGeee/CVE-2021-31777
 ## CVE-2021-31762 (2)
 - https://github.com/Mesh3l911/CVE-2021-31762
 - https://github.com/electronicbots/CVE-2021-31762
@@ -59,6 +45,10 @@
 - https://github.com/electronicbots/CVE-2021-31760
 ## CVE-2021-31728 (1)
 - https://github.com/irql0/CVE-2021-31728
+## CVE-2021-31703 (1)
+- https://github.com/l00neyhacker/CVE-2021-31703
+## CVE-2021-31702 (1)
+- https://github.com/l00neyhacker/CVE-2021-31702
 ## CVE-2021-3165 (1)
 - https://github.com/orionhridoy/CVE-2021-3165
 ## CVE-2021-3164 (1)
@@ -116,14 +106,6 @@
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/local/sudo_baron_samedit.rb
 ## CVE-2021-31537 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-31537.yaml
-## CVE-2021-31420 (1)
-- https://github.com/JamesGeee/CVE-2021-31420
-## CVE-2021-31419 (1)
-- https://github.com/JamesGeee/CVE-2021-31419
-## CVE-2021-31418 (1)
-- https://github.com/JamesGeee/CVE-2021-31418
-## CVE-2021-31417 (1)
-- https://github.com/JamesGeee/CVE-2021-31417
 ## CVE-2021-3138 (1)
 - https://github.com/Mesh3l911/CVE-2021-3138
 ## CVE-2021-3131 (1)
@@ -144,16 +126,14 @@
 - https://github.com/roughb8722/CVE-2021-3122-Details
 ## CVE-2021-31184 (1)
 - https://github.com/waleedassar/CVE-2021-31184
-## CVE-2021-31166 (3)
+## CVE-2021-31166 (5)
 - https://github.com/0vercl0k/CVE-2021-31166
 - https://github.com/An0ny-m0us/CVE-2021-31166
 - https://github.com/Frankmock/CVE-2021-31166-detection-rules
+- https://github.com/corelight/CVE-2021-31166
+- https://github.com/zecopro/CVE-2021-31166
 ## CVE-2021-30657 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/osx/browser/osx_gatekeeper_bypass.rb
-## CVE-2021-30642 (1)
-- https://github.com/JamesGeee/CVE-2021-30642
-## CVE-2021-30502 (1)
-- https://github.com/JamesGeee/CVE-2021-30502
 ## CVE-2021-30481 (1)
 - https://github.com/floesen/CVE-2021-30481
 ## CVE-2021-30461 (4)
@@ -169,8 +149,6 @@
 - https://github.com/Aoyuh/cve-2021-3019
 - https://github.com/givemefivw/CVE-2021-3019
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-3019.yaml
-## CVE-2021-30165 (1)
-- https://github.com/JamesGeee/CVE-2021-30165
 ## CVE-2021-30151 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-30151.yaml
 ## CVE-2021-30150 (1)
@@ -179,24 +157,20 @@
 - https://github.com/orionhridoy/CVE-2021-30149
 ## CVE-2021-30146 (1)
 - https://github.com/Security-AVS/CVE-2021-30146
-## CVE-2021-30128 (3)
+## CVE-2021-30128 (2)
 - https://github.com/LioTree/CVE-2021-30128-EXP
 - https://github.com/r0ckysec/CVE-2021-30128
-- https://github.com/JamesGeee/CVE-2021-30128
 ## CVE-2021-30109 (1)
 - https://github.com/Hackdwerg/CVE-2021-30109
+## CVE-2021-3007 (1)
+- https://github.com/Vulnmachines/ZF3_CVE-2021-3007
 ## CVE-2021-30005 (1)
 - https://github.com/atorralba/CVE-2021-30005-POC
 ## CVE-2021-29627 (1)
 - https://github.com/raymontag/cve-2021-29627
-## CVE-2021-29495 (1)
-- https://github.com/JamesGeee/CVE-2021-29495
-## CVE-2021-29488 (1)
-- https://github.com/JamesGeee/CVE-2021-29488
 ## CVE-2021-29447 (1)
 - https://github.com/motikan2010/CVE-2021-29447
-## CVE-2021-29442 (2)
-- https://github.com/JamesGeee/CVE-2021-29442
+## CVE-2021-29442 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29442.yaml
 ## CVE-2021-29441 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29441.yaml
@@ -209,16 +183,6 @@
 - https://github.com/Security-AVS/CVE-2021-29267
 ## CVE-2021-29200 (1)
 - https://github.com/r0ckysec/CVE-2021-29200
-## CVE-2021-29142 (1)
-- https://github.com/JamesGeee/CVE-2021-29142
-## CVE-2021-29141 (1)
-- https://github.com/JamesGeee/CVE-2021-29141
-## CVE-2021-29140 (1)
-- https://github.com/JamesGeee/CVE-2021-29140
-## CVE-2021-29139 (1)
-- https://github.com/JamesGeee/CVE-2021-29139
-## CVE-2021-29138 (1)
-- https://github.com/JamesGeee/CVE-2021-29138
 ## CVE-2021-29133 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/post/linux/gather/haserl_read.rb
 ## CVE-2021-28937 (1)
@@ -231,20 +195,6 @@
 - https://github.com/shubham0d/CVE-2021-28312
 ## CVE-2021-28310 (1)
 - https://github.com/Rafael-Svechinskaya/IOC_for_CVE-2021-28310
-## CVE-2021-28271 (1)
-- https://github.com/JamesGeee/CVE-2021-28271
-## CVE-2021-28269 (1)
-- https://github.com/JamesGeee/CVE-2021-28269
-## CVE-2021-28168 (1)
-- https://github.com/JamesGeee/CVE-2021-28168
-## CVE-2021-28165 (1)
-- https://github.com/JamesGeee/CVE-2021-28165
-## CVE-2021-28164 (1)
-- https://github.com/JamesGeee/CVE-2021-28164
-## CVE-2021-28163 (1)
-- https://github.com/JamesGeee/CVE-2021-28163
-## CVE-2021-28125 (1)
-- https://github.com/JamesGeee/CVE-2021-28125
 ## CVE-2021-28073 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-28073.yaml
 ## CVE-2021-27963 (1)
@@ -261,10 +211,6 @@
 - https://github.com/samwcyo/CVE-2021-27651-PoC
 - https://github.com/Vulnmachines/CVE-2021-27651
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-27651.yaml
-## CVE-2021-27480 (1)
-- https://github.com/JamesGeee/CVE-2021-27480
-## CVE-2021-27437 (1)
-- https://github.com/JamesGeee/CVE-2021-27437
 ## CVE-2021-27404 (1)
 - https://github.com/bokanrb/CVE-2021-27404
 ## CVE-2021-27403 (1)
@@ -354,6 +300,9 @@
 - https://github.com/NagliNagli/CVE-2021-26832
 ## CVE-2021-26828 (1)
 - https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE
+## CVE-2021-26814 (2)
+- https://github.com/WickdDavid/CVE-2021-26814
+- https://github.com/CYS4srl/CVE-2021-26814
 ## CVE-2021-26758 (1)
 - https://www.exploit-db.com/raw/49556
 ## CVE-2021-26723 (1)
@@ -418,8 +367,6 @@
 - https://github.com/sourceincite/CVE-2021-24085
 ## CVE-2021-24027 (1)
 - https://github.com/CENSUS/whatsapp-mitd-mitm
-## CVE-2021-2321 (1)
-- https://github.com/JamesGeee/CVE-2021-2321
 ## CVE-2021-23132 (1)
 - https://github.com/HoangKien1020/CVE-2021-23132
 ## CVE-2021-22986 (13)
@@ -442,16 +389,10 @@
 ## CVE-2021-22873 (2)
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/revive-adserver-open-redirect-cve-2021-22873.yaml
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-22873.yaml
-## CVE-2021-22677 (1)
-- https://github.com/JamesGeee/CVE-2021-22677
-## CVE-2021-22660 (1)
-- https://github.com/JamesGeee/CVE-2021-22660
 ## CVE-2021-22652 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/advantech_iview_unauth_rce.rb
 ## CVE-2021-22502 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/microfocus_obr_cmd_injection.rb
-## CVE-2021-2222222 (1)
-- https://github.com/1151806933/cve-2021-2222222
 ## CVE-2021-22204 (3)
 - https://github.com/convisoappsec/CVE-2021-22204-exiftool
 - https://github.com/se162xg/CVE-2021-22204
@@ -513,16 +454,8 @@
 ## CVE-2021-21551 (2)
 - https://github.com/waldo-irc/CVE-2021-21551
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2021_21551_dbutil_memmove.rb
-## CVE-2021-21536 (1)
-- https://github.com/JamesGeee/CVE-2021-21536
-## CVE-2021-21535 (1)
-- https://github.com/JamesGeee/CVE-2021-21535
-## CVE-2021-21534 (1)
-- https://github.com/JamesGeee/CVE-2021-21534
 ## CVE-2021-21425 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/gravcms_exec.rb
-## CVE-2021-21419 (1)
-- https://github.com/JamesGeee/CVE-2021-21419
 ## CVE-2021-21402 (6)
 - https://github.com/MzzdToT/CVE-2021-21402
 - https://github.com/jiaocoll/CVE-2021-21402-Jellyfin
@@ -570,8 +503,6 @@
 - https://github.com/ZeusBox/CVE-2021-21017
 ## CVE-2021-21014 (1)
 - https://github.com/HoangKien1020/CVE-2021-21014
-## CVE-2021-20716 (1)
-- https://github.com/JamesGeee/CVE-2021-20716
 ## CVE-2021-2021 (1)
 - https://github.com/TheCryingGame/CVE-2021-2021good
 ## CVE-2021-20202 (1)
@@ -644,7 +575,7 @@
 - https://github.com/ggolawski/CVE-2020-9495
 ## CVE-2020-9490 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-9490.yaml
-## CVE-2020-9484 (16)
+## CVE-2020-9484 (17)
 - https://github.com/threedr3am/tomcat-cluster-session-sync-exp
 - https://github.com/masahiro331/CVE-2020-9484
 - https://github.com/IdealDreamLast/CVE-2020-9484
@@ -658,6 +589,7 @@
 - https://github.com/AssassinUKG/CVE-2020-9484
 - https://github.com/VICXOR/CVE-2020-9484
 - https://github.com/DXY0411/CVE-2020-9484
+- https://github.com/RepublicR0K/CVE-2020-9484
 - https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-9484_-_Apache_Tomcat_RCE_by_deserialization.sh
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/apache-tomcat-rce-cve-2020-9484.yaml
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-9484.yaml
@@ -1177,20 +1109,6 @@
 - https://www.exploit-db.com/raw/47871
 ## CVE-2020-5014 (1)
 - https://github.com/copethomas/datapower-redis-rce-exploit
-## CVE-2020-5013 (1)
-- https://github.com/JamesGeee/CVE-2020-5013
-## CVE-2020-4993 (1)
-- https://github.com/JamesGeee/CVE-2020-4993
-## CVE-2020-4979 (1)
-- https://github.com/JamesGeee/CVE-2020-4979
-## CVE-2020-4932 (1)
-- https://github.com/JamesGeee/CVE-2020-4932
-## CVE-2020-4929 (1)
-- https://github.com/JamesGeee/CVE-2020-4929
-## CVE-2020-4901 (1)
-- https://github.com/JamesGeee/CVE-2020-4901
-## CVE-2020-4883 (1)
-- https://github.com/JamesGeee/CVE-2020-4883
 ## CVE-2020-4463 (3)
 - https://github.com/Ibonok/CVE-2020-4463
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/ibm-maximo-xxe-cve-2020-4463.yaml
@@ -1231,14 +1149,14 @@
 - https://github.com/c0d3G33k/Safari-Address-Bar-Spoof-CVE-2020-3833-
 ## CVE-2020-3766 (1)
 - https://github.com/hessandrew/CVE-2020-3766_APSB20-12
-## CVE-2020-36326 (1)
-- https://github.com/JamesGeee/CVE-2020-36326
 ## CVE-2020-36188 (1)
 - https://github.com/Al1ex/CVE-2020-36188
 ## CVE-2020-36184 (1)
 - https://github.com/Al1ex/CVE-2020-36184
 ## CVE-2020-36179 (1)
 - https://github.com/Al1ex/CVE-2020-36179
+## CVE-2020-36112 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-36112.yaml
 ## CVE-2020-36109 (1)
 - https://github.com/tin-z/CVE-2020-36109-POC
 ## CVE-2020-36079 (1)
@@ -1459,9 +1377,8 @@
 - https://github.com/swzhouu/CVE-2020-27368
 ## CVE-2020-27358 (1)
 - https://github.com/sebastian-mora/cve-2020-27358-27359
-## CVE-2020-27223 (2)
+## CVE-2020-27223 (1)
 - https://github.com/motikan2010/CVE-2020-27223
-- https://github.com/JamesGeee/CVE-2020-27223
 ## CVE-2020-27199 (1)
 - https://github.com/9lyph/CVE-2020-27199
 ## CVE-2020-27194 (2)
@@ -1562,8 +1479,6 @@
 - https://github.com/Ko-kn3t/CVE-2020-25487
 ## CVE-2020-2546 (1)
 - https://github.com/hktalent/CVE_2020_2546
-## CVE-2020-25453 (1)
-- https://github.com/JamesGeee/CVE-2020-25453
 ## CVE-2020-25399 (1)
 - https://github.com/h3llraiser/CVE-2020-25399
 ## CVE-2020-25398 (1)
@@ -1671,8 +1586,6 @@
 - https://github.com/section-c/CVE-2020-2333
 ## CVE-2020-23160 (1)
 - https://github.com/Outpost24/Pyrescom-Termod-PoC
-## CVE-2020-23127 (1)
-- https://github.com/JamesGeee/CVE-2020-23127
 ## CVE-2020-22840 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-22840.yaml
 ## CVE-2020-2199 (1)
@@ -1750,18 +1663,6 @@
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/http/tomcat_ghostcat.rb
 ## CVE-2020-1937 (1)
 - https://github.com/shanika04/apache_kylin
-## CVE-2020-19114 (1)
-- https://github.com/JamesGeee/CVE-2020-19114
-## CVE-2020-19112 (1)
-- https://github.com/JamesGeee/CVE-2020-19112
-## CVE-2020-19110 (1)
-- https://github.com/JamesGeee/CVE-2020-19110
-## CVE-2020-19109 (1)
-- https://github.com/JamesGeee/CVE-2020-19109
-## CVE-2020-19108 (1)
-- https://github.com/JamesGeee/CVE-2020-19108
-## CVE-2020-19107 (1)
-- https://github.com/JamesGeee/CVE-2020-19107
 ## CVE-2020-1764 (1)
 - https://github.com/jpts/cve-2020-1764-poc
 ## CVE-2020-17531 (1)
@@ -1800,8 +1701,6 @@
 - https://github.com/murataydemir/CVE-2020-17518
 - https://github.com/rakjong/Flink-CVE-2020-17518-getshell
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-17518.yaml
-## CVE-2020-17517 (1)
-- https://github.com/JamesGeee/CVE-2020-17517
 ## CVE-2020-17506 (3)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/artica_proxy_auth_bypass_service_cmds_peform_command_injection.rb
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/artica-web-proxy-sqli-cve-2020-17506.yaml
@@ -2159,8 +2058,6 @@
 - https://github.com/mkelepce/CVE-2020-13996
 ## CVE-2020-13957 (1)
 - https://github.com/s-index/CVE-2020-13957
-## CVE-2020-13949 (1)
-- https://github.com/JamesGeee/CVE-2020-13949
 ## CVE-2020-13942 (8)
 - https://github.com/lp008/CVE-2020-13942
 - https://github.com/eugenebmx/CVE-2020-13942
@@ -2564,6 +2461,8 @@
 - https://github.com/zhzyker/CVE-2020-10204
 - https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-10204_-_Sonatype_Nexus_Repository_RCE.sh
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/nexus-repository-manager-rce-cve-2020-10204.yaml
+## CVE-2020-1020 (1)
+- https://github.com/mavillon1/CVE-2020-1020-Exploit
 ## CVE-2020-10199 (7)
 - https://github.com/wsfengfan/CVE-2020-10199-10204
 - https://github.com/jas502n/CVE-2020-10199
@@ -2585,8 +2484,6 @@
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-10148.yaml
 ## CVE-2020-10135 (1)
 - https://github.com/marcinguy/CVE-2020-10135-BIAS
-## CVE-2020-1 (1)
-- https://github.com/full-disclosure/FDEU-CVE-2020-1FC5
 ## CVE-2020-0976 (1)
 - https://github.com/ericzhong2010/GUI-Check-CVE-2020-0976
 ## CVE-2020-0910 (1)
@@ -3194,6 +3091,164 @@
 ## CVE-2019-6690 (2)
 - https://github.com/stigtsp/CVE-2019-6690-python-gnupg-vulnerability
 - https://github.com/brianwrf/CVE-2019-6690
+## CVE-2019-6545 (1)
+- https://www.exploit-db.com/raw/46342
+## CVE-2019-6543 (1)
+- https://www.exploit-db.com/raw/46342
+## CVE-2019-6498 (1)
+- https://www.exploit-db.com/raw/46215
+## CVE-2019-6487 (1)
+- https://github.com/afang5472/TP-Link-WDR-Router-Command-injection_POC
+## CVE-2019-6467 (1)
+- https://github.com/knqyf263/CVE-2019-6467
+## CVE-2019-6453 (3)
+- https://github.com/proofofcalc/cve-2019-6453-poc
+- https://github.com/andripwn/mIRC-CVE-2019-6453
+- https://www.exploit-db.com/raw/46392
+## CVE-2019-6447 (3)
+- https://github.com/fs0c131y/ESFileExplorerOpenPortVuln
+- https://github.com/SandaRuFdo/ES-File-Explorer-Open-Port-Vulnerability---CVE-2019-6447
+- https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/es_file_explorer_open_port.rb
+## CVE-2019-6446 (1)
+- https://github.com/RayScri/CVE-2019-6446
+## CVE-2019-6445 (1)
+- https://www.exploit-db.com/raw/46177
+## CVE-2019-6444 (1)
+- https://www.exploit-db.com/raw/46176
+## CVE-2019-6443 (1)
+- https://www.exploit-db.com/raw/46175
+## CVE-2019-6442 (1)
+- https://www.exploit-db.com/raw/46178
+## CVE-2019-6441 (1)
+- https://www.exploit-db.com/raw/46180
+## CVE-2019-6440 (1)
+- https://github.com/hexnone/CVE-2019-6440
+## CVE-2019-6340 (16)
+- https://github.com/g0rx/Drupal-SA-CORE-2019-003
+- https://github.com/knqyf263/CVE-2019-6340
+- https://github.com/DevDungeon/CVE-2019-6340-Drupal-8.6.9-REST-Auth-Bypass
+- https://github.com/oways/CVE-2019-6340
+- https://github.com/cved-sources/cve-2019-6340
+- https://github.com/d1vious/cve-2019-6340-bits
+- https://github.com/jas502n/CVE-2019-6340
+- https://github.com/ludy-dev/drupal8-REST-RCE
+- https://github.com/Kinesys/Kinesys-CVE-2019-6340
+- https://github.com/nobodyatall648/CVE-2019-6340
+- https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/drupal_restws_unserialize.rb
+- https://www.exploit-db.com/raw/46452
+- https://www.exploit-db.com/raw/46459
+- https://www.exploit-db.com/raw/46510
+- https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2019-6340_-_Drupal8_REST_RCE_SA-CORE-2019-003.disabled
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2019/CVE-2019-6340.yaml
+## CVE-2019-6329 (1)
+- https://github.com/ManhNDd/CVE-2019-6329
+## CVE-2019-6282 (1)
+- https://www.exploit-db.com/raw/46581
+## CVE-2019-6279 (1)
+- https://www.exploit-db.com/raw/46580
+## CVE-2019-6275 (1)
+- https://www.exploit-db.com/raw/46179
+## CVE-2019-6274 (1)
+- https://www.exploit-db.com/raw/46179
+## CVE-2019-6273 (1)
+- https://www.exploit-db.com/raw/46179
+## CVE-2019-6272 (1)
+- https://www.exploit-db.com/raw/46179
+## CVE-2019-6263 (2)
+- https://github.com/praveensutar/CVE-2019-6263-Joomla-POC
+- https://www.exploit-db.com/raw/46200
+## CVE-2019-6260 (1)
+- https://github.com/amboar/cve-2019-6260
+## CVE-2019-6249 (2)
+- https://github.com/NMTech0x90/CVE-2019-6249_Hucart-cms
+- https://www.exploit-db.com/raw/46149
+## CVE-2019-6225 (4)
+- https://github.com/fatgrass/OsirisJailbreak12
+- https://github.com/TrungNguyen1909/CVE-2019-6225-macOS
+- https://github.com/raystyle/jailbreak-iOS12
+- https://www.exploit-db.com/raw/46248
+## CVE-2019-6224 (1)
+- https://www.exploit-db.com/raw/46433
+## CVE-2019-6218 (1)
+- https://www.exploit-db.com/raw/46297
+## CVE-2019-6215 (1)
+- https://www.exploit-db.com/raw/46448
+## CVE-2019-6214 (1)
+- https://www.exploit-db.com/raw/46298
+## CVE-2019-6213 (1)
+- https://www.exploit-db.com/raw/46300
+## CVE-2019-6209 (1)
+- https://www.exploit-db.com/raw/46285
+## CVE-2019-6208 (1)
+- https://www.exploit-db.com/raw/46296
+## CVE-2019-6207 (3)
+- https://github.com/dothanthitiendiettiende/CVE-2019-6207
+- https://github.com/maldiohead/CVE-2019-6207
+- https://github.com/DimitriFourny/cve-2019-6207
+## CVE-2019-6205 (1)
+- https://www.exploit-db.com/raw/46299
+## CVE-2019-6203 (1)
+- https://github.com/qingxp9/CVE-2019-6203-PoC
+## CVE-2019-6116 (1)
+- https://www.exploit-db.com/raw/46242
+## CVE-2019-6112 (2)
+- https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/wordpress-xss-cve-2019-6112.yaml
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2019/CVE-2019-6112.yaml
+## CVE-2019-6111 (2)
+- https://github.com/53n7hu/SNP
+- https://www.exploit-db.com/raw/46193
+## CVE-2019-6110 (1)
+- https://www.exploit-db.com/raw/46193
+## CVE-2019-5893 (2)
+- https://github.com/EmreOvunc/OpenSource-ERP-SQL-Injection
+- https://www.exploit-db.com/raw/46118
+## CVE-2019-5825 (2)
+- https://github.com/timwr/CVE-2019-5825
+- https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/browser/chrome_array_map.rb
+## CVE-2019-5822 (1)
+- https://github.com/Silence-Rain/14-828_Exploitation_of_CVE-2019-5822
+## CVE-2019-5786 (2)
+- https://github.com/exodusintel/CVE-2019-5786
+- https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/browser/chrome_filereader_uaf.rb
+## CVE-2019-5782 (1)
+- https://github.com/CreatePhotonW/CVE-2019-5782_CVE-2019-13768
+## CVE-2019-5737 (1)
+- https://github.com/beelzebruh/cve-2019-5737
+## CVE-2019-5736 (24)
+- https://github.com/q3k/cve-2019-5736-poc
+- https://github.com/Frichetten/CVE-2019-5736-PoC
+- https://github.com/jakubkrawczyk/cve-2019-5736
+- https://github.com/jas502n/CVE-2019-5736
+- https://github.com/likescam/CVE-2019-5736
+- https://github.com/likescam/cve-2019-5736-poc
+- https://github.com/agppp/cve-2019-5736-poc
+- https://github.com/b3d3c/poc-cve-2019-5736
+- https://github.com/twistlock/RunC-CVE-2019-5736
+- https://github.com/yyqs2008/CVE-2019-5736-PoC-2
+- https://github.com/zyriuse75/CVE-2019-5736-PoC
+- https://github.com/stillan00b/CVE-2019-5736
+- https://github.com/milloni/cve-2019-5736-exp
+- https://github.com/panzouh/Docker-Runc-Exploit
+- https://github.com/RyanNgWH/CVE-2019-5736-POC
+- https://github.com/Lee-SungYoung/cve-2019-5736-study
+- https://github.com/chosam2/cve-2019-5736-poc
+- https://github.com/epsteina16/Docker-Escape-Miner
+- https://github.com/GiverOfGifts/CVE-2019-5736-Custom-Runtime
+- https://github.com/Billith/CVE-2019-5736-PoC
+- https://github.com/BBRathnayaka/POC-CVE-2019-5736
+- https://github.com/shen54/IT19172088
+- https://www.exploit-db.com/raw/46359
+- https://www.exploit-db.com/raw/46369
+## CVE-2019-5722 (1)
+- https://www.exploit-db.com/raw/46163
+## CVE-2019-5700 (1)
+- https://github.com/oscardagrach/CVE-2019-5700
+## CVE-2019-5645 (1)
+- https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/dos/http/metasploit_httphandler_dos.rb
+## CVE-2019-5630 (1)
+- https://github.com/rbeede/CVE-2019-5630
+## CVE-2019-5624 (1)
+- https://github.com/VoidSec/CVE-2019-5624
 
 
 [...and counting](https://raw.githubusercontent.com/ARPSyndicate/cvemon/master/data.json)
