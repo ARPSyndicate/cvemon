@@ -168,6 +168,8 @@
 - https://github.com/atorralba/CVE-2021-30005-POC
 ## CVE-2021-29627 (1)
 - https://github.com/raymontag/cve-2021-29627
+## CVE-2021-29622 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29622.yaml
 ## CVE-2021-29447 (1)
 - https://github.com/motikan2010/CVE-2021-29447
 ## CVE-2021-29442 (1)
@@ -187,8 +189,9 @@
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/post/linux/gather/haserl_read.rb
 ## CVE-2021-28937 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-28937.yaml
-## CVE-2021-28482 (1)
+## CVE-2021-28482 (2)
 - https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC
+- https://github.com/KevinWorst/CVE-2021-28482_Exploit
 ## CVE-2021-28480 (1)
 - https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480
 ## CVE-2021-28312 (1)
@@ -207,6 +210,8 @@
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-27905.yaml
 ## CVE-2021-27890 (1)
 - https://github.com/xiaopan233/Mybb-XSS_SQL_RCE-POC
+## CVE-2021-27850 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-27850.yaml
 ## CVE-2021-27651 (3)
 - https://github.com/samwcyo/CVE-2021-27651-PoC
 - https://github.com/Vulnmachines/CVE-2021-27651
@@ -393,9 +398,10 @@
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/advantech_iview_unauth_rce.rb
 ## CVE-2021-22502 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/microfocus_obr_cmd_injection.rb
-## CVE-2021-22204 (3)
+## CVE-2021-22204 (4)
 - https://github.com/convisoappsec/CVE-2021-22204-exiftool
 - https://github.com/se162xg/CVE-2021-22204
+- https://github.com/bilkoh/POC-CVE-2021-22204
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/fileformat/exiftool_djvu_ant_perl_injection.rb
 ## CVE-2021-22192 (2)
 - https://github.com/lyy289065406/CVE-2021-22192
@@ -451,8 +457,9 @@
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/vmware_vcenter_uploadova_rce.rb
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/vcenter-rce-cve-2021-21972-probe.yaml
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-21972.yaml
-## CVE-2021-21551 (2)
+## CVE-2021-21551 (3)
 - https://github.com/waldo-irc/CVE-2021-21551
+- https://github.com/ch3rn0byl/CVE-2021-21551
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2021_21551_dbutil_memmove.rb
 ## CVE-2021-21425 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/gravcms_exec.rb
@@ -969,7 +976,7 @@
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/sap/cve_2020_6207_solman_rs.rb
 ## CVE-2020-5903 (1)
 - https://github.com/ltvthang/CVE-2020-5903
-## CVE-2020-5902 (58)
+## CVE-2020-5902 (59)
 - https://github.com/dwisiswant0/CVE-2020-5902
 - https://github.com/aqhmal/CVE-2020-5902-Scanner
 - https://github.com/jas502n/CVE-2020-5902
@@ -1003,6 +1010,7 @@
 - https://github.com/renanhsilva/checkvulnCVE20205902
 - https://github.com/halencarjunior/f5scan
 - https://github.com/deepsecurity-pe/GoF5-CVE-2020-5902
+- https://github.com/Shu1L/CVE-2020-5902-fofa-scan
 - https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter
 - https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker
 - https://github.com/itsjeffersonli/CVE-2020-5902
@@ -1243,9 +1251,8 @@
 - https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-3187_-_Citrix_Unauthenticated_File_Deletion.sh
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/cisco-asa-path-traversal-cve-2020-3187.yaml
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-3187.yaml
-## CVE-2020-3161 (2)
+## CVE-2020-3161 (1)
 - https://github.com/abood05972/CVE-2020-3161
-- https://github.com/urRomulou/CVE-2020-3161
 ## CVE-2020-3153 (4)
 - https://github.com/shubham0d/CVE-2020-3153
 - https://github.com/raspberry-pie/CVE-2020-3153
@@ -1336,7 +1343,7 @@
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-27982.yaml
 ## CVE-2020-27976 (1)
 - https://github.com/k0rnh0li0/CVE-2020-27976
-## CVE-2020-27955 (14)
+## CVE-2020-27955 (15)
 - https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955
 - https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go
 - https://github.com/yhsung/cve-2020-27955-poc
@@ -1351,6 +1358,7 @@
 - https://github.com/exileddb/CVE-2020-27955
 - https://github.com/IanSmith123/CVE-2020-27955
 - https://github.com/qzyqzynb/CVE-2020-27955
+- https://github.com/nob0dy-3389/CVE-2020-27955
 ## CVE-2020-27950 (1)
 - https://github.com/synacktiv/CVE-2020-27950
 ## CVE-2020-27949 (1)
@@ -1843,11 +1851,12 @@
 - https://github.com/nccgroup/abstractshimmer
 ## CVE-2020-15228 (1)
 - https://github.com/guettli/fix-CVE-2020-15228
-## CVE-2020-15227 (4)
+## CVE-2020-15227 (5)
 - https://github.com/Langriklol/CVE-2020-15227
 - https://github.com/hu4wufu/CVE-2020-15227
 - https://github.com/filipsedivy/CVE-2020-15227
 - https://github.com/VottusCode/cve-2020-15227
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-15227.yaml
 ## CVE-2020-15169 (1)
 - https://github.com/glasses618/CVE-2020-15169
 ## CVE-2020-15148 (3)
@@ -2006,6 +2015,8 @@
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-14413.yaml
 ## CVE-2020-14386 (1)
 - https://github.com/cgwalters/cve-2020-14386
+## CVE-2020-14372 (1)
+- https://github.com/kukrimate/CVE-2020-14372
 ## CVE-2020-14368 (1)
 - https://github.com/codingchili/CVE-2020-14368
 ## CVE-2020-14364 (1)
@@ -2500,7 +2511,7 @@
 - https://github.com/5l1v3r1/CVE-2020-0799
 ## CVE-2020-0797 (1)
 - https://github.com/bonesg/CVE-2020-0797
-## CVE-2020-0796 (82)
+## CVE-2020-0796 (83)
 - https://github.com/k8gege/PyLadon
 - https://github.com/Aekras1a/CVE-2020-0796-PoC
 - https://github.com/technion/DisableSMBCompression
@@ -2571,6 +2582,7 @@
 - https://github.com/ORCA666/CVE-2020-0796
 - https://github.com/Kinesys/Kinesys-CVE-2020-0796
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2020_0796_smbghost.rb
+- https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/smb/cve_2020_0796_smbghost.rb
 - https://gitlab.com/darthploit/CVE-2020-0796-POC
 - https://gitlab.com/darthploit/CVE-2020-0796-POC
 - https://gitlab.com/darthploit/CVE-2020-0796-POC
@@ -3032,11 +3044,12 @@
 ## CVE-2019-7256 (2)
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/emerge-rce-cve-2019-7256.yaml
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2019/CVE-2019-7256.yaml
-## CVE-2019-7238 (5)
+## CVE-2019-7238 (6)
 - https://github.com/mpgn/CVE-2019-7238
 - https://github.com/jas502n/CVE-2019-7238
 - https://github.com/verctor/nexus_rce_CVE-2019-7238
 - https://github.com/magicming200/CVE-2019-7238_Nexus_RCE_Tool
+- https://github.com/smallpiggy/CVE-2019-7238
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/nexus-repository-manager-rce-cve-2019-7238.yaml
 ## CVE-2019-7219 (2)
 - https://github.com/verifysecurity/CVE-2019-7219
@@ -3243,12 +3256,6 @@
 - https://www.exploit-db.com/raw/46163
 ## CVE-2019-5700 (1)
 - https://github.com/oscardagrach/CVE-2019-5700
-## CVE-2019-5645 (1)
-- https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/dos/http/metasploit_httphandler_dos.rb
-## CVE-2019-5630 (1)
-- https://github.com/rbeede/CVE-2019-5630
-## CVE-2019-5624 (1)
-- https://github.com/VoidSec/CVE-2019-5624
 
 
 [...and counting](https://raw.githubusercontent.com/ARPSyndicate/cvemon/master/data.json)
