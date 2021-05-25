@@ -35346,6 +35346,9 @@
         "https://github.com/ari5ti/Janus-Vulnerability-CVE-2017-13156-Exploit-with-POC",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/android/local/janus.rb"
     ],
+    "CVE-2017-13208": [
+        "https://github.com/idanshechter/CVE-2017-13208-Scanner"
+    ],
     "CVE-2017-13209": [
         "https://www.exploit-db.com/raw/43513"
     ],
@@ -38495,6 +38498,7 @@
         "https://github.com/capt-meelo/Telewreck",
         "https://github.com/ictnamanh/CVE-2017-9248",
         "https://github.com/shacojx/dp",
+        "https://github.com/ZhenwarX/Telerik-CVE-2017-9248-PoC",
         "https://www.exploit-db.com/raw/43873"
     ],
     "CVE-2017-9258": [
@@ -42963,6 +42967,7 @@
         "https://github.com/www201001/https-github.com-iBearcat-CVE-2018-8174_EXP.git-",
         "https://github.com/delina1/CVE-2018-8174",
         "https://github.com/delina1/CVE-2018-8174_EXP",
+        "https://github.com/DarkFlameMaster-bit/CVE-2018-8174_EXP",
         "https://www.exploit-db.com/raw/44741",
         "https://gitlab.com/0x1/CVE-2018-8174",
         "https://gitlab.com/0x1/CVE-2018-8174"
@@ -45015,6 +45020,9 @@
     "CVE-2019-19204": [
         "https://github.com/ManhNDd/CVE-2019-19204",
         "https://github.com/tarantula-team/CVE-2019-19204"
+    ],
+    "CVE-2019-19208": [
+        "https://github.com/Hacker5preme/CVE-2019-19208-exploit"
     ],
     "CVE-2019-19231": [
         "https://github.com/hessandrew/CVE-2019-19231"
@@ -48117,7 +48125,8 @@
         "https://github.com/lorsanta/exploit-CVE-2020-28926"
     ],
     "CVE-2020-28948": [
-        "https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949"
+        "https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949",
+        "https://github.com/nopdata/cve-2020-28948"
     ],
     "CVE-2020-28949": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/fileformat/archive_tar_arb_file_write.rb"
@@ -49126,6 +49135,9 @@
     "CVE-2021-1782": [
         "https://github.com/synacktiv/CVE-2021-1782"
     ],
+    "CVE-2021-1905": [
+        "https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664"
+    ],
     "CVE-2021-1994": [
         "https://github.com/somatrasss/weblogic2021"
     ],
@@ -49283,7 +49295,8 @@
     ],
     "CVE-2021-22893": [
         "https://github.com/ZephrFish/CVE-2021-22893",
-        "https://github.com/Mad-robot/CVE-2021-22893"
+        "https://github.com/Mad-robot/CVE-2021-22893",
+        "https://github.com/r90tpass/cve-2021-22893"
     ],
     "CVE-2021-22986": [
         "https://github.com/dorkerdevil/CVE-2021-22986-Poc",
@@ -49446,7 +49459,8 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-26855.yaml"
     ],
     "CVE-2021-26857": [
-        "https://github.com/sirpedrotavares/Proxylogon-exploit"
+        "https://github.com/sirpedrotavares/Proxylogon-exploit",
+        "https://github.com/cryptolakk/ProxyLogon-Mass-RCE"
     ],
     "CVE-2021-26871": [
         "https://github.com/robotMD5/CVE-2021-26871_POC"
@@ -49570,7 +49584,8 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29442.yaml"
     ],
     "CVE-2021-29447": [
-        "https://github.com/motikan2010/CVE-2021-29447"
+        "https://github.com/motikan2010/CVE-2021-29447",
+        "https://github.com/Vulnmachines/wordpress_cve-2021-29447"
     ],
     "CVE-2021-29622": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29622.yaml"
@@ -49629,7 +49644,9 @@
         "https://github.com/An0ny-m0us/CVE-2021-31166",
         "https://github.com/Frankmock/CVE-2021-31166-detection-rules",
         "https://github.com/corelight/CVE-2021-31166",
-        "https://github.com/zecopro/CVE-2021-31166"
+        "https://github.com/zecopro/CVE-2021-31166",
+        "https://github.com/bgsilvait/WIn-CVE-2021-31166",
+        "https://github.com/Udyz/CVE-2021-31166"
     ],
     "CVE-2021-31184": [
         "https://github.com/waleedassar/CVE-2021-31184"
@@ -49743,6 +49760,9 @@
     "CVE-2021-31856": [
         "https://github.com/ssst0n3/CVE-2021-31856"
     ],
+    "CVE-2021-3222222": [
+        "https://github.com/r90tpass/CVE-2021-3222222"
+    ],
     "CVE-2021-3229": [
         "https://github.com/fullbbadda1208/CVE-2021-3229"
     ],
@@ -49751,6 +49771,9 @@
     ],
     "CVE-2021-3291": [
         "https://github.com/ImHades101/CVE-2021-3291"
+    ],
+    "CVE-2021-3310": [
+        "https://github.com/piffd0s/CVE-2021-3310"
     ],
     "CVE-2021-3317": [
         "https://github.com/Al1ex/CVE-2021-3317"
@@ -49785,6 +49808,9 @@
     ],
     "CVE-2021-6857": [
         "https://github.com/ZiHeny/CVE-2021-6857"
+    ],
+    "CVE-2021-8989898": [
+        "https://github.com/r90tpass/CVE-2021-8989898"
     ],
     "CVE-2021-9999": [
         "https://github.com/Reach-Z/CVE-2021-9999"

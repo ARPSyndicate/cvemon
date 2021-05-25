@@ -1,6 +1,8 @@
 # CVEMON - Just another project for monitoring public exploits for CVEs
 ## CVE-2021-9999 (1)
 - https://github.com/Reach-Z/CVE-2021-9999
+## CVE-2021-8989898 (1)
+- https://github.com/r90tpass/CVE-2021-8989898
 ## CVE-2021-6857 (1)
 - https://github.com/ZiHeny/CVE-2021-6857
 ## CVE-2021-3493 (5)
@@ -26,12 +28,16 @@
 - https://github.com/IthacaLabs/CVE-2021-3327
 ## CVE-2021-3317 (1)
 - https://github.com/Al1ex/CVE-2021-3317
+## CVE-2021-3310 (1)
+- https://github.com/piffd0s/CVE-2021-3310
 ## CVE-2021-3291 (1)
 - https://github.com/ImHades101/CVE-2021-3291
 ## CVE-2021-32471 (1)
 - https://github.com/intrinsic-propensity/turing-machine
 ## CVE-2021-3229 (1)
 - https://github.com/fullbbadda1208/CVE-2021-3229
+## CVE-2021-3222222 (1)
+- https://github.com/r90tpass/CVE-2021-3222222
 ## CVE-2021-31856 (1)
 - https://github.com/ssst0n3/CVE-2021-31856
 ## CVE-2021-31762 (2)
@@ -126,12 +132,14 @@
 - https://github.com/roughb8722/CVE-2021-3122-Details
 ## CVE-2021-31184 (1)
 - https://github.com/waleedassar/CVE-2021-31184
-## CVE-2021-31166 (5)
+## CVE-2021-31166 (7)
 - https://github.com/0vercl0k/CVE-2021-31166
 - https://github.com/An0ny-m0us/CVE-2021-31166
 - https://github.com/Frankmock/CVE-2021-31166-detection-rules
 - https://github.com/corelight/CVE-2021-31166
 - https://github.com/zecopro/CVE-2021-31166
+- https://github.com/bgsilvait/WIn-CVE-2021-31166
+- https://github.com/Udyz/CVE-2021-31166
 ## CVE-2021-30657 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/osx/browser/osx_gatekeeper_bypass.rb
 ## CVE-2021-30481 (1)
@@ -170,8 +178,9 @@
 - https://github.com/raymontag/cve-2021-29627
 ## CVE-2021-29622 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29622.yaml
-## CVE-2021-29447 (1)
+## CVE-2021-29447 (2)
 - https://github.com/motikan2010/CVE-2021-29447
+- https://github.com/Vulnmachines/wordpress_cve-2021-29447
 ## CVE-2021-29442 (1)
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29442.yaml
 ## CVE-2021-29441 (1)
@@ -255,8 +264,9 @@
 - https://github.com/songjianyang/CVE-2021-26882
 ## CVE-2021-26871 (1)
 - https://github.com/robotMD5/CVE-2021-26871_POC
-## CVE-2021-26857 (1)
+## CVE-2021-26857 (2)
 - https://github.com/sirpedrotavares/Proxylogon-exploit
+- https://github.com/cryptolakk/ProxyLogon-Mass-RCE
 ## CVE-2021-26855 (43)
 - https://github.com/sgnls/exchange-0days-202103
 - https://github.com/soteria-security/HAFNIUM-IOC
@@ -388,9 +398,10 @@
 - https://github.com/nice0e3/CVE-2021-22986_F5_BIG_IP_GUI_Exploit
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/f5_icontrol_rest_ssrf_rce.rb
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-22986.yaml
-## CVE-2021-22893 (2)
+## CVE-2021-22893 (3)
 - https://github.com/ZephrFish/CVE-2021-22893
 - https://github.com/Mad-robot/CVE-2021-22893
+- https://github.com/r90tpass/cve-2021-22893
 ## CVE-2021-22873 (2)
 - https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/revive-adserver-open-redirect-cve-2021-22873.yaml
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-22873.yaml
@@ -516,6 +527,8 @@
 - https://github.com/Jarry1sec/CVE-2021-20202
 ## CVE-2021-1994 (1)
 - https://github.com/somatrasss/weblogic2021
+## CVE-2021-1905 (1)
+- https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664
 ## CVE-2021-1782 (1)
 - https://github.com/synacktiv/CVE-2021-1782
 ## CVE-2021-1732 (7)
@@ -1285,8 +1298,9 @@
 - https://github.com/seqred-s-a/cve-2020-29007
 ## CVE-2020-28949 (1)
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/fileformat/archive_tar_arb_file_write.rb
-## CVE-2020-28948 (1)
+## CVE-2020-28948 (2)
 - https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949
+- https://github.com/nopdata/cve-2020-28948
 ## CVE-2020-28926 (1)
 - https://github.com/lorsanta/exploit-CVE-2020-28926
 ## CVE-2020-28874 (1)
@@ -3225,37 +3239,6 @@
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/browser/chrome_filereader_uaf.rb
 ## CVE-2019-5782 (1)
 - https://github.com/CreatePhotonW/CVE-2019-5782_CVE-2019-13768
-## CVE-2019-5737 (1)
-- https://github.com/beelzebruh/cve-2019-5737
-## CVE-2019-5736 (24)
-- https://github.com/q3k/cve-2019-5736-poc
-- https://github.com/Frichetten/CVE-2019-5736-PoC
-- https://github.com/jakubkrawczyk/cve-2019-5736
-- https://github.com/jas502n/CVE-2019-5736
-- https://github.com/likescam/CVE-2019-5736
-- https://github.com/likescam/cve-2019-5736-poc
-- https://github.com/agppp/cve-2019-5736-poc
-- https://github.com/b3d3c/poc-cve-2019-5736
-- https://github.com/twistlock/RunC-CVE-2019-5736
-- https://github.com/yyqs2008/CVE-2019-5736-PoC-2
-- https://github.com/zyriuse75/CVE-2019-5736-PoC
-- https://github.com/stillan00b/CVE-2019-5736
-- https://github.com/milloni/cve-2019-5736-exp
-- https://github.com/panzouh/Docker-Runc-Exploit
-- https://github.com/RyanNgWH/CVE-2019-5736-POC
-- https://github.com/Lee-SungYoung/cve-2019-5736-study
-- https://github.com/chosam2/cve-2019-5736-poc
-- https://github.com/epsteina16/Docker-Escape-Miner
-- https://github.com/GiverOfGifts/CVE-2019-5736-Custom-Runtime
-- https://github.com/Billith/CVE-2019-5736-PoC
-- https://github.com/BBRathnayaka/POC-CVE-2019-5736
-- https://github.com/shen54/IT19172088
-- https://www.exploit-db.com/raw/46359
-- https://www.exploit-db.com/raw/46369
-## CVE-2019-5722 (1)
-- https://www.exploit-db.com/raw/46163
-## CVE-2019-5700 (1)
-- https://github.com/oscardagrach/CVE-2019-5700
 
 
 [...and counting](https://raw.githubusercontent.com/ARPSyndicate/cvemon/master/data.json)
