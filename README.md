@@ -404,6 +404,7 @@
 - https://sourceware.org/bugzilla/show_bug.cgi?id=27896
 ## CVE-2021-33570 (5)
 - https://github.com/Tridentsec-io/postbird
+- https://tridentsec.io/blogs/postbird-cve-2021-33570/
 - https://github.com/Paxa/postbird/issues/134
 - https://github.com/Paxa/postbird/issues/132
 - https://github.com/Paxa/postbird/issues/133
