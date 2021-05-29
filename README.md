@@ -46,6 +46,8 @@
 - https://bugzilla.redhat.com/show_bug.cgi?id=1954232
 - https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/QVM4UJ3376I6ZVOYMHBNX4GY3NIV52WV/
 - https://lists.debian.org/debian-lts-announce/2021/05/msg00008.html
+## CVE-2021-3514 (1)
+- https://github.com/389ds/389-ds-base/issues/4711
 ## CVE-2021-3512 (2)
 - https://jvn.jp/en/vu/JVNVU99235714/index.html
 - https://www.buffalo.jp/news/detail/20210427-01.html
@@ -61,8 +63,9 @@
 ## CVE-2021-3508 (2)
 - https://bugzilla.redhat.com/show_bug.cgi?id=1951198
 - https://github.com/enferex/pdfresurrect/issues/17
-## CVE-2021-3507 (1)
+## CVE-2021-3507 (2)
 - https://bugzilla.redhat.com/show_bug.cgi?id=1951118
+- https://security.netapp.com/advisory/ntap-20210528-0005/
 ## CVE-2021-3506 (4)
 - https://www.mail-archive.com/linux-kernel@vger.kernel.org/msg2520013.html
 - https://www.openwall.com/lists/oss-security/2021/03/28/2
@@ -378,6 +381,19 @@
 - https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-3374.yaml
 - https://github.com/colemanjp/shinyserver-directory-traversal-source-code-leak
 - https://blog.rstudio.com/2021/01/13/shiny-server-1-5-16-update/
+## CVE-2021-33623 (2)
+- https://www.npmjs.com/package/trim-newlines
+- https://github.com/sindresorhus/trim-newlines/releases/tag/v4.0.1
+## CVE-2021-33620 (3)
+- https://github.com/squid-cache/squid/security/advisories/GHSA-572g-rvwr-6c7f
+- http://www.squid-cache.org/Versions/v4/changesets/squid-4-1e05a85bd28c22c9ca5d3ac9f5e86d6269ec0a8c.patch
+- http://www.squid-cache.org/Versions/v5/changesets/squid-5-8af775ed98bfd610f9ce762fe177e01b2675588c.patch
+## CVE-2021-33591 (1)
+- https://cve.naver.com/detail/cve-2021-33591
+## CVE-2021-33590 (1)
+- https://github.com/labapart/gattlib/issues/219
+## CVE-2021-33587 (1)
+- https://github.com/fb55/css-what/releases/tag/v5.0.1
 ## CVE-2021-33586 (2)
 - https://docs.inspircd.org/security/2021-01/
 - https://github.com/inspircd/inspircd/commit/4350a11c663b0d75f8119743bffb7736d87abd4d
@@ -386,12 +402,14 @@
 - https://github.com/PixarAnimationStudios/ruby-jss/blob/e6d48dd8c77f9275c76787d60d3472615fcd9b77/CHANGES.md#160---2021-05-24
 ## CVE-2021-33574 (1)
 - https://sourceware.org/bugzilla/show_bug.cgi?id=27896
-## CVE-2021-33570 (4)
+## CVE-2021-33570 (5)
 - https://github.com/Tridentsec-io/postbird
 - https://github.com/Paxa/postbird/issues/134
 - https://github.com/Paxa/postbird/issues/132
 - https://github.com/Paxa/postbird/issues/133
-## CVE-2021-33564 (1)
+- http://packetstormsecurity.com/files/162831/Postbird-0.8.4-Cross-Site-Scripting-Local-File-Inclusion.html
+## CVE-2021-33564 (2)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-33564.yaml
 - https://github.com/mlr0p/CVE-2021-33564
 ## CVE-2021-33563 (2)
 - https://github.com/koel/koel/releases/tag/v5.1.4
@@ -404,8 +422,10 @@
 - https://www.exploit-db.com/exploits/49901
 - https://github.com/shopizer-ecommerce/shopizer/compare/2.16.0...2.17.0
 - https://github.com/shopizer-ecommerce/shopizer/commit/197f8c78c8f673b957e41ca2c823afc654c19271
-## CVE-2021-33558 (1)
+## CVE-2021-33558 (3)
 - https://github.com/mdanzaruddin/CVE-2021-33558.
+- https://github.com/mdanzaruddin/CVE-2021-33558.
+- https://sourceforge.net/projects/boa/files/boa/0.94.13/
 ## CVE-2021-3355 (4)
 - https://github.com/eddy8/LightCMS/issues/18
 - http://packetstormsecurity.com/files/161562/LightCMS-1.3.4-Cross-Site-Scripting.html
@@ -527,9 +547,14 @@
 - https://files.eprints.org/2548/
 ## CVE-2021-3341 (1)
 - https://clients.dh2i.com/Support/Article.aspx?ID=2963454
+## CVE-2021-33408 (1)
+- https://www.abinitio.com/en/security-advisories/ab-2021-001/
 ## CVE-2021-3340 (2)
 - https://sourceforge.net/p/wikindx/news/2021/01/wikindx-v641-released/
 - https://sourceforge.net/projects/wikindx/
+## CVE-2021-33394 (2)
+- https://github.com/cubecart/v6/commit/aac7b3a13a43e302d91f94a120417b2fda737d0f
+- https://github.com/xoffense/POC/blob/main/Session%20Fixation%20in%20Cubecart%206.4.2.md
 ## CVE-2021-3339 (2)
 - https://4sightwebsite.azurewebsites.net/mf_releaseNotes
 - https://appsource.microsoft.com/en-us/product/web-apps/acctech-systems-pty-ltd.modernflow-saas?tab=overview
@@ -569,6 +594,8 @@
 ## CVE-2021-33204 (2)
 - https://github.com/pgpartman/pg_partman/compare/v4.5.0...v4.5.1
 - https://github.com/pgpartman/pg_partman/commit/0b6565ad378c358f8a6cd1d48ddc482eb7f854d3
+## CVE-2021-33200 (1)
+- https://www.openwall.com/lists/oss-security/2021/05/27/1
 ## CVE-2021-3320 (1)
 - http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-27r3-rxch-2hm7
 ## CVE-2021-33194 (1)
@@ -748,6 +775,21 @@
 - https://github.com/pressbooks/pressbooks/pull/2072
 - https://www.gosecure.net/blog/2021/02/16/cve-2021-3271-pressbooks-stored-cross-site-scripting-proof-of-concept/
 - https://github.com/pressbooks/pressbooks
+## CVE-2021-32646 (2)
+- https://github.com/Dav-Git/Dav-Cogs/security/advisories/GHSA-3f73-8j6q-28v8
+- https://github.com/Dav-Git/Dav-Cogs/commit/fbe2ae8ec851a2e9e3e2370db3b812f268e8c8cb
+## CVE-2021-32645 (4)
+- https://github.com/tenancy/multi-tenant/security/advisories/GHSA-4r8q-gv9j-3xx6
+- https://packagist.org/packages/hyn/multi-tenant
+- https://webmasters.googleblog.com/2009/01/open-redirect-urls-is-your-site-being.html
+- https://github.com/tenancy/multi-tenant/commit/9c837a21bccce9bcaeb90033ef200d84f0d9e164
+## CVE-2021-32643 (3)
+- https://github.com/http4s/http4s/security/advisories/GHSA-6h7w-fc84-x7p6
+- https://github.com/http4s/http4s/commit/52e1890665410b4385e37b96bc49c5e3c708e4e9
+- https://mvnrepository.com/artifact/org.http4s/http4s-core
+## CVE-2021-32642 (2)
+- https://www.usenix.org/conference/usenixsecurity21/presentation/jeitner
+- https://github.com/radsecproxy/radsecproxy/security/advisories/GHSA-56gw-9rj9-55rc
 ## CVE-2021-32640 (2)
 - https://github.com/websockets/ws/security/advisories/GHSA-6fc8-4gx4-v693
 - https://github.com/websockets/ws/commit/00c425ec77993773d823f018f64a5c44e17023ff
@@ -757,6 +799,11 @@
 - https://www.netmeister.org/blog/passing-passwords.html
 - https://github.com/github/codeql-action/commit/88714e3a60e72ec53caa0e6a203652ee1f3fb1db
 - https://github.com/github/codeql-action/releases/tag/codeql-bundle-20210304
+## CVE-2021-32637 (2)
+- https://github.com/authelia/authelia/security/advisories/GHSA-68wm-pfjf-wqp6
+- https://github.com/authelia/authelia/commit/c62dbd43d6e69ae81530e7c4f8763857f8ff1dda
+## CVE-2021-32635 (1)
+- https://github.com/sylabs/singularity/security/advisories/GHSA-5mv9-q7fq-9394
 ## CVE-2021-32634 (2)
 - https://github.com/NationalSecurityAgency/emissary/security/advisories/GHSA-m5qf-gfmp-7638
 - https://github.com/NationalSecurityAgency/emissary/commit/40260b1ec1f76cc92361702cc14fa1e4388e19d7
@@ -783,12 +830,22 @@
 ## CVE-2021-32622 (2)
 - https://github.com/matrix-org/matrix-react-sdk/pull/5981
 - https://github.com/matrix-org/matrix-react-sdk/security/advisories/GHSA-8796-gc9j-63rv
+## CVE-2021-32621 (1)
+- https://github.com/xwiki/xwiki-platform/security/advisories/GHSA-h353-hc43-95vc
+## CVE-2021-32620 (2)
+- https://jira.xwiki.org/browse/XWIKI-17942
+- https://github.com/xwiki/xwiki-platform/security/advisories/GHSA-76mp-659p-rw65
+## CVE-2021-32619 (1)
+- https://github.com/denoland/deno/security/advisories/GHSA-xpwj-7v8q-mcgj
 ## CVE-2021-32618 (2)
 - https://github.com/Flask-Middleware/flask-security/issues/486
 - https://github.com/Flask-Middleware/flask-security/security/advisories/GHSA-6qmf-fj6m-686c
 ## CVE-2021-32617 (2)
 - https://github.com/Exiv2/exiv2/pull/1657
 - https://github.com/Exiv2/exiv2/security/advisories/GHSA-w8mv-g8qq-36mj
+## CVE-2021-32616 (2)
+- https://github.com/onedotprojects/cdn/security/advisories/GHSA-g5c4-48rw-hjgh
+- https://github.com/onedotprojects/cdn/commit/f88a2730fa50fc2c2aeab09011f6f142fd90ec25
 ## CVE-2021-32615 (2)
 - https://github.com/Piwigo/Piwigo/issues/1410
 - https://github.com/Piwigo/Piwigo/commit/2ce1e5952238eba0fe5c5d6537ebdc76cb970b52
@@ -803,7 +860,7 @@
 - https://github.com/smartstore/SmartStoreNET/commit/ae03d45e23734555a2aef0b0c3d33c21e076c20f
 ## CVE-2021-32607 (1)
 - https://github.com/smartstore/SmartStoreNET/commit/5b4e60ae7124df0898975cb8f994f9f23db1fae3
-## CVE-2021-32606 (7)
+## CVE-2021-32606 (8)
 - https://www.openwall.com/lists/oss-security/2021/05/11/16
 - http://www.openwall.com/lists/oss-security/2021/05/12/1
 - http://www.openwall.com/lists/oss-security/2021/05/13/2
@@ -811,6 +868,7 @@
 - https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/HD3NJBG25AADVGPRC63RX2JOQBMPSWK4/
 - https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/GI7Z7UBWBGD3ABNIL2DC7RQDCGA4UVQW/
 - https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/73D53S4IZFPFQMRABMXXLW4AJK3EULDX/
+- http://www.openwall.com/lists/oss-security/2021/05/28/1
 ## CVE-2021-32605 (2)
 - http://www.zzzcms.com/a/news/31_282_1.html
 - https://srcincite.io/advisories/src-2021-0015/
@@ -842,6 +900,16 @@
 - https://www.brzozowski.io/web-applications/2021/05/11/the-insecure-story-of-octoprint.html
 ## CVE-2021-32544 (1)
 - https://www.twcert.org.tw/tw/cp-132-4719-e298a-1.html
+## CVE-2021-32543 (1)
+- https://www.twcert.org.tw/tw/cp-132-4759-92eab-1.html
+## CVE-2021-32542 (1)
+- https://www.twcert.org.tw/tw/cp-132-4758-82b05-1.html
+## CVE-2021-32541 (1)
+- https://www.twcert.org.tw/tw/cp-132-4757-893eb-1.html
+## CVE-2021-32540 (1)
+- https://www.twcert.org.tw/tw/cp-132-4756-981be-1.html
+## CVE-2021-32539 (1)
+- https://www.twcert.org.tw/tw/cp-132-4755-bd590-1.html
 ## CVE-2021-3252 (3)
 - https://twitter.com/Kevin2600/status/1351189347501023238
 - https://us-cert.cisa.gov/ics/alerts/ICS-ALERT-15-224-01
@@ -855,6 +923,12 @@
 ## CVE-2021-32470 (2)
 - https://github.com/craftcms/cms/blob/develop/CHANGELOG.md#3613---2021-05-04
 - https://github.com/craftcms/cms/commit/f9378aa154b5f9b64bed3d59cce0c4a8184bf5e6
+## CVE-2021-32459 (2)
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1241
+- https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1241
+## CVE-2021-32458 (2)
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1231
+- https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1231
 ## CVE-2021-32457 (2)
 - https://talosintelligence.com/vulnerability_reports/TALOS-2021-1230
 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1230
@@ -1239,6 +1313,12 @@
 - http://www.openwall.com/lists/oss-security/2021/01/27/3
 - https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/DXGWXFO77HBCD3VYEIYHHYU33LYWWWNQ/
 - https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/P2OMLQKAOHPYQA4GI7ZUO6UKCPUHLYO7/
+## CVE-2021-31808 (2)
+- https://github.com/squid-cache/squid/security/advisories/GHSA-pxwq-f3qr-w2xf
+- http://www.squid-cache.org/Versions/v4/changesets/squid-4-e7cf864f938f24eea8af0692c04d16790983c823.patch
+## CVE-2021-31806 (2)
+- https://github.com/squid-cache/squid/security/advisories/GHSA-pxwq-f3qr-w2xf
+- http://www.squid-cache.org/Versions/v4/changesets/squid-4-e7cf864f938f24eea8af0692c04d16790983c823.patch
 ## CVE-2021-31804 (1)
 - https://github.com/leozide/leocad/issues/645
 ## CVE-2021-31803 (1)
@@ -1571,11 +1651,20 @@
 - https://sec-consult.com/vulnerability-lab/advisory/reflected-xss-sis-infromatik-rewe-go-cve-2021-31537/
 - http://seclists.org/fulldisclosure/2021/May/20
 - https://sisinformatik.com/rewe-go/
+## CVE-2021-31535 (5)
+- https://unparalleled.eu/blog/2021/20210518-using-xterm-to-navigate-the-huge-color-space/
+- https://unparalleled.eu/publications/2021/advisory-unpar-2021-1.txt
+- https://lists.freedesktop.org/archives/xorg/
+- https://www.openwall.com/lists/oss-security/2021/05/18/2
+- https://www.openwall.com/lists/oss-security/2021/05/18/3
 ## CVE-2021-31532 (2)
 - https://oxide.computer/blog/lpc55/
 - https://www.nxp.com
 ## CVE-2021-3153 (1)
 - https://discuss.hashicorp.com/t/hcsec-2021-06-terraform-enterprise-organization-level-mfa-requirement-was-not-enforced/22401
+## CVE-2021-31525 (2)
+- https://github.com/golang/go/issues/45710
+- https://groups.google.com/g/golang-announce/c/cu9SP4eSXMc
 ## CVE-2021-31523 (2)
 - https://www.openwall.com/lists/oss-security/2021/04/17/1
 - http://www.openwall.com/lists/oss-security/2021/04/21/3
@@ -2144,6 +2233,15 @@
 ## CVE-2021-31158 (2)
 - https://www.couchbase.com/resources/security#SecurityAlerts
 - https://docs.couchbase.com/server/current/release-notes/relnotes.html
+## CVE-2021-31155 (2)
+- https://gitlab.com/edneville/please/-/tree/master/src/bin
+- https://www.openwall.com/lists/oss-security/2021/05/18/1
+## CVE-2021-31154 (2)
+- https://gitlab.com/edneville/please/-/tree/master/src/bin
+- https://www.openwall.com/lists/oss-security/2021/05/18/1
+## CVE-2021-31153 (2)
+- http://www.openwall.com/lists/oss-security/2021/05/18/1
+- https://gitlab.com/edneville/please/-/tree/master/src/bin
 ## CVE-2021-31152 (2)
 - https://www.youtube.com/watch?v=zN3DVrcu6Eg
 - http://packetstormsecurity.com/files/162258/Multilaser-Router-RE018-AC1200-Cross-Site-Request-Forgery.html
@@ -2180,10 +2278,11 @@
 - https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/osx/browser/osx_gatekeeper_bypass.rb
 ## CVE-2021-30642 (1)
 - https://support.broadcom.com/security-advisory/content/security-advisories/0/SYMSA17969
-## CVE-2021-30638 (3)
+## CVE-2021-30638 (4)
 - https://lists.apache.org/thread.html/r37dab61fc7f7088d4311e7f995ef4117d58d86a675f0256caa6991eb%40%3Cusers.tapestry.apache.org%3E
 - http://www.openwall.com/lists/oss-security/2021/04/27/3
 - https://www.zerodayinitiative.com/advisories/ZDI-21-491/
+- https://security.netapp.com/advisory/ntap-20210528-0004/
 ## CVE-2021-30637 (2)
 - https://github.com/danpros/htmly/issues/456
 - http://packetstormsecurity.com/files/162195/htmly-2.8.0-Cross-Site-Scripting.html
@@ -2267,6 +2366,12 @@
 - https://bugzilla.redhat.com/show_bug.cgi?id=1947436
 ## CVE-2021-30469 (1)
 - https://bugzilla.redhat.com/show_bug.cgi?id=1947433
+## CVE-2021-30465 (5)
+- https://github.com/opencontainers/runc/security/advisories/GHSA-c3xm-pvg7-gh7r
+- https://github.com/opencontainers/runc/releases
+- http://www.openwall.com/lists/oss-security/2021/05/19/2
+- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/4HOARVIT47RULTTFWAU7XBG4WY6TDDHV/
+- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/35ZW6NBZSBH5PWIT7JU4HXOXGFVDCOHH/
 ## CVE-2021-30464 (2)
 - https://www.omicronenergy.com/download/file/e81f23250097e7d5e1071dfbdb7f16d2/
 - https://www.omicronenergy.com/en/support/product-security/
@@ -2916,6 +3021,10 @@
 - https://sec-consult.com/vulnerability-lab/advisory/arbitrary-file-upload-and-bypassing-htaccess-rules-in-monospace-directus-headless-cms/
 - https://hub.docker.com/layers/directus/directus/v8.8.2-apache/images/sha256-d9898b6442b0150c3c377b50e706757f35d2d563bd82ddaf97f3ae4ba450a6e6?context=explore
 - http://packetstormsecurity.com/files/162118/Monospace-Directus-Headless-CMS-File-Upload-Rule-Bypass.html
+## CVE-2021-29629 (1)
+- https://security.FreeBSD.org/advisories/FreeBSD-SA-21:12.libradius.asc
+## CVE-2021-29628 (1)
+- https://security.FreeBSD.org/advisories/FreeBSD-SA-21:11.smap.asc
 ## CVE-2021-29627 (3)
 - https://github.com/raymontag/cve-2021-29627
 - https://security.FreeBSD.org/advisories/FreeBSD-SA-21:09.accept_filter.asc
@@ -3295,10 +3404,14 @@
 ## CVE-2021-29508 (2)
 - https://www.nuget.org/packages/Wire/
 - https://github.com/AsynkronIT/Wire/security/advisories/GHSA-hpw7-3vq3-mmv6
+## CVE-2021-29507 (1)
+- https://github.com/GENIVI/dlt-daemon/security/advisories/GHSA-7cqp-2hqj-mh3f
 ## CVE-2021-29506 (3)
 - https://github.com/graphhopper/graphhopper/commit/eb189be1fa7443ebf4ae881e737a18f818c95f41
 - https://github.com/graphhopper/graphhopper/security/advisories/GHSA-hf44-3mx6-vhhw
 - https://github.com/graphhopper/graphhopper/pull/2304
+## CVE-2021-29505 (1)
+- https://github.com/x-stream/xstream/security/advisories/GHSA-7chv-rrw6-w6fc
 ## CVE-2021-29503 (3)
 - https://github.com/hedgedoc/hedgedoc/commit/01dad5821ee28377ebe640c6c72c3e0bb0d51ea7
 - https://github.com/hedgedoc/hedgedoc/security/advisories/GHSA-gjg7-4j2h-94fq
@@ -3315,6 +3428,8 @@
 - https://github.com/nim-lang/security/security/advisories/GHSA-9vqv-2jj9-7mqr
 ## CVE-2021-29493 (1)
 - https://github.com/kennnyshiwa/kennnyshiwa-cogs/security/advisories/GHSA-f4j2-2cwr-h473
+## CVE-2021-29492 (1)
+- https://github.com/envoyproxy/envoy/security/advisories/GHSA-4987-27fx-x6cf
 ## CVE-2021-29491 (1)
 - https://github.com/adaltas/node-mixme/security/advisories/GHSA-79jw-6wg7-r9g4
 ## CVE-2021-29490 (1)
@@ -3421,173 +3536,6 @@
 - https://github.com/Exiv2/exiv2/issues/1530
 - https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/2XQT5F5IINTDYDAFGVGQZ7PMMLG7I5ZZ/
 - https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/P2A5GMJEXQ5Q76JK6F6VKK5JYCLVFGKN/
-## CVE-2021-29457 (5)
-- https://github.com/Exiv2/exiv2/issues/1529
-- https://github.com/Exiv2/exiv2/pull/1534
-- https://github.com/Exiv2/exiv2/security/advisories/GHSA-v74w-h496-cgqm
-- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/2XQT5F5IINTDYDAFGVGQZ7PMMLG7I5ZZ/
-- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/P2A5GMJEXQ5Q76JK6F6VKK5JYCLVFGKN/
-## CVE-2021-29456 (1)
-- https://github.com/authelia/authelia/security/advisories/GHSA-36f2-fcrx-fp4j
-## CVE-2021-29455 (3)
-- https://github.com/grassrootza/grassroot-platform/
-- https://github.com/grassrootza/grassroot-platform/commit/a2e6e885f8183a066d938cf909fd813a7af7d67f
-- https://github.com/grassrootza/grassroot-platform/security/advisories/GHSA-f65w-6xw8-6734
-## CVE-2021-29453 (3)
-- https://hub.docker.com/r/turt2live/matrix-media-repo/tags?page=1&ordering=last_updated
-- https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.7
-- https://github.com/turt2live/matrix-media-repo/security/advisories/GHSA-j889-h476-hh9h
-## CVE-2021-29452 (2)
-- https://www.npmjs.com/package/@curveball/a12n-server
-- https://github.com/curveball/a12n-server/security/advisories/GHSA-8hw9-22v6-9jr9
-## CVE-2021-29451 (3)
-- https://mvnrepository.com/artifact/com.manydesigns/portofino
-- https://github.com/ManyDesigns/Portofino/security/advisories/GHSA-6g3c-2mh5-7q6x
-- https://github.com/ManyDesigns/Portofino/commit/8c754a0ad234555e813dcbf9e57d637f9f23d8fb
-## CVE-2021-29450 (4)
-- https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-pmmh-2f36-wvhq
-- https://wordpress.org/news/category/security/
-- https://lists.debian.org/debian-lts-announce/2021/04/msg00017.html
-- https://www.debian.org/security/2021/dsa-4896
-## CVE-2021-29449 (2)
-- https://github.com/pi-hole/pi-hole/security/advisories/GHSA-3597-244c-wrpj
-- https://www.compass-security.com/fileadmin/Research/Advisories/2021-02_CSNC-2021-008_Pi-hole_Privilege_Escalation.txt
-## CVE-2021-29448 (1)
-- https://github.com/pi-hole/AdminLTE/security/advisories/GHSA-cwwf-93p7-73j9
-## CVE-2021-29447 (6)
-- https://github.com/motikan2010/CVE-2021-29447
-- https://github.com/Vulnmachines/wordpress_cve-2021-29447
-- https://wordpress.org/news/category/security/
-- https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-rv47-pc52-qrhh
-- https://lists.debian.org/debian-lts-announce/2021/04/msg00017.html
-- https://www.debian.org/security/2021/dsa-4896
-## CVE-2021-29446 (2)
-- https://www.npmjs.com/package/jose-node-cjs-runtime
-- https://github.com/panva/jose/security/advisories/GHSA-rvcw-f68w-8h8h
-## CVE-2021-29445 (2)
-- https://www.npmjs.com/package/jose-node-esm-runtime
-- https://github.com/panva/jose/security/advisories/GHSA-4v4g-726h-xvfv
-## CVE-2021-29444 (2)
-- https://github.com/panva/jose/security/advisories/GHSA-94hh-pjjg-rwmr
-- https://www.npmjs.com/package/jose-browser-runtime
-## CVE-2021-29443 (2)
-- https://github.com/panva/jose/security/advisories/GHSA-58f5-hfqc-jgch
-- https://www.npmjs.com/package/jose
-## CVE-2021-29442 (4)
-- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29442.yaml
-- https://github.com/alibaba/nacos/issues/4463
-- https://github.com/alibaba/nacos/pull/4517
-- https://github.com/advisories/GHSA-36hp-jr8h-556f
-## CVE-2021-29441 (4)
-- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-29441.yaml
-- https://github.com/alibaba/nacos/issues/4701
-- https://github.com/advisories/GHSA-36hp-jr8h-556f
-- https://github.com/alibaba/nacos/pull/4703
-## CVE-2021-29440 (2)
-- https://packagist.org/packages/getgrav/grav
-- https://github.com/getgrav/grav/security/advisories/GHSA-g8r4-p96j-xfxc
-## CVE-2021-29439 (1)
-- https://github.com/getgrav/grav-plugin-admin/security/advisories/GHSA-wg37-cf5x-55hq
-## CVE-2021-29438 (2)
-- https://github.com/nextcloud/nextcloud-dialogs/security/advisories/GHSA-g3fq-3v3g-mh32
-- https://www.npmjs.com/package/@nextcloud/dialogs
-## CVE-2021-29437 (2)
-- https://github.com/ScratchVerifier/ScratchOAuth2/security/advisories/GHSA-gvpg-23fh-8g75
-- https://github.com/ScratchVerifier/ScratchOAuth2/commit/9220c2a77eda3df37a84486ad722f1ad0985d8e7
-## CVE-2021-29436 (3)
-- https://github.com/anuko/timetracker/security/advisories/GHSA-pgpx-rfvj-9g4f
-- https://github.com/anuko/timetracker/commit/e77be7eea69df5d52e19f9f25b5b89a0e66a5b8e
-- https://github.com/anuko/timetracker/commit/e3f8222ee308322942bcebcd86b78ecf19382563
-## CVE-2021-29435 (3)
-- https://github.com/TrestleAdmin/trestle-auth/commit/cb95b05cdb2609052207af07b4b8dfe3a23c11dc
-- https://github.com/TrestleAdmin/trestle-auth/security/advisories/GHSA-h8hx-2c5r-32cf
-- https://rubygems.org/gems/trestle-auth
-## CVE-2021-29434 (2)
-- https://github.com/wagtail/wagtail/security/advisories/GHSA-wq5h-f9p5-q7fx
-- https://pypi.org/project/wagtail/
-## CVE-2021-29433 (2)
-- https://github.com/matrix-org/sydent/security/advisories/GHSA-pw4v-gr34-2553
-- https://pypi.org/project/matrix-sydent/
-## CVE-2021-29432 (4)
-- https://github.com/matrix-org/sydent/security/advisories/GHSA-mh74-4m5g-fcjx
-- https://github.com/matrix-org/sydent/commit/4469d1d42b2b1612b70638224c07e19623039c42
-- https://pypi.org/project/matrix-sydent/
-- https://github.com/matrix-org/sydent/releases/tag/v2.3.0
-## CVE-2021-29431 (7)
-- https://github.com/matrix-org/sydent/commit/3d531ed50d2fd41ac387f36d44d3fb2c62dd22d3
-- https://github.com/matrix-org/sydent/commit/0f00412017f25619bc36c264b29ea96808bf310a
-- https://github.com/matrix-org/sydent/security/advisories/GHSA-9jhm-8m8c-c3f4
-- https://github.com/matrix-org/sydent/commit/9e573348d81df8191bbe8c266c01999c9d57cd5f
-- https://github.com/matrix-org/sydent/commit/8936925f561b0c352c2fa922d5097d7245aad00a
-- https://pypi.org/project/matrix-sydent/
-- https://github.com/matrix-org/sydent/releases/tag/v2.3.0
-## CVE-2021-29430 (6)
-- https://github.com/matrix-org/sydent/commit/0523511d2fb40f2738f8a8549868f44b96e5dab7
-- https://github.com/matrix-org/sydent/commit/89071a1a754c69a50deac89e6bb74002d4cda19d
-- https://github.com/matrix-org/sydent/commit/f56eee315b6c44fdd9f6aa785cc2ec744a594428
-- https://github.com/matrix-org/sydent/security/advisories/GHSA-wmg4-8cp2-hpg9
-- https://pypi.org/project/matrix-sydent/
-- https://github.com/matrix-org/sydent/releases/tag/v2.3.0
-## CVE-2021-29429 (2)
-- https://github.com/gradle/gradle/security/advisories/GHSA-fp8h-qmr5-j4c8
-- https://docs.gradle.org/7.0/release-notes.html#security-advisories
-## CVE-2021-29428 (4)
-- https://github.com/gradle/gradle/security/advisories/GHSA-89qm-pxvm-p336
-- https://docs.gradle.org/7.0/release-notes.html#security-advisories
-- https://github.com/gradle/gradle/pull/15240
-- https://github.com/gradle/gradle/pull/15654
-## CVE-2021-29427 (2)
-- https://docs.gradle.org/7.0/release-notes.html#security-advisories
-- https://github.com/gradle/gradle/security/advisories/GHSA-jvmj-rh6q-x395
-## CVE-2021-29425 (16)
-- https://issues.apache.org/jira/browse/IO-556
-- https://lists.apache.org/thread.html/rc359823b5500e9a9a2572678ddb8e01d3505a7ffcadfa8d13b8780ab%40%3Cuser.commons.apache.org%3E
-- https://lists.apache.org/thread.html/rfd01af05babc95b8949e6d8ea78d9834699e1b06981040dde419a330@%3Cdev.commons.apache.org%3E
-- https://lists.apache.org/thread.html/r8efcbabde973ea72f5e0933adc48ef1425db5cde850bf641b3993f31@%3Cdev.commons.apache.org%3E
-- https://lists.apache.org/thread.html/r873d5ddafc0a68fd999725e559776dc4971d1ab39c0f5cc81bd9bc04@%3Ccommits.pulsar.apache.org%3E
-- https://lists.apache.org/thread.html/r0d73e2071d1f1afe1a15da14c5b6feb2cf17e3871168d5a3c8451436@%3Ccommits.pulsar.apache.org%3E
-- https://lists.apache.org/thread.html/raa053846cae9d497606027816ae87b4e002b2e0eb66cb0dee710e1f5@%3Cdev.creadur.apache.org%3E
-- https://lists.apache.org/thread.html/r8569a41d565ca880a4dee0e645dad1cd17ab4a92e68055ad9ebb7375@%3Cdev.creadur.apache.org%3E
-- https://lists.apache.org/thread.html/r47ab6f68cbba8e730f42c4ea752f3a44eb95fb09064070f2476bb401@%3Cdev.creadur.apache.org%3E
-- https://lists.apache.org/thread.html/rfa2f08b7c0caf80ca9f4a18bd875918fdd4e894e2ea47942a4589b9c@%3Cdev.creadur.apache.org%3E
-- https://lists.apache.org/thread.html/r1c2f4683c35696cf6f863e3c107e37ec41305b1930dd40c17260de71@%3Ccommits.pulsar.apache.org%3E
-- https://lists.apache.org/thread.html/r27b1eedda37468256c4bb768fde1e8b79b37ec975cbbfd0d65a7ac34@%3Cdev.myfaces.apache.org%3E
-- https://lists.apache.org/thread.html/r2bc986a070457daca457a54fe71ee09d2584c24dc262336ca32b6a19@%3Cdev.creadur.apache.org%3E
-- https://lists.apache.org/thread.html/r523a6ffad58f71c4f3761e3cee72df878e48cdc89ebdce933be1475c@%3Cdev.creadur.apache.org%3E
-- https://lists.apache.org/thread.html/ra8ef65aedc086d2d3d21492b4c08ae0eb8a3a42cc52e29ba1bc009d8@%3Cdev.creadur.apache.org%3E
-- https://lists.apache.org/thread.html/rbebd3e19651baa7a4a5503a9901c95989df9d40602c8e35cb05d3eb5@%3Cdev.creadur.apache.org%3E
-## CVE-2021-29424 (5)
-- https://blog.urth.org/2021/03/29/security-issues-in-perl-ip-address-distros/
-- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/CBJVLXJSWN6DKSF5ADUEERI6M23R3GGP/
-- https://metacpan.org/changes/distribution/Net-Netmask#L11-22
-- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Y7JIPQAY5OZ5D3DA7INQILU7SGHTHMWB/
-- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/JF4CYIZELC3NISB3RMV4OCI4GYBC557B/
-## CVE-2021-29421 (3)
-- https://github.com/pikepdf/pikepdf/commit/3f38f73218e5e782fe411ccbb3b44a793c0b343a
-- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/3QFLBBYGEDNXJ7FS6PIWTVI4T4BUPGEQ/
-- https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/36P4HTLBJPO524WMQWW57N3QRF4RFSJG/
-## CVE-2021-29418 (2)
-- https://github.com/rs/node-netmask/commit/3f19a056c4eb808ea4a29f234274c67bc5a848f4
-- https://vuln.ryotak.me/advisories/6
-## CVE-2021-29417 (3)
-- https://github.com/liamg/gitjacker/compare/v0.0.3...v0.1.0
-- https://github.com/liamg/gitjacker/releases/tag/v0.1.0
-- https://vuln.ryotak.me/advisories/5
-## CVE-2021-29416 (2)
-- https://hackerone.com/reports/1054382
-- https://portswigger.net/burp/releases/professional-community-2020-12?requestededition=professional
-## CVE-2021-29415 (3)
-- https://www.sit.fraunhofer.de/en/news-events/downloads-services/cve/
-- https://eprint.iacr.org/2021/640
-- https://www.aisec.fraunhofer.de/de/das-institut/wissenschaftliche-exzellenz/security-and-trust-in-open-source-security-tokens.html
-## CVE-2021-29414 (3)
-- https://www.sit.fraunhofer.de/en/news-events/downloads-services/cve/
-- https://eprint.iacr.org/2021/640
-- https://www.aisec.fraunhofer.de/de/das-institut/wissenschaftliche-exzellenz/security-and-trust-in-open-source-security-tokens.html
-## CVE-2021-29399 (3)
-- https://www.xmbforum2.com/
-- https://docs.xmbforum2.com/index.php?title=Security_Issue_History
-- https://forums.xmbforum2.com/viewthread.php?tid=777105
 
 
 [...and counting](https://raw.githubusercontent.com/ARPSyndicate/cvemon/master/data.json)
