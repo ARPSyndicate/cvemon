@@ -1,22 +1,19 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2022-30910 (1)
-- https://github.com/arozx/CVE-2022-30910
+### CVE-2022-0997 (1)
+- https://github.com/henryreed/CVE-2022-0997
+### CVE-2022-0486 (1)
+- https://github.com/henryreed/CVE-2022-0486
 ## Latest Exploit Additions
-### CVE-2022-30190 (8)
-- https://github.com/castlesmadeofsand/ms-msdt-vulnerability-pdq-package
-- https://github.com/gyaansastra/CVE-2022-30190
-- https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed
-- https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit
-- https://github.com/suegdu/CVE-2022-30190-Follina-Patch
-- https://github.com/swaiist/CVE-2022-30190-Fix
-- https://github.com/Kesinger57/CVE-2022-30190-mass-rce
-- https://github.com/AchocolatechipPancake/MS-MSDT-Office-RCE-Follina
-### CVE-2021-44228 (1)
-- https://github.com/tabern/kubernetes-log4j-cve-2021-44228-node-agent
-### CVE-2020-2551 (1)
-- https://github.com/0xAbbarhSF/CVE-Exploit
-### CVE-2020-13935 (1)
-- https://github.com/aabbcc19191/CVE-2020-13935
-### CVE-2010-5301 (1)
-- https://github.com/lem0nSec/CVE-2010-5301
+### CVE-2022-30190 (4)
+- https://github.com/droidrzrlover/CVE-2022-30190
+- https://github.com/Noxtal/follina
+- https://github.com/kdk2933/msdt-CVE-2022-30190
+- https://github.com/hilt86/cve-2022-30190-mitigate
+### CVE-2022-1609 (1)
+- https://github.com/NullBrunk/CVE-2022-1609
+### CVE-2014-6271 (2)
+- https://github.com/trhacknon/CVE-2014-6271
+- https://github.com/trhacknon/exploit-CVE-2014-6271
+### CVE-2011-2523 (1)
+- https://github.com/NullBrunk/CVE-2011-2523
