@@ -1,19 +1,14 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2022-0997 (1)
-- https://github.com/henryreed/CVE-2022-0997
-### CVE-2022-0486 (1)
-- https://github.com/henryreed/CVE-2022-0486
+### CVE-2022-26134 (3)
+- https://github.com/s0rtega/CVE-2022-26134_vuln
+- https://github.com/CyberDonkyx0/CVE-2022-26134
+- https://github.com/offlinehoster/CVE-2022-26134
 ## Latest Exploit Additions
-### CVE-2022-30190 (4)
-- https://github.com/droidrzrlover/CVE-2022-30190
-- https://github.com/Noxtal/follina
-- https://github.com/kdk2933/msdt-CVE-2022-30190
-- https://github.com/hilt86/cve-2022-30190-mitigate
-### CVE-2022-1609 (1)
-- https://github.com/NullBrunk/CVE-2022-1609
-### CVE-2014-6271 (2)
-- https://github.com/trhacknon/CVE-2014-6271
-- https://github.com/trhacknon/exploit-CVE-2014-6271
-### CVE-2011-2523 (1)
-- https://github.com/NullBrunk/CVE-2011-2523
+### CVE-2022-30190 (1)
+- https://github.com/SrikeshMaharaj/CVE-2022-30190
+### CVE-2022-22954 (2)
+- https://github.com/badboy-sft/CVE-2022-22954
+- https://github.com/orwagodfather/CVE-2022-22954
+### CVE-2022-20004 (1)
+- https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004
