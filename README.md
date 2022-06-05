@@ -1,12 +1,13 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2021-30190 (1)
-- https://github.com/CyberTitus/Follina
 ## Latest Exploit Additions
-### CVE-2022-29464 (1)
-- https://github.com/jimidk/Better-CVE-2022-29464
-### CVE-2022-26134 (2)
-- https://github.com/W01fh4cker/Serein
-- https://github.com/Sakura-nee/CVE-2022-26134
-### CVE-2022-22978 (1)
-- https://github.com/ducluongtran9121/CVE-2022-22978-PoC
+### CVE-2022-30190 (1)
+- https://github.com/DerZiad/CVE-2022-30190
+### CVE-2022-24124 (1)
+- https://github.com/0xAbbarhSF/CVE-2022-24124
+### CVE-2021-3156 (1)
+- https://github.com/DanielAzulay9/CTF-2021
+### CVE-2021-25076 (1)
+- https://github.com/0xAbbarhSF/CVE-2021-25076
+### CVE-2020-29607 (1)
+- https://github.com/0xAbbarhSF/CVE-2020-29607
