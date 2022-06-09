@@ -1,15 +1,21 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2022-28132 (1)
-- https://github.com/alpernae/CVE-2022-28132
-### CVE-2019-1246 (1)
-- https://github.com/emrekara369/cve-2019-1246
-### CVE-2019-1205 (1)
-- https://github.com/razordeveloper/CVE-2019-1205
+### CVE-2022-24032 (1)
+- https://github.com/jdordonezn/CVE-2022-24032
+### CVE-2022-22919 (1)
+- https://github.com/jdordonezn/CVE-2022-22919
 ## Latest Exploit Additions
-### CVE-2022-30190 (1)
-- https://github.com/sentrium-security/Follina-Workaround-CVE-2022-30190
-### CVE-2022-26809 (1)
-- https://github.com/scoobydoobi/CVE-2022-26809-RCE-POC
-### CVE-2019-12461 (1)
-- https://github.com/emrekara369/cve-2019-12461
+### CVE-2022-26134 (1)
+- https://github.com/cai-niao98/CVE-2022-26134
+### CVE-2022-25257 (1)
+- https://github.com/polling-repo-continua/CVE-2022-25257
+### CVE-2022-23305 (1)
+- https://github.com/AlphabugX/CVE-2022-RCE
+### CVE-2022-23131 (1)
+- https://github.com/qq1549176285/CVE-2022-23131
+### CVE-2022-22947 (1)
+- https://github.com/stayfoolish777/CVE-2022-22947-POC
+### CVE-2022-21660 (1)
+- https://github.com/UzJu/CVE-2022-21660
+### CVE-2021-4034 (1)
+- https://github.com/CronoX1/CVE-2021-4034
