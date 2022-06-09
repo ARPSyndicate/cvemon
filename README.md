@@ -1,21 +1,20 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2022-24032 (1)
-- https://github.com/jdordonezn/CVE-2022-24032
-### CVE-2022-22919 (1)
-- https://github.com/jdordonezn/CVE-2022-22919
+### CVE-2021-37589 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-37589.yaml
+### CVE-2018-10230 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2018/CVE-2018-10230.yaml
 ## Latest Exploit Additions
-### CVE-2022-26134 (1)
-- https://github.com/cai-niao98/CVE-2022-26134
-### CVE-2022-25257 (1)
-- https://github.com/polling-repo-continua/CVE-2022-25257
-### CVE-2022-23305 (1)
-- https://github.com/AlphabugX/CVE-2022-RCE
-### CVE-2022-23131 (1)
-- https://github.com/qq1549176285/CVE-2022-23131
-### CVE-2022-22947 (1)
-- https://github.com/stayfoolish777/CVE-2022-22947-POC
-### CVE-2022-21660 (1)
-- https://github.com/UzJu/CVE-2022-21660
-### CVE-2021-4034 (1)
-- https://github.com/CronoX1/CVE-2021-4034
+### CVE-2022-30190 (2)
+- https://github.com/b401/Clickstudio-compromised-certificate
+- https://github.com/Hrishikesh7665/Follina_Exploiter_CLI
+### CVE-2019-1181 (1)
+- https://github.com/major203/cve-2019-1181
+### CVE-2019-0708 (1)
+- https://github.com/DeathStroke-source/Mass-scanner-for-CVE-2019-0708-RDP-RCE-Exploit
+### CVE-2018-19320 (1)
+- https://github.com/hmthabit/CVE-2018-19320-LPE
+### CVE-2014-160 (1)
+- https://github.com/GitMirar/heartbleed_exploit
+### CVE-2014-0160 (1)
+- https://github.com/indiw0rm/-Heartbleed-
