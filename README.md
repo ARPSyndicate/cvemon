@@ -1,11 +1,9 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2020-22211 (1)
-- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-22211.yaml
-### CVE-2020-22210 (1)
-- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-22210.yaml
-### CVE-2020-22209 (1)
-- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-22209.yaml
-### CVE-2020-22208 (1)
-- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-22208.yaml
 ## Latest Exploit Additions
+### CVE-2022-30190 (1)
+- https://github.com/Abdibimantara/CVE-2022-30190-Analysis-With-LetsDefends-Lab
+### CVE-2022-26134 (1)
+- https://github.com/KeepWannabe/BotCon
+### CVE-2018-19320 (1)
+- https://github.com/hmnthabit/CVE-2018-19320-LPE
