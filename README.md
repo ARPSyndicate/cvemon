@@ -1,5 +1,7 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2022-24806 (1)
-- https://github.com/oturu/CVE-2022-24806-MASS-RCE
 ## Latest Exploit Additions
+### CVE-2021-44228 (1)
+- https://github.com/ra890927/Log4Shell-CVE-2121-44228-Demo
+### CVE-2021-3749 (1)
+- https://github.com/T-Guerrero/axios-redos
