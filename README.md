@@ -1,26 +1,23 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2022-20135 (1)
-- https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-
-### CVE-2022-20124 (1)
-- https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-
+### CVE-2022-26135 (1)
+- https://github.com/assetnote/jira-mobile-ssrf-exploit
+### CVE-2022-2290 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2022/CVE-2022-2290.yaml
+### CVE-2020-14408 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-14408.yaml
 ## Latest Exploit Additions
-### CVE-2022-29464 (1)
-- https://github.com/Pasch0/WSO2RCE
-### CVE-2022-29455 (1)
-- https://github.com/GULL2100/Wordpress_xss-CVE-2022-29455
+### CVE-2022-28219 (1)
+- https://github.com/rbowes-r7/manageengine-auditad-cve-2022-28219
 ### CVE-2022-26134 (1)
-- https://github.com/Debajyoti0-0/CVE-2022-26134
+- https://github.com/f4yd4-s3c/cve-2022-26134
+### CVE-2022-21449 (1)
+- https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC
 ### CVE-2022-0847 (1)
-- https://github.com/airbus-cert/dirtypipe-ebpf_detection
-### CVE-2021-44228 (8)
-- https://github.com/tica506/Siem-queries-for-CVE-2021-44228
-- https://github.com/ben-smash/l4j-info
-- https://github.com/yanghaoi/CVE-2021-44228_Log4Shell
-- https://github.com/strawhatasif/log4j-test
-- https://github.com/taurusxin/CVE-2021-44228
-- https://github.com/madCdan/JndiLookup
-- https://github.com/snatalius/log4j2-CVE-2021-44228-poc-local
-- https://github.com/threatmonit/Log4j-IOCs
-### CVE-2017-9841 (1)
-- https://github.com/rdpwn/laravel-phpunit-rce-masscaner
+- https://github.com/edr1412/Dirty-Pipe
+### CVE-2022-0543 (1)
+- https://github.com/z92g/CVE-2022-0543
+### CVE-2020-8644 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2020/CVE-2020-8644.yaml
+### CVE-2019-1405 (1)
+- https://github.com/signfind/COMahawk
