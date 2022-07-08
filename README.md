@@ -1,27 +1,19 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2022-34265 (1)
-- https://github.com/aeyesec/CVE-2022-34265
-### CVE-2022-31854 (1)
-- https://github.com/Vikaran101/CVE-2022-31854
-### CVE-2022-2097 (1)
-- https://github.com/PeterThomasAwen/OpenSSLUpgrade1.1.1q-Ubuntu
-### CVE-2020-0136 (1)
-- https://github.com/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136
+### CVE-2022-34963 (1)
+- https://github.com/bypazs/CVE-2022-34963
+### CVE-2022-34962 (1)
+- https://github.com/bypazs/CVE-2022-34962
+### CVE-2022-34961 (1)
+- https://github.com/bypazs/CVE-2022-34961
+### CVE-2022-33980 (1)
+- https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE
+### CVE-2022-29593 (1)
+- https://github.com/9lyph/CVE-2022-29593
 ## Latest Exploit Additions
-### CVE-2022-26135 (1)
-- https://github.com/safe3s/CVE-2022-26135
-### CVE-2022-0847 (1)
-- https://github.com/notl0cal/dpipe
-### CVE-2021-27850 (1)
-- https://github.com/novysodope/CVE-2021-27850
-### CVE-2020-5902 (1)
-- https://github.com/z3n70/CVE-2020-5902
-### CVE-2019-14287 (1)
-- https://github.com/5l1v3r1/cve-2019-14287sudoexp
-### CVE-2018-15473 (1)
-- https://github.com/WildfootW/CVE-2018-15473_OpenSSH_7.7
-### CVE-2018-15133 (1)
-- https://github.com/AlienX2001/better-poc-for-CVE-2018-15133
-### CVE-2017-9841 (1)
-- https://github.com/yoloskr/CVE-2017-9841-Scan
+### CVE-2022-26134 (1)
+- https://github.com/coskper-papa/CVE-2022-26134
+### CVE-2019-6447 (1)
+- https://github.com/Chethine/EsFileExplorer-CVE-2019-6447
+### CVE-2019-2725 (1)
+- https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/misc/weblogic_deserialize_asyncresponseservice.rb
