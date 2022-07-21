@@ -1,26 +1,26 @@
 # CVEMON - Monitoring exploits & references for CVEs
 ## Latest CVE Additions
-### CVE-2022-34918 (1)
-- https://github.com/randorisec/CVE-2022-34918-LPE-PoC
-### CVE-2022-29078 (1)
-- https://github.com/miko550/CVE-2022-29078
-### CVE-2021-24284 (1)
-- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2021/CVE-2021-24284.yaml
+### CVE-2022-34047 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2022/CVE-2022-34047.yaml
+### CVE-2022-34046 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2022/CVE-2022-34046.yaml
+### CVE-2022-32409 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2022/CVE-2022-32409.yaml
+### CVE-2022-26138 (2)
+- https://github.com/alcaparra/CVE-2022-26138
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2022/CVE-2022-26138.yaml
 ## Latest Exploit Additions
-### CVE-2022-33891 (2)
-- https://github.com/west-wind/CVE-2022-33891
-- https://github.com/HuskyHacks/cve-2022-33891
-### CVE-2021-22205 (1)
-- https://github.com/keven1z/CVE-2021-22205
-### CVE-2021-20233 (1)
-- https://github.com/pauljrowland/BootHoleFix
-### CVE-2020-25632 (1)
-- https://github.com/pauljrowland/BootHoleFix
-### CVE-2019-17621 (1)
-- https://github.com/Ler2sq/CVE-2019-17621
-### CVE-2018-19246 (1)
-- https://github.com/NeoWans/CVE-2018-19246
-### CVE-2017-7921 (1)
-- https://github.com/201646613/CVE-2017-7921
-### CVE-2007-2447 (1)
-- https://github.com/mr-l0n3lly/CVE-2007-2447
+### CVE-2022-33891 (1)
+- https://github.com/AkbarTrilaksana/cve-2022-33891
+### CVE-2022-30190 (1)
+- https://github.com/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-
+### CVE-2022-26809 (1)
+- https://github.com/ToomArni65/CVE-2022-26809-POC
+### CVE-2020-0137 (1)
+- https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137
+### CVE-2018-19877 (1)
+- https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/2018/CVE-2018-19877.yaml
+### CVE-2017-9248 (1)
+- https://github.com/oldboy-snt/dp
+### CVE-2014-6271 (1)
+- https://github.com/heikipikker/shellshock-shell
