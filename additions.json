@@ -31426,5 +31426,11 @@
     ],
     "CVE-2022-42004": [
         "https://github.com/advisories/GHSA-rgv9-q543-rqg4"
+    ],
+    "CVE-2022-42889":[
+        "https://www.rapid7.com/blog/post/2022/10/17/cve-2022-42889-keep-calm-and-stop-saying-4shell/",
+        "https://www.tarlogic.com/blog/cve-2022-42889-critical-vulnerability-affects-apache-commons-text/",
+        "https://nakedsecurity.sophos.com/2022/10/18/dangerous-hole-in-apache-commons-text-like-log4shell-all-over-again/",
+        "https://medium.com/@numencyberlabs/text4shell-or-act4shell-vulnerability-analysis-a860d141e3e5"
     ]
 }
