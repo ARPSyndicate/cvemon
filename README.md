@@ -1,15 +1,1 @@
 ## CVEMON - Monitoring exploits & references for CVEs
-- **[CVE-2023-21439](https://in.scanfactory.io/cvemon/CVE-2023-21439.html)** https://github.com/advisories/GHSA-rrxp-5q22-4jv9
-- **[CVE-2023-21436](https://in.scanfactory.io/cvemon/CVE-2023-21436.html)** https://github.com/advisories/GHSA-hcq5-6f6r-26hq
-- **[CVE-2023-21420](https://in.scanfactory.io/cvemon/CVE-2023-21420.html)** https://github.com/advisories/GHSA-4rmg-fpp8-38vv
-- **[CVE-2023-0770](https://in.scanfactory.io/cvemon/CVE-2023-0770.html)** https://github.com/advisories/GHSA-5p6c-7q82-x6c9
-- **[CVE-2023-0705](https://in.scanfactory.io/cvemon/CVE-2023-0705.html)** https://github.com/advisories/GHSA-926j-9r9p-6mpj
-- **[CVE-2023-0703](https://in.scanfactory.io/cvemon/CVE-2023-0703.html)** https://github.com/advisories/GHSA-xv5h-j798-x927
-- **[CVE-2023-0001](https://in.scanfactory.io/cvemon/CVE-2023-0001.html)** https://github.com/advisories/GHSA-9qr8-h5jr-2gmw
-- **[CVE-2022-23094](https://in.scanfactory.io/cvemon/CVE-2022-23094.html)** https://packetstormsecurity.com/files/cve/CVE-2022-23094
-- **[CVE-2022-0610](https://in.scanfactory.io/cvemon/CVE-2022-0610.html)** https://packetstormsecurity.com/files/cve/CVE-2022-0610
-- **[CVE-2023-25194](https://in.scanfactory.io/cvemon/CVE-2023-25194.html)** https://github.com/advisories/GHSA-26f8-x7cc-wqpc
-- **[CVE-2023-23333](https://in.scanfactory.io/cvemon/CVE-2023-23333.html)** https://github.com/advisories/GHSA-vp93-ffq3-79vh
-- **[CVE-2023-0700](https://in.scanfactory.io/cvemon/CVE-2023-0700.html)** https://github.com/advisories/GHSA-w634-6x8m-jgvx
-- **[CVE-2022-0452](https://in.scanfactory.io/cvemon/CVE-2022-0452.html)** https://packetstormsecurity.com/files/cve/CVE-2022-0456
-- **[CVE-2015-7297](https://in.scanfactory.io/cvemon/CVE-2015-7297.html)** https://medium.com/privacycloud/taking-the-fight-against-consent-banners-to-the-next-level-f9f26f254189
