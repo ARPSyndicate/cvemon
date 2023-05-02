@@ -288,7 +288,6 @@
         "https://packetstormsecurity.com/files/cve/CVE-2013-7423"
     ],
     "CVE-2013-1956": [
-        "https://medium.com/@jain.sm/security-challenges-with-kubernetes-818fad4a89f2"
     ],
     "CVE-2013-2094": [
         "https://www.youtube.com/watch?v=l4G8SHG9kKM"
@@ -994,8 +993,6 @@
     ],
     "CVE-2015-10104": [
         "https://github.com/advisories/GHSA-2gmv-qx2q-7g63",
-        "https://github.com/advisories?query=type%3Aunreviewed",
-        "https://github.com/advisories?query=sort%3Aupdated-desc"
     ],
     "CVE-2015-10105": [
         "https://github.com/advisories/GHSA-pj62-8px7-m9hh"
@@ -1923,7 +1920,6 @@
         "https://www.exploit-db.com/exploits/36615"
     ],
     "CVE-2015-2827": [
-        "https://packetstormsecurity.com/files/131330/Security-Notice-For-CA-Spectrum.html"
     ],
     "CVE-2015-2842": [
         "https://packetstormsecurity.com/files/131543/GoAutoDial-SQL-Injection-Command-Execution-File-Upload.html"
@@ -2144,9 +2140,7 @@
         "https://medium.com/system-weakness/sql-injections-xml-injections-in-ethical-hacking-part-iv-d493ac7b82bf",
         "https://medium.com/tenable-techblog/owning-the-network-with-badusb-72daa45d1b00",
         "https://medium.com/bugbountywriteup/tokyowesterns-ctf-4th-2018-writeup-part-3-1c8510dfad3f",
-        "https://medium.com/@aman.bansal93/security-zoning-in-network-architecture-ff7693b91556",
         "https://www.exploit-db.com/exploits/41689",
-        "https://medium.com/@marketing_94582/issues-of-privacy-in-the-ever-broadening-it-world-smartmicros-46a665fcfaf",
         "https://medium.com/@cainlevy/authn-keys-key-management-so-you-dont-have-to-9685744c0bdb",
         "https://medium.com/faun/aws-vpc-5be60640ecb7",
         "https://medium.com/@joshi.priyanka/i-would-rather-do-an-ecsa-than-oscp-5fabd8f90e87",
@@ -2549,7 +2543,6 @@
         "https://github.com/advisories/GHSA-qh4w-7pw3-p4rp"
     ],
     "CVE-2015-4411": [
-        "https://github.com/advisories/GHSA-qh4w-7pw3-p4rp/dependabot?query=is%3Aprivate+is%3Aclosed"
     ],
     "CVE-2015-4412": [
         "https://github.com/advisories/GHSA-h6rj-8r3c-9gpj"
@@ -2584,7 +2577,6 @@
         "https://medium.com/@eywaprotocol/alpha-testing-of-the-eywa-platform-stage-4-pro-mode-adding-liquidity-on-mobile-devices-8879866d0595",
         "https://medium.com/gitconnected/encryption-in-php-cf3ca98f4287",
         "https://medium.com/the-crypto-bookstore/how-to-safely-store-your-hardware-wallet-seed-phrase-188b9acef060",
-        "https://medium.com/security-risks-in-systems-on-chip-socs/design-and-development-of-soc-in-medical-50ac2211cf44",
         "https://medium.com/hexagon-finance/the-hexagon-testnet-has-been-deployed-be06edbb5a42",
         "https://medium.com/@AddyEvans/passwords-whats-the-deal-fcdd39c71479",
         "https://medium.com/making-cash/how-to-stake-sol-making-cash-3a5cc7e25c1c",
@@ -2752,7 +2744,6 @@
     ],
     "CVE-2015-5122": [
         "https://www.exploit-db.com/exploits/37599",
-        "https://medium.com/healthy-paranoia/security-alert-millions-exposed-to-cyber-attacks-because-of-internet-explorer-vulnerability-5371f74f5436",
         "https://packetstormsecurity.com/files/132663/Adobe-Flash-opaqueBackground-Use-After-Free.html"
     ],
     "CVE-2015-5143": [
@@ -2963,7 +2954,6 @@
         "https://packetstormsecurity.com/files/cve/CVE-2015-5522"
     ],
     "CVE-2015-5531": [
-        "https://github.com/advisories/GHSA-jjq8-vfjq-j6v4/dependabot?query=is%3Aclosed",
         "https://github.com/advisories/GHSA-jjq8-vfjq-j6v4/dependabot",
         "https://www.exploit-db.com/exploits/38383",
         "https://github.com/advisories/GHSA-jjq8-vfjq-j6v4"
@@ -3060,7 +3050,6 @@
         "https://medium.com/@liquidus/full-liquidity-locked-on-unicrypt-922a0580d7be",
         "https://medium.com/illumination/5-important-steps-to-conform-to-data-protection-laws-with-your-website-cb92439e3cc8",
         "https://medium.com/@CyberPunks/welcome-to-cyberpunks-on-cardano-494847da2a77",
-        "https://medium.com/the-effective-cissp/security-operating-modes-7655a6aa5c91",
         "https://medium.com/@gokaypeksen/why-does-cyber-security-seem-as-headache-430cc535ae2c",
         "https://medium.com/@shaddy43/change-your-dna-shuffle-the-bytes-43fa4de16911",
         "https://medium.com/@prism_ag/prism-ido-tokenomics-e4841bda1101",
@@ -4005,7 +3994,6 @@
         "https://www.exploit-db.com/exploits/40361"
     ],
     "CVE-2015-8315": [
-        "https://github.com/advisories/GHSA-3fx5-fwvr-xrjg/dependabot?query=sort%3Acreated-asc",
         "https://github.com/advisories/GHSA-3fx5-fwvr-xrjg/dependabot",
         "https://github.com/advisories/GHSA-3fx5-fwvr-xrjg"
     ],
@@ -4267,7 +4255,6 @@
         "https://github.com/advisories/GHSA-hjcp-j389-59ff"
     ],
     "CVE-2015-8855": [
-        "https://github.com/advisories/GHSA-x6fg-f45m-jf5q/dependabot?query=sort%3Acreated-desc+is%3Aprivate+is%3Aclosed",
         "https://github.com/advisories/GHSA-x6fg-f45m-jf5q",
         "https://medium.com/sliitwif/how-to-keep-your-javascript-projects-safe-02-cb6e7b214008"
     ],
@@ -7637,7 +7624,6 @@
         "https://www.youtube.com/watch?v=vKshCUGAnRc"
     ],
     "CVE-2016-5180": [
-        "https://medium.com/@coolx28/security-oriented-open-source-continuous-fuzzing-101-from-start-to-finish-637eaceb9acb",
         "https://github.com/advisories/GHSA-29hr-5wcr-whpc"
     ],
     "CVE-2016-5195": [
@@ -9120,7 +9106,6 @@
         "https://github.com/advisories/GHSA-j6f7-hghw-g437"
     ],
     "CVE-2016-9971": [
-        "https://medium.com/jupyter-blog/security-release-jupyter-notebook-4-3-1-808e1f3bb5e2"
     ],
     "CVE-2017-0002": [
         "https://medium.com/@trendmicrosupp/tipping-point-threat-intelligence-and-zero-day-coverage-week-of-january-23-2017-c1fe11a2918b"
@@ -10635,7 +10620,6 @@
         "https://www.exploit-db.com/exploits/43422"
     ],
     "CVE-2017-15009": [
-        "https://medium.com/stolabs/security-issue-on-prtg-network-manager-ada65b45d37b"
     ],
     "CVE-2017-15010": [
         "https://github.com/advisories/GHSA-g7q5-pjjr-gqvp",
@@ -10826,7 +10810,6 @@
         "https://github.com/advisories/GHSA-pjj4-w39g-pw54"
     ],
     "CVE-2017-15934": [
-        "https://medium.com/stolabs/security-issue-on-pandora-fms-enterprise-be630059a72d"
     ],
     "CVE-2017-15944": [
         "https://www.exploit-db.com/exploits/44597",
@@ -12682,7 +12665,6 @@
         "https://www.youtube.com/watch?v=BzcrnjowReY",
         "https://medium.com/@codebyamir/populate-a-select-dropdown-list-using-json-1bc042c2ede1",
         "https://www.youtube.com/watch?v=QPFK6UkFWuw",
-        "https://medium.com/security-privacy-risk-management-blockchain/analysis-of-equifax-communication-on-15th-september-2017-8f15fae7d253",
         "https://www.youtube.com/watch?v=iQ_f-eG-EXg",
         "https://medium.com/shiftleft-blog/vulnerability-review-apache-struts-cve-2017-5638-ab530723300d",
         "https://www.youtube.com/watch?v=Ob4l7UZdAJA",
@@ -14269,11 +14251,8 @@
         "https://packetstormsecurity.com/files/147200/Ubuntu-Security-Notice-USN-3621-2.html"
     ],
     "CVE-2018-1000080": [
-        "https://medium.com/stolabs/security-issues-on-ajenti-d2b7526eaeee?responsesOpen=true&source=---------3----------------------------",
-        "https://medium.com/stolabs/security-issues-on-ajenti-d2b7526eaeee"
     ],
     "CVE-2018-1000081": [
-        "https://medium.com/stolabs/security-issues-on-ajenti-d2b7526eaeee"
     ],
     "CVE-2018-1000086": [
         "https://github.com/advisories/GHSA-82gw-pqf7-q3j2"
@@ -15289,7 +15268,6 @@
         "https://www.exploit-db.com/exploits/44909"
     ],
     "CVE-2018-12353": [
-        "https://medium.com/stolabs/security-issues-on-knowage-spagobi-fb9664c55ea5"
     ],
     "CVE-2018-12368": [
         "https://medium.com/@enigma0x3/i-would-disagree-https-www-mozilla-org-en-us-security-advisories-mfsa2018-16-cve-2018-12368-3524098cd5a7"
@@ -15875,10 +15853,8 @@
         "https://packetstormsecurity.com/files/152489/CyberArk-EPM-10.2.1.603-Security-Restrictions-Bypass.html"
     ],
     "CVE-2018-14904": [
-        "https://medium.com/stolabs/security-issues-on-samsung-syncthru-web-service-cc86467d2df"
     ],
     "CVE-2018-14905": [
-        "https://medium.com/stolabs/security-issues-on-3cx-web-service-d9dc7f1bea79"
     ],
     "CVE-2018-14916": [
         "https://packetstormsecurity.com/files/cve/CVE-2018-14918",
@@ -17026,7 +17002,6 @@
         "https://github.com/advisories/GHSA-wmr8-25ff-ggpj"
     ],
     "CVE-2018-1999024": [
-        "https://medium.com/jupyter-blog/security-fix-for-jupyter-notebook-450f272b6932"
     ],
     "CVE-2018-1999047": [
         "https://github.com/advisories/GHSA-r2jf-rc5v-vmpv"
@@ -17500,7 +17475,6 @@
         "https://www.exploit-db.com/exploits/45126"
     ],
     "CVE-2018-2894": [
-        "https://github.com/projectdiscovery/nuclei-templates/issues/4562",
         "https://www.youtube.com/watch?v=IVKDZNuV3FE",
         "https://www.youtube.com/watch?v=EfgsdVeq-aI"
     ],
@@ -18588,7 +18562,6 @@
         "https://wpscan.com/vulnerability/f37a3e8b-292a-4c07-8f18-9621ac160810"
     ],
     "CVE-2018-7206": [
-        "https://medium.com/jupyter-blog/security-fix-for-jupyterhub-gitlab-oauthenticator-7b14571d1f76"
     ],
     "CVE-2018-7212": [
         "https://github.com/advisories/GHSA-h29f-7f56-j8wh"
@@ -18836,7 +18809,6 @@
         "https://medium.com/u/6fd955ea0e6c"
     ],
     "CVE-2018-7996": [
-        "https://medium.com/stolabs/security-issues-on-eramba-1ad812ee7c3b"
     ],
     "CVE-2018-8007": [
         "https://www.hackthebox.eu/home/machines/profile/134"
@@ -21107,7 +21079,6 @@
         "https://www.youtube.com/watch?v=UKLSIUhdJP0"
     ],
     "CVE-2019-14271": [
-        "https://medium.com/faun/security-best-practices-for-kubernetes-deployment-a-quick-checklist-c17f22bb0942",
         "https://medium.com/sylabs/trending",
         "https://medium.com/sylabs/archive",
         "https://medium.com/sylabs/a-note-on-cve-2019-14271-running-untrusted-containers-as-root-is-still-a-bad-idea-245d227d4e02"
@@ -22237,7 +22208,6 @@
         "https://github.com/advisories/GHSA-2qrg-x229-3v8q",
         "https://packetstormsecurity.com/files/171759/Ubuntu-Security-Notice-USN-5998-1.html",
         "https://packetstormsecurity.com/files/cve/CVE-2019-17571",
-        "https://github.com/microsoft/team-explorer-everywhere/issues/340",
         "https://medium.com/codex/log4j-consequences-for-data-science-teams-e899df242b09"
     ],
     "CVE-2019-17573": [
@@ -23450,7 +23420,6 @@
     ],
     "CVE-2019-5428": [
         "https://github.com/advisories/GHSA-wv67-q8rr-grjp",
-        "https://github.com/advisories/GHSA-wv67-q8rr-grjp/dependabot?query=is%3Aclosed"
     ],
     "CVE-2019-5432": [
         "https://github.com/advisories/GHSA-wv67-9jq7-8r69"
@@ -24726,7 +24695,6 @@
         "https://medium.com/coinmonks/the-1-crypto-scam-explained-in-60-seconds-80c95ff55ff4"
     ],
     "CVE-2020-0549": [
-        "https://medium.com/security-privacy-risk-management-blockchain/security-news-for-9jun2020-841df2cd2d8e"
     ],
     "CVE-2020-0554": [
         "https://github.com/advisories/GHSA-q464-q2vj-24m2"
@@ -26348,7 +26316,6 @@
         "https://github.com/Threekiii/Vulhub-Reproduce",
         "https://medium.com/morphuslabs/not-cryptomining-campaign-targeting-weblogic-cve-2020-14882-1090ad28ab39",
         "https://packetstormsecurity.com/files/cve/CVE-2020-14882",
-        "https://github.com/xqx12/daily-info/blob/master/tech_info_20230224.md",
         "https://www.youtube.com/watch?v=JFVDOIL0YtA",
         "https://medium.com/@viswanathchalla88/github-default-access-for-each-commit-77825c23f48e",
         "https://medium.com/@alexrobsen60/equity-and-diversity-in-the-nations-cyber-workforce-policy-recommendations-for-addressing-data-e4922f3b8d2c",
@@ -28215,7 +28182,6 @@
         "https://medium.com/morphusblog/b%C3%BAssola-edi%C3%A7%C3%A3o-4-9d9392a0c510",
         "https://www.youtube.com/watch?v=juIucTRZUL8",
         "https://www.youtube.com/watch?v=h1c0sfVZNO8",
-        "https://medium.com/security-privacy-risk-management-blockchain/cyber-security-news-for-1may2020-359050a28b66",
         "https://www.youtube.com/watch?v=HM3Z-I998b4"
     ],
     "CVE-2020-28851": [
@@ -28456,7 +28422,6 @@
     "CVE-2020-3153": [
         "https://packetstormsecurity.com/files/159420/Cisco-AnyConnect-Privilege-Escalation.html",
         "https://www.youtube.com/watch?v=7mjByDCeKBw",
-        "https://medium.com/skilledthree/security-insights-thermal-cameras-attack-passwords-47860da10520"
     ],
     "CVE-2020-3161": [
         "https://packetstormsecurity.com/files/157265/Cisco-IP-Phone-11.7-Denial-Of-Service.html",
@@ -29078,7 +29043,6 @@
     "CVE-2020-3952": [
         "https://packetstormsecurity.com/files/157896/VMware-vCenter-Server-6.7-Authentication-Bypass.html",
         "https://www.youtube.com/watch?v=S49yd7o463w",
-        "https://medium.com/security-privacy-risk-management-blockchain/cyber-security-news-for-10apr2020-ac39eeee5f71",
         "https://www.exploit-db.com/exploits/48535"
     ],
     "CVE-2020-3956": [
@@ -33557,7 +33521,6 @@
         "https://github.com/advisories/GHSA-pch5-whg9-qr2r"
     ],
     "CVE-2021-28925": [
-        "https://medium.com/stolabs/issues-found-on-nagios-network-analyzer-2-4-2-50ec4ffb5e25"
     ],
     "CVE-2021-28935": [
         "https://www.exploit-db.com/exploits/49793"
@@ -35989,13 +35952,10 @@
     ],
     "CVE-2021-4104": [
         "https://medium.com/@meridianwealth/everything-you-need-to-know-about-a-credit-freeze-378cf0e56d69",
-        "https://github.com/Qualys/log4jscanwin/blob/master/resource.h",
         "https://packetstormsecurity.com/files/cve/CVE-2021-4104",
         "https://github.com/amzn/selling-partner-api-docs/discussions/2034",
         "https://packetstormsecurity.com/files/cve/CVE-2022-23307",
-        "https://github.com/cisagov/log4j-affected-db/blob/develop/PULL-EXAMPLE.md",
         "https://medium.com/moblhom-be-home-wherever-you-are/pandemic-guide-livingston-15041432e211",
-        "https://github.com/mergebase/log4j-detector/issues/76",
         "https://packetstormsecurity.com/files/cve/CVE-2021-44832"
     ],
     "CVE-2021-41073": [
@@ -36178,7 +36138,6 @@
         "https://packetstormsecurity.com/files/cve/CVE-2021-41773",
         "https://medium.com/@calfcrusher/i-wrote-an-exploit-for-cve-2021-41773-and-cve-2021-42013-c85c309a5b1b",
         "https://github.com/advisories/GHSA-m24x-wx9p-jqmh",
-        "https://github.com/topics/cve-search?o=asc&s=forks",
         "https://medium.com/@silva.rrs/apache-http-server-path-traversal-and-remote-code-execution-cve-2021-41773-1a284f5a4f97",
         "https://medium.com/system-weakness/tryhackme-oh-my-webserver-writeup-e57119e4fe36",
         "https://www.youtube.com/watch?v=cWWYh4iMVbk",
@@ -36193,7 +36152,6 @@
         "https://www.exploit-db.com/exploits/50383",
         "https://packetstormsecurity.com/files/164418/Apache-HTTP-Server-2.4.49-Path-Traversal-Remote-Code-Execution.html",
         "https://packetstormsecurity.com/files/164941/Apache-HTTP-Server-2.4.50-Remote-Code-Execution.html",
-        "https://github.com/topics/cve-2021-4034?o=asc&s=forks",
         "https://packetstormsecurity.com/files/download/165089/CVE-2021-42013.pdf"
     ],
     "CVE-2021-4178": [
@@ -36482,7 +36440,6 @@
         "https://packetstormsecurity.com/files/cve/CVE-2021-42751"
     ],
     "CVE-2021-42756": [
-        "https://github.com/xqx12/daily-info/blob/master/tech_info_20230223.md"
     ],
     "CVE-2021-42771": [
         "https://github.com/advisories/GHSA-h4m5-qpfp-3mpv"
@@ -36664,7 +36621,6 @@
         "https://medium.com/built-to-adapt/can-banks-stop-cyber-criminals-50050ea5d8d",
         "https://medium.com/@shaunwhorton/how-i-found-two-different-xss-vulnerabilities-a491144e8494",
         "https://medium.com/@YUSUPHKILEO/the-soaring-cyber-attacks-in-africa-6da5df6e9efa",
-        "https://medium.com/@Railgun_Project/security-through-simplicity-compartmentalization-5ad0e10f6b2b"
     ],
     "CVE-2021-43636": [
         "https://github.com/advisories/GHSA-3c89-xf6c-m942"
@@ -36858,90 +36814,56 @@
         "https://github.com/nagten/JndiLookupRemoval",
         "https://github.com/KosmX/CVE-2021-44228-example",
         "https://medium.com/@ohitsmaverick/you-r-tube-playlist-security-e3bb89480dcf",
-        "https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/defender-vulnerability-management/tvm-manage-Log4shell-guidance.md",
         "https://www.youtube.com/watch?v=z5knUL9rT0U",
         "https://www.youtube.com/watch?v=9ReZ5PgVW3I",
-        "https://github.com/reportportal/reportportal/issues/1613",
         "https://www.youtube.com/watch?v=w2F67LbEtnk",
-        "https://github.com/topics/log4shell?l=shell&o=desc&s=forks",
         "https://github.com/RrUZi/Awesome-CVE-2021-44228",
         "https://www.youtube.com/watch?v=Hu_bpz0gkus",
-        "https://github.com/linkedin/kafka-monitor/actions/runs/1598557056/workflow",
         "https://medium.com/@paulvelia/what-is-a-domain-name-68a6a6ab2a82",
-        "https://github.com/jeremylong/DependencyCheck/issues/4637",
         "https://github.com/HynekPetrak/log4shell-finder",
         "https://www.youtube.com/watch?v=L35_UCtXrRQ",
-        "https://github.com/corelight/cve-2021-44228/releases",
         "https://www.youtube.com/watch?v=raFa2ITKYHs",
-        "https://github.com/topics/cve-2021-44228?l=c%23",
-        "https://github.com/aws/aws-sdk-java/issues/2686",
         "https://medium.com/@mvelazco/simulating-detecting-and-responding-to-log4shell-48c58f68c574",
         "https://www.youtube.com/watch?v=8ST-6k82lNA",
         "https://www.youtube.com/watch?v=YSB2_2O2FpQ",
         "https://gist.github.com/gunnarmorling/8026d004776313ebfc65674202134e6d?permalink_comment_id=4001684",
-        "https://github.com/Ryan2065/Log4ShellDetection/blob/main/Log4ShellDetectionScript.ps1",
         "https://github.com/mitiga/log4shell-cloud-scanner",
         "https://www.youtube.com/watch?v=7WEr-K7JhPM",
-        "https://github.com/trinodb/trino/issues/10277",
-        "https://github.com/topics/cve-2021-44832",
         "https://www.youtube.com/watch?v=bqc5q3N-p_U",
         "https://github.com/puzzlepeaches/Log4jHorizon",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/280",
         "https://www.youtube.com/watch?v=xdkcUq3iCGQ",
         "https://github.com/roxas-tan/CVE-2021-44228",
         "https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs",
         "https://www.youtube.com/watch?v=REgBGts4DTI",
-        "https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent/blob/main/NOTICE",
         "https://medium.com/@techtoyousoon/raise-your-hand-if-you-practice-cloud-security-observability-bc1a7114ccd2",
-        "https://github.com/topics/log4shell?o=desc&s=stars",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/263",
         "https://www.youtube.com/watch?v=PGJVLjgC2e4",
         "https://github.com/twseptian/spring-boot-log4j-cve-2021-44228-docker-lab",
         "https://www.youtube.com/watch?v=eYVYhmz3dKE",
-        "https://github.com/confluentinc/kafka-images/issues/128",
-        "https://github.com/topics/cve-2021-44228?l=java&o=desc&s=stars",
-        "https://github.com/topics/cve-2022-23302?l=java",
         "https://medium.com/@rik_ferguson/just-because-its-free-doesn-t-mean-you-won-t-pay-for-it-f8ffd0104613",
-        "https://github.com/DataDog/datadog-agent/issues/10301",
         "https://github.com/cisagov/log4j-scanner",
         "https://medium.com/@sprinkle-twinkles/how-attackers-use-log4j-vulnerability-cve-2021-44228-to-access-applications-and-how-to-quickly-c2fe1e32d61b",
-        "https://github.com/fireeye/CVE-2021-44228/security",
-        "https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228/blob/master/README.md",
         "https://medium.com/classkick/january-12-2022-downtime-report-2146f8c374a5",
-        "https://github.com/topics/cyber-security?l=java&o=desc&s=updated",
         "https://medium.com/@Carmen74257366/best-smart-sprinkler-controller-7b31a10473fa",
-        "https://github.com/opencast/opencast/security/advisories/GHSA-mf4f-j588-5xm8",
-        "https://github.com/topics/cve-2022-23302",
         "https://medium.com/pvs-studio/what-is-cve-and-what-vulnerabilities-can-it-tell-us-about-4672a8762546",
         "https://github.com/lucab85/log4j-cve-2021-44228",
-        "https://github.com/openzipkin/zipkin-aws/actions/runs/1604315782",
         "https://packetstormsecurity.com/files/cve/CVE-2021-44228",
         "https://github.com/mr-r3b00t/CVE-2021-44228",
         "https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228",
         "https://www.youtube.com/watch?v=fMwZIdlRD0s",
         "https://medium.com/cloud-security/container-escape-vulnerability-in-aws-hot-patch-bed4211e59e",
-        "https://github.com/topics/cve-2021-45046?o=desc&s=stars",
         "https://github.com/demonrvm/Log4ShellRemediation",
-        "https://github.com/rundeck/rundeck/issues/7424",
         "https://medium.com/nerd-for-tech/u-s-launches-yet-another-cybersecurity-agency-just-in-case-23-arent-enough-b6c20e5f98a3",
         "https://medium.com/@pr-70061/avoid-falling-victim-to-the-worst-zero-day-vulnerability-in-recent-years-understanding-what-apache-85c5297b6d53",
         "https://www.youtube.com/watch?v=QDNPsupvAME",
         "https://medium.com/consensys-diligence/smart-contract-security-newsletter-33-3e0fabf57c1f",
         "https://github.com/strimzi/strimzi-kafka-operator/discussions/6023",
         "https://github.com/open-telemetry/opentelemetry-java-instrumentation/discussions/4904",
-        "https://github.com/lucab85/log4j-cve-2021-44228/blob/main/.yamllint",
-        "https://github.com/hapifhir/hapi-fhir/issues/3238",
         "https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228",
         "https://www.youtube.com/watch?v=kvREvOvSWt4",
         "https://www.youtube.com/watch?v=1UzrIeRh2Fc",
-        "https://github.com/PTCInc/thingworx-gitbackup-extension/issues/31",
         "https://packetstormsecurity.com/files/171626/admanagerplus7122-exec.txt",
-        "https://github.com/Norconex/collector-http/issues/771",
         "https://github.com/pedrohavay/exploit-CVE-2021-44228",
-        "https://github.com/fortify-ps/FortifyBugTrackerUtility/issues/68",
-        "https://github.com/sschakraborty/SecurityPOC",
         "https://www.youtube.com/watch?v=CFggi5HyW84",
-        "https://github.com/protegeproject/protege/issues/1038",
         "https://medium.com/i-love-my-local-farmer-engineering-blog/protecting-from-vulnerabilities-in-java-how-we-managed-the-log4j-crisis-68d3e90a7586",
         "https://medium.com/@Vador/log4shell-in-sql-jndi-exploit-for-java-h2-cve-2021-42392-ce2f47a0b8b4",
         "https://www.youtube.com/watch?v=GHbv5bgImAA",
@@ -36950,43 +36872,28 @@
         "https://www.youtube.com/watch?v=F4RzUMuu1g8",
         "https://medium.com/lab-musings-2019/guardian-cef411740895",
         "https://medium.com/naukri-engineering/upgrade-your-dependencies-an-exploration-of-tools-3ac98096afca",
-        "https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words/blob/main/README.md",
-        "https://github.com/jitsi/jitsi/issues/754",
         "https://github.com/Kr0ff/CVE-2021-44228",
-        "https://github.com/dtact/divd-2021-00038--log4j-scanner/blob/master/README.md",
         "https://www.youtube.com/watch?v=dguVlEpPFgg",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/253",
-        "https://github.com/Azure/Azure-Sentinel/blob/master/Detections/AzureDiagnostics/AzureWAFmatching_log4j_vuln.yaml",
         "https://github.com/srcporter/CVE-2021-44228",
-        "https://github.com/cisagov/log4j-affected-db/blob/develop/software_lists/software_list_Z.md",
         "https://github.com/corelight/cve-2021-44228",
         "https://github.com/advisories/GHSA-4vjw-ghvr-gv6w",
         "https://www.youtube.com/watch?v=CAk1Nugzf_M",
         "https://www.youtube.com/watch?v=0-abhd-CLwQ",
-        "https://github.com/metabase/metabase/security/advisories/GHSA-vmm4-cwrm-38rj",
         "https://github.com/orgs/community/discussions/24647",
         "https://www.youtube.com/watch?v=GlfoWa23O5g",
-        "https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce/blob/main/README.md",
         "https://github.com/NCSC-NL/log4shell",
         "https://www.youtube.com/watch?v=wrsqYW_beOg",
         "https://medium.com/vault12/join-the-vault12-experience-eadbfb1410a9",
         "https://www.youtube.com/watch?v=H9tUXMmvZ34",
-        "https://medium.com/security-thinking-cap/multifactor-authentication-via-mobile-app-ec9adade7a3e",
         "https://www.youtube.com/watch?v=vkboEtF0bAg",
         "https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/268",
         "https://github.com/sud0x00/log4j-CVE-2021-44228",
         "https://medium.com/kobalt-si/latest",
         "https://medium.com/@ansiblepilot/vulnerability-scanner-detector-log4shell-remote-code-execution-log4j-cve-2021-44228-ansible-bb8a27f81dd7",
-        "https://github.com/yannart/log4shell-scanner-rs/blob/main/README.md",
-        "https://github.com/docker/scan-cli-plugin/issues/192",
         "https://github.com/gitlab-de/log4j-resources",
-        "https://github.com/topics/cve-2021-44228?l=javascript",
         "https://medium.com/s2wblog/darkpedia-russian-hacking-forum-how-has-it-changed-after-colonial-pipeline-7f983f3fd678",
         "https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo",
         "https://www.youtube.com/watch?v=ZOtCmzYH8_4",
-        "https://github.com/aws/aws-parallelcluster/issues/3659",
-        "https://github.com/topics/cve-2020-9488",
         "https://www.youtube.com/watch?v=Vtai56h665A",
         "https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228",
         "https://www.youtube.com/watch?v=Plk2_viMhrw",
@@ -36994,7 +36901,6 @@
         "https://github.com/sunnyvale-it/CVE-2021-44228-PoC",
         "https://www.youtube.com/watch?v=g6zDD5ykTs0",
         "https://www.youtube.com/watch?v=7u-SB_vOj8U",
-        "https://github.com/topics/cybersecurity?l=java&o=desc&s=stars",
         "https://www.youtube.com/watch?v=rFjxQYG6WMs",
         "https://medium.com/scantist/log4j-rce-an-analysis-and-comparison-of-software-composition-analysis-tools-in-the-market-ed754254af54",
         "https://www.youtube.com/watch?v=Pztu0yTNYKk",
@@ -37009,24 +36915,14 @@
         "https://medium.com/malware-buddy/log4shell-visualization-488aea9d2516",
         "https://www.youtube.com/watch?v=930zHdtU8d0",
         "https://www.youtube.com/watch?v=RCztXTYDbJ8",
-        "https://github.com/fireeye/CVE-2021-44228/blob/master/README.md",
-        "https://github.com/topics/log4shell?o=desc&s=",
         "https://medium.com/@Vador/signal-client-v6-2-and-earlier-versions-vulnerable-to-cve-2023-24068-cve-2023-24069-296991a9fa02",
         "https://github.com/marcourbano/CVE-2021-44228",
-        "https://github.com/apache/pulsar/issues/13899",
-        "https://github.com/topics/cve-2021-45046?l=go",
         "https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes",
         "https://github.com/DXC-StrikeForce/Burp-Log4j-HammerTime",
         "https://www.youtube.com/watch?v=isKt0uYRjug",
-        "https://github.com/Azure/AKS/issues/2696",
-        "https://github.com/topics/cve-2021-45046?l=shell",
-        "https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent/releases",
         "https://medium.com/@shannonmwilkinson/wikipedia-nextgen-6d684f337810",
-        "https://github.com/hotpotcookie/log4shell-white-box/actions",
         "https://medium.com/altoros-blog/cloud-foundry-advisory-board-call-dec-2021-the-log4j-vulnerability-afcaf53bbca2",
-        "https://github.com/apache/beam/issues/22884",
         "https://github.com/Panyaprach/Proof-CVE-2021-44228",
-        "https://github.com/topics/log4shell?l=java&o=desc&s=updated",
         "https://medium.com/@weissmeaghan/this-was-honestly-so-amazing-to-watch-ce5e11df9fac",
         "https://medium.com/@immuniweb/top-10-exploited-vulnerabilities-in-2022-d8d81b831f67",
         "https://github.com/puzzlepeaches/Log4jCenter",
@@ -37036,38 +36932,25 @@
         "https://gist.github.com/dgershman/712eabe8664fa4573f6273b639195600",
         "https://www.youtube.com/watch?v=nT5-ckkb-i4",
         "https://www.youtube.com/watch?v=6xi4ygNL6fE",
-        "https://github.com/pravega/zookeeper-operator/issues/422",
-        "https://github.com/slauger/netscaler_docs/blob/master/cve-2021-44228.md",
         "https://www.youtube.com/watch?v=Up6Jj_vrZ_o",
-        "https://github.com/deviantony/docker-elk/issues/645",
-        "https://github.com/topics/cve-2021-44228?o=desc&s=stars",
         "https://medium.com/@ERBATMAN/tryhackme-solar-exploiting-log4j-333a9e4e403c",
         "https://www.youtube.com/watch?v=5aCqgeBVF9o",
         "https://www.youtube.com/watch?v=ol5eiFGly4I",
         "https://gist.github.com/jameskirsop/cac9d00cdd46d9a4ed8a6d98ae8cc666",
-        "https://github.com/topics/cve-2021-45105?l=c",
         "https://www.youtube.com/watch?v=Mf2KlaJvh4E",
         "https://www.youtube.com/watch?v=spsh-ZYTE60",
         "https://github.com/aws/aws-parallelcluster/wiki/Possible-performance-degradation-due-to-log4j-cve-2021-44228-hotpatch-service-on-Amazon-Linux-2",
         "https://medium.com/@wget-this/honeypot-check-in-03-29-22-928f31d30135",
         "https://medium.com/wallarm/we-support-student-ctf-teams-65854dffd636",
         "https://medium.com/@foospidy/monitoring-for-struts-exploitation-8a7fca4dd4fd",
-        "https://github.com/Cisco-Talos/osquery_queries/blob/master/linux_attacks/cve-2021-44228_vulnerability_in_npm_packages.yaml",
         "https://medium.com/@nagarjoon.b/cloud-security-3-steps-towards-ensuring-your-data-on-the-cloud-is-safe-305ef8edbdd7",
-        "https://github.com/topics/detector?o=desc&s=",
-        "https://github.com/awslabs/multi-model-server/releases",
         "https://github.com/thomaspatzke/Log4Pot",
         "https://github.com/advisories/GHSA-jfh8-c2jp-5v3q",
-        "https://github.com/lunasec-io/lunasec/blob/master/docs/blog/2021-12-14-log4j-zero-day-update-on-CVE-2021-45046.mdx",
         "https://www.exploit-db.com/exploits/50592",
         "https://www.youtube.com/watch?v=d-XsHBAJ2z8",
-        "https://github.com/elastic/logstash/issues/13501",
         "https://github.com/cisagov/log4j-affected-db",
         "https://www.youtube.com/watch?v=SU9twPc0qxo",
         "https://github.com/kossatzd/log4j-CVE-2021-44228-test",
-        "https://github.com/topics/cve-2021-44228?l=go&o=desc&s=updated",
-        "https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words/security",
-        "https://github.com/geonetwork/core-geonetwork/issues/6076",
         "https://www.youtube.com/watch?v=mdTXKzub4lM",
         "https://medium.com/r3d-buck3t/things-i-learned-this-week-about-log4jshell-vulnerability-c4199e7d194b",
         "https://github.com/0xst4n/CVE-2021-44228-poc",
@@ -37075,15 +36958,8 @@
         "https://www.youtube.com/watch?v=Fnuky41Eldo",
         "https://medium.com/nuxeo-open-kitchen/zero-day-log4j-how-to-upgrade-log4j-in-nuxeo-from-your-custom-marketplace-package-ea3d8ba0efbe",
         "https://medium.com/fleetdm/a-quick-guide-to-installing-osquery-and-enrolling-macos-devices-into-fleet-f11b00f68431",
-        "https://github.com/getsentry/self-hosted/issues/1196",
-        "https://github.com/topics/cve-2021-44228?l=c&o=desc&s=",
-        "https://github.com/topics/cve-2021-44228?l=python&o=asc&s=forks",
         "https://medium.com/@wintersoldiersmtr/top-11-exploited-vulnerabilities-for-initial-access-and-compromise-in-22-e9770fe98975",
-        "https://github.com/reportportal/reportportal/issues/1609",
-        "https://github.com/TIBCOSoftware/jasperreports/issues/239",
         "https://github.com/darkarnium/Log4j-CVE-Detect",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/237",
-        "https://github.com/topics/cve-2021-45105?l=go",
         "https://www.youtube.com/watch?v=UYkK30DxDBo",
         "https://www.youtube.com/watch?v=22bczEqXJ7Q",
         "https://www.youtube.com/watch?v=Z8eLhXuDWVo",
@@ -37091,62 +36967,38 @@
         "https://medium.com/@fairwinds/a-fairwinds-security-statement-on-the-apache-log4j-vulnerability-5e9ef97d8b4f",
         "https://github.com/Contrast-Security-OSS/CVE-2021-44228",
         "https://github.com/hotpotcookie/CVE-2021-44228-white-box",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues",
         "https://medium.com/system-weakness/log4j-vulnerability-cve-2021-44228-cbcf13d0ca58",
-        "https://github.com/topics/cve-2021-44228?o=asc&s=forks",
         "https://medium.com/@rakiabensassi/thanks-for-this-post-chronicle-b562edb5b745",
         "https://medium.com/coinmonks/secure-your-wallet-ultimate-guide-on-setting-up-2fa-on-hotbit-wallet-c03ab8daea",
         "https://github.com/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC",
         "https://www.youtube.com/watch?v=FJsJR0Iu5J4",
         "https://packetstormsecurity.com/files/cve/CVE-2022-22602",
         "https://medium.com/cardstack/launching-in-app-purchases-for-payment-profiles-c5556a4519ff",
-        "https://github.com/topics/log4shell?l=rust&o=desc&s=updated",
-        "https://github.com/FusionAuth/fusionauth-issues/issues/1520",
         "https://medium.com/fleetdm/fleet-4-9-0-brings-performance-updates-paginated-live-query-results-and-policy-yaml-doc-support-d4ea497c0b33",
         "https://www.youtube.com/watch?v=6Aq3sk4yZBI",
         "https://www.youtube.com/watch?v=bJaeFNG4I4g",
-        "https://github.com/topics/cve-2021-44228?l=python",
-        "https://github.com/corelight/cve-2021-44228/issues/38",
-        "https://github.com/jas502n/Log4j2-CVE-2021-44228/issues",
         "https://medium.com/phpops/devops-sre-top-links-last-week-7af524d0714b",
-        "https://github.com/spotbugs/spotbugs/issues/1868",
-        "https://github.com/yahoo/check-log4j/blob/master/README.md",
         "https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words",
         "https://www.youtube.com/watch?v=vcVUTWEUiN0",
-        "https://github.com/mozilla/geckodriver/issues/2031",
-        "https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce/issues/20",
         "https://medium.com/phpops/devops-sre-top-links-last-week-a433d7cccfea",
         "https://medium.com/appsecco/latest",
-        "https://github.com/NixOS/nixpkgs/issues/150288",
         "https://packetstormsecurity.com/files/cve/CVE-2022-22604",
-        "https://github.com/topics/cve-2021-44228?l=zeek",
-        "https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent/pulls",
         "https://www.youtube.com/watch?v=PfBQT-ua9xY",
         "https://medium.com/octopus-ventures/hacking-through-the-bug-bounty-conundrum-for-corporates-and-europe-9c531f618310",
         "https://www.youtube.com/watch?v=VkyNSqTG4no",
-        "https://github.com/Cyb3rWard0g/log4jshell-lab/blob/main/research-notes/README.md",
         "https://www.youtube.com/watch?v=CpbgoovWXpY",
-        "https://github.com/topics/cve-2021-4104",
         "https://medium.com/@cpmurillo1973/team-tronics-test-net-voting-manual-b08b80e6578b",
         "https://www.youtube.com/watch?v=w9DbLOCnRQk",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/197",
         "https://github.com/mergebase/log4j-detector",
-        "https://github.com/docker/hub-feedback/issues/2238",
         "https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
         "https://medium.com/codex/what-went-wrong-with-log4j-cve-2021-44228-5d0aaae22977",
-        "https://github.com/topics/cve-2021-45105?o=desc&s=stars",
         "https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228",
         "https://www.youtube.com/watch?v=j0O8ij8o-os",
         "https://medium.com/pragmatic-programmers/why-restrict-access-54e7173c112e",
-        "https://github.com/cisagov/log4j-affected-db/issues/327",
         "https://medium.com/@melisaassunta/how-to-make-money-with-pinterest-affiliate-marketing-in-2022-710e21b5b974",
         "https://www.youtube.com/watch?v=3GgjrdIqhtI",
         "https://www.youtube.com/watch?v=49BLeUy3DL8",
-        "https://github.com/topics/log4j2?l=python&o=asc&s=stars",
-        "https://github.com/tenable/audit_files/blob/master/cve-2021-44228_cve-2021-45046/cve-2021-44228_cve-2021-45046-windows.audit",
-        "https://github.com/projectdiscovery/nuclei-templates/issues/3393",
         "https://medium.com/phpops/devops-sre-top-links-last-week-23bbafadf0e6",
-        "https://github.com/pelias/pelias/issues/921",
         "https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592?permalink_comment_id=3998146",
         "https://www.youtube.com/watch?v=L6l1PO-zuI0",
         "https://medium.com/geekculture/log4j-vulnerability-in-detail-and-the-bigger-picture-db49f749009",
@@ -37156,45 +37008,31 @@
         "https://github.com/sourcegraph/log4j-cve-code-search-resources",
         "https://www.youtube.com/watch?v=AyR7WNpv8w0",
         "https://www.youtube.com/watch?v=H6zfqORXO2w",
-        "https://github.com/jgstew/bigfix-content/blob/master/fixlet/Logpresso%20log4j2-scan%20-%20Universal.bes",
         "https://medium.com/@mgKC/administrative-security-in-security-products-f0ee94530cfc",
         "https://medium.com/@CWE_CAPEC/neutralizing-your-inputs-a-log4shell-weakness-story-89954c8b25c9",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/blob/main/pom.xml",
         "https://www.exploit-db.com/exploits/50590",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/277",
         "https://www.youtube.com/watch?v=5DbhKLnZswY",
-        "https://github.com/topics/cve-2021-44832?l=python",
         "https://packetstormsecurity.com/files/cve/CVE-2022-22601",
-        "https://github.com/hazelcast/hazelcast/issues/20208",
         "https://www.youtube.com/watch?v=H_rwZd-owbI",
         "https://medium.com/@aysadx/docker-swarm-management-on-console-mastering-videocast-demo-dddcdc6903b5",
         "https://packetstormsecurity.com/files/165225/Apache-Log4j2-2.14.1-Remote-Code-Execution.html",
         "https://medium.com/s2wblog/logs-of-log4shell-cve-2021-44228-log4j-is-ubiquitous-en-809064312039",
         "https://www.youtube.com/watch?v=KEdPurYc9fk",
-        "https://github.com/topics/cve-2021-44228?o=asc&s=stars",
         "https://gist.github.com/nathanqthai/197b6084a05690fdebf96ed34ae84305",
         "https://medium.com/@sapt/research-on-log4jshell-cve-2021-44228-cyber-sapiens-internship-task-7-ae18072732ec",
         "https://www.youtube.com/watch?v=_jmNERtAAfs",
         "https://medium.com/microstrategy/microstrategy-2021-update-4-cto-newsletter-cf695607fd17",
-        "https://github.com/corretto/corretto-11/issues/224",
         "https://medium.com/@EdwardCrowder/detecting-and-analyzing-zero-days-log4shell-cve-2021-44228-distributing-kinsing-go-lang-malware-5c1485e89178",
         "https://github.com/kek-Sec/log4j-scanner-CVE-2021-44228",
-        "https://github.com/topics/log4j2?l=python&o=desc&s=updated&utf8=%E2%9C%93",
         "https://github.com/0xsyr0/log4shell",
         "https://github.com/arnaudluti/PS-CVE-2021-44228",
         "https://medium.com/@patcookne/what-measures-is-netflix-taking-to-prevent-accounts-password-sharing-bf2da9fc4a41",
-        "https://github.com/Azure/Azure-Sentinel/blob/master/Detections/SecurityNestedRecommendation/Log4jVulnerableMachines.yaml",
-        "https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent/security",
         "https://www.youtube.com/watch?v=xfLU5gJP0c8",
-        "https://github.com/jas502n/Log4j2-CVE-2021-44228/releases",
-        "https://github.com/topics/cve-2021-44228?l=java&o=asc&s=updated",
-        "https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent/actions",
         "https://www.youtube.com/watch?v=OKbkMGPC5lk",
         "https://medium.com/ciso-cyber-leaders/setting-conditions-for-cyber-wins-5b00483dae57",
         "https://www.youtube.com/watch?v=Y9GwNixMiME",
         "https://packetstormsecurity.com/files/165669/CVE-2021-44228-Log4Shell-Overview.html",
         "https://www.youtube.com/watch?v=ljRfN8PZhv0",
-        "https://github.com/NCSC-NL/log4shell/blob/main/README.md",
         "https://medium.com/ravelin-tech/log4shell-cve-2021-44228-4338bb8da67b",
         "https://medium.com/datavisor/learn-the-latest-about-the-spam-scams-and-malware-plaguing-our-digital-economy-337be78bd9e4",
         "https://github.com/puzzlepeaches/Log4jUnifi",
@@ -37204,28 +37042,20 @@
         "https://www.youtube.com/watch?v=ubCgHsNxvXo",
         "https://medium.com/@aysadx/using-nginx-with-and-without-lua-script-to-mitigate-against-log4shell-cve-2021-44228-143f065d2ee7",
         "https://github.com/greymd/CVE-2021-44228",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/273",
         "https://www.youtube.com/watch?v=qTFy5uZsaMs",
         "https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832",
-        "https://github.com/NationalSecurityAgency/ghidra/releases",
         "https://github.com/christophetd/log4shell-vulnerable-app",
         "https://www.youtube.com/watch?v=ESEPMLs05B0",
-        "https://github.com/topics/log4j-finder",
         "https://medium.com/dev-genius/we-should-talk-about-log4j-caabd6874a2c",
         "https://www.youtube.com/watch?v=R4hOrehtGZs",
         "https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack",
         "https://medium.com/classkick/classkick-and-the-log4j-vulnerability-cve-2021-44228-608f0a0740a0",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/264",
-        "https://github.com/topics/cve-2021-44228?l=go",
         "https://github.com/pravin-pp/log4j2-CVE-2021-44228",
         "https://github.com/Qualys/log4jscanwin",
         "https://www.youtube.com/watch?v=XpsdNVyKn58",
         "https://github.com/rasta-mouse/CVE-2021-44228-Apache-Log4j-Rce",
         "https://medium.com/truepicinc/truepics-software-no-exposure-to-log4j-vulnerability-monitoring-situation-closely-c0552cf21af3",
-        "https://github.com/aquasecurity/trivy/issues/1617",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/blob/main/src/main/java/com/logpresso/scanner/Log4j2Scanner.java",
         "https://medium.com/taraxa-project/taraxa-top-block-producers-weeks-33-35-2022-2ae9a52c5ffe",
-        "https://github.com/aws/amazon-neptune-jdbc-driver/blob/develop/CHANGELOG.md",
         "https://medium.com/@hinyinlam/using-cncf-harbor-to-locate-log4shell-cve-part-1-154b1c29a000",
         "https://medium.com/@seiffertw/log4j-cve-2021-44228-897782630621",
         "https://www.youtube.com/watch?v=py5I2ypcQtA",
@@ -37234,7 +37064,6 @@
         "https://gist.github.com/fox-srt/c8d2fa991e8bb2be1446bad18f010fcb",
         "https://www.youtube.com/watch?v=egNFMDCEdxQ",
         "https://packetstormsecurity.com/files/cve/CVE-2022-22605",
-        "https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce/security",
         "https://github.com/jas502n/Log4j2-CVE-2021-44228",
         "https://www.youtube.com/watch?v=XZlJuPs9SmI",
         "https://medium.com/terra-money/how-to-claim-your-luna-airdrop-b383d8e0900f",
@@ -37244,28 +37073,17 @@
         "https://www.youtube.com/watch?v=VLBKd429K2Y",
         "https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell",
         "https://medium.com/@atala15/we-should-talk-about-log4j-caabd6874a2c",
-        "https://github.com/gradle/gradle/issues/19517",
-        "https://github.com/neo4j-contrib/neo4j-apoc-procedures/issues/2393",
-        "https://github.com/fireeye/CVE-2021-44228/pulls",
-        "https://github.com/topics/log4shell?l=python&o=desc&s=updated",
         "https://www.youtube.com/watch?v=8Vh-sQRgrBY",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/245",
         "https://www.youtube.com/watch?v=tn-qG5hNvcs",
         "https://packetstormsecurity.com/files/167794/Open-Xchange-App-Suite-7.10.x-Cross-Site-Scripting-Command-Injection.html",
-        "https://github.com/cisagov/log4j-affected-db/blob/develop/software_lists/software_list_U.md",
         "https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b?permalink_comment_id=4170911",
-        "https://github.com/topics/cve-2022-23307",
         "https://medium.com/@tagtog/tagtog-response-to-cve-2021-44228-a4cfaf17a0f2",
         "https://github.com/TPower2112/Writing-Sample-1",
         "https://packetstormsecurity.com/files/cve/CVE-2021-4104",
         "https://www.youtube.com/watch?v=UW7ZY4TmvvU",
         "https://medium.com/s2wblog/archive",
-        "https://github.com/DataDog/datadog-agent/issues/10209",
-        "https://github.com/topics/log4shell?l=shell&o=asc&s=stars",
-        "https://github.com/codelibs/fess/issues/2610",
         "https://medium.com/system-weakness/exploiting-log4j-vulnerability-cve-2021-44228-tryhackme-solar-room-by-john-hammond-d6e0041140b8",
         "https://github.com/zlepper/CVE-2021-44228-Test-Server",
-        "https://github.com/lucab85/log4j-cve-2021-44228/blob/main/LICENSE",
         "https://github.com/logpresso/CVE-2021-44228-Scanner/wiki",
         "https://packetstormsecurity.com/files/cve/CVE-2022-22606",
         "https://medium.com/evilcouncil/anatomy-of-a-log4j-payload-7488e8a19fb3",
@@ -37275,29 +37093,20 @@
         "https://www.youtube.com/watch?v=SUMkhVWUEJU",
         "https://github.com/fox-it/log4j-finder",
         "https://github.com/kozmer/log4j-shell-poc",
-        "https://github.com/anchore/grype/issues/580",
-        "https://github.com/topics/vulnerability?l=c&o=desc&s=updated",
         "https://www.youtube.com/watch?v=2NItZWeMpAo",
         "https://medium.com/stolabs/latest",
-        "https://github.com/topics/checkmk-agent?o=desc&s=stars",
-        "https://github.com/apache/beam/issues/22883",
-        "https://github.com/topics/log4shell?l=shell&o=desc&s=stars",
         "https://www.youtube.com/watch?v=5anfXao_UwM",
         "https://www.youtube.com/watch?v=psN6HA-eUR8",
         "https://www.youtube.com/watch?v=LoW439KHo6Q",
         "https://medium.com/@jkudo/how-to-take-countermeasures-against-log4j-vulnerability-cve-2021-44228-on-azure-waf-8037558c725",
-        "https://github.com/binhex/arch-crafty/issues/1",
-        "https://github.com/pinpoint-apm/pinpoint/issues/8489",
         "https://medium.com/avmconsulting-blog/log4j-vulnerability-for-dummies-13af42ce4266",
         "https://medium.com/linkbynet/cve-2021-44228-finding-log4j-vulnerable-k8s-pods-with-bash-trivy-caa10905744d",
         "https://www.youtube.com/watch?v=qgtYsAGgeD8",
         "https://www.youtube.com/watch?v=7_EdpZQyAb8",
-        "https://github.com/oracle/docker-images/issues/2384",
         "https://www.youtube.com/watch?v=7cl6qL0uYqo",
         "https://www.youtube.com/watch?v=oz6OJgTd9Ms",
         "https://packetstormsecurity.com/files/cve/CVE-2022-22607",
         "https://github.com/logpresso/CVE-2021-44228-Scanner",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/283",
         "https://www.youtube.com/watch?v=-Jrg82qjzVQ",
         "https://github.com/uint0/cve-2021-44228-helpers",
         "https://www.youtube.com/watch?v=wdwt0DRcIzA",
@@ -37307,28 +37116,19 @@
         "https://www.youtube.com/watch?v=33mdlDOkkYM",
         "https://medium.com/s2wblog/soy-2021-en-story-of-the-year-ransomware-on-the-darkweb-c84b9db526bf",
         "https://medium.com/noise-lab/sam-burnett-thesis-defense-on-internet-censorship-a0c1df7d35fd",
-        "https://github.com/mailcow/mailcow-dockerized/issues/4375",
         "https://medium.com/@mygreatlearning/what-is-a-cloud-access-security-broker-casb-b37682fabeed",
-        "https://github.com/lucab85/log4j-cve-2021-44228/pulls",
         "https://medium.com/visotrust/viso-trust-statement-re-cve-2021-44228-log4j-a4b9b5767492",
         "https://medium.com/@jonathan_37674/cve-2021-44228-log4shell-vulnerability-and-its-impact-on-kubernetes-5b78ea5d2222",
-        "https://github.com/topics/cve-2021-44228?l=shell",
         "https://www.youtube.com/watch?v=Xq8SaB_uwKg",
         "https://medium.com/tech-learnings/different-options-to-set-up-the-local-http-server-4870b243a276",
         "https://github.com/motikan2010/RASP-CVE-2021-44228",
         "https://www.youtube.com/watch?v=t596-FefTUU",
         "https://medium.com/codex/keep-calm-and-patch-on-log4shell-is-just-not-another-zero-day-8099eb09b5d7",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/227",
         "https://github.com/advisories/GHSA-7rjr-3q55-vv33",
         "https://medium.com/@victoriametrics/statement-victoriametrics-database-and-tools-not-impacted-by-log4j-517da62d7419",
-        "https://github.com/oracle/opengrok/issues/3837",
         "https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166?permalink_comment_id=4012266",
         "https://github.com/asyzdykov/cve-2021-44228-fix-jars",
-        "https://github.com/darkarnium/Log4j-CVE-Detect/blob/main/README.md",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues/266",
-        "https://github.com/corelight/cve-2021-44228/blob/develop/README.md",
         "https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent",
-        "https://github.com/topics/log4shell?l=go",
         "https://www.youtube.com/watch?v=iX-CN__CsUU",
         "https://www.youtube.com/watch?v=9JL27XtDTiQ",
         "https://medium.com/stolabs/log4j-cve-2021-44228-897782630621",
@@ -37340,7 +37140,6 @@
         "https://www.youtube.com/watch?v=5Jy7zDQLoSo",
         "https://medium.com/@charlie.thomas_94667/log4j-vulnerability-7ebb62eb8783",
         "https://www.youtube.com/watch?v=AudXb_Ja_DU",
-        "https://github.com/Cisco-Talos/osquery_queries/blob/master/linux_attacks/cve-2021-44228_vulnerability_in_rpm_packages.yaml",
         "https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch",
         "https://www.youtube.com/watch?v=iI9Dz3zN4d8",
         "https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC",
@@ -37348,40 +37147,29 @@
         "https://www.youtube.com/watch?v=QwFKYYUD-oY",
         "https://medium.com/@aileenmainella/makeflo-ru-removal-guide-how-to-get-rid-of-makeflo-ru-c85f8c2539d5",
         "https://www.youtube.com/watch?v=QYOUMCpwJf0",
-        "https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce/actions",
         "https://www.exploit-db.com/exploits/51183",
         "https://medium.com/@thestarware/overview-of-cve-2021-44228-vulnerability-in-atlassian-ecosystem-9d3353c498e7",
         "https://medium.com/system-weakness/naive-encryption-key-rotation-614b24454e34",
-        "https://github.com/jgstew/bigfix-content/blob/master/fixlet/Logpresso%20Log4j2-scan%20-%20Universal%20-%20UNDO%20Remediation.bes",
         "https://github.com/EmergingThreats/log4shell-detection",
         "https://www.youtube.com/watch?v=ZH-vXdWsuGA",
-        "https://github.com/topics/cve-2021-44228?o=desc&s=forks",
         "https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b?permalink_comment_id=4009837",
-        "https://github.com/topics/cve-2022-23305",
         "https://packetstormsecurity.com/files/date/2021-12",
         "https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP",
-        "https://github.com/topics/cve-2021-44832?l=rust",
         "https://www.youtube.com/watch?v=exIuLWHyTso",
-        "https://github.com/jeremylong/DependencyCheck/issues/5203",
         "https://www.youtube.com/watch?v=lJeAgQQaDEw",
         "https://github.com/cantaloupe-project/cantaloupe/discussions/542",
-        "https://github.com/facebook/buck/issues/2671",
         "https://www.youtube.com/watch?v=GkghsXd6zB4",
         "https://medium.com/asecuritysite-when-bob-met-alice/log4j-the-worst-vulnerability-in-nearly-a-decade-e0cc80cbb49a",
-        "https://github.com/obsidiandynamics/kafdrop/issues/347",
         "https://www.youtube.com/watch?v=kvlbq6E-Uy4",
         "https://www.youtube.com/watch?v=1XhMnSf1i_g",
         "https://www.youtube.com/watch?v=jYI4pekPZww",
         "https://www.youtube.com/watch?v=oShZwiDTx9U",
         "https://www.youtube.com/watch?v=aV7HaWZcT1Y",
         "https://medium.com/codex/tiktok-is-now-the-biggest-site-in-the-world-34e9791c8534",
-        "https://github.com/justinsteven/advisories/blob/main/2022_amazon_log4j-cve-2021-44228-hotpatch_local_privesc.md",
         "https://www.youtube.com/watch?v=KA5Pyd258kw",
         "https://medium.com/cycraft/how-cycraft-protects-customers-from-attacks-exploiting-the-log4shell-vulnerability-56edca2f8db0",
         "https://www.youtube.com/watch?v=OJRqyCHheRE",
-        "https://github.com/aquasecurity/trivy/issues/1614",
         "https://medium.com/readme/ghosts-of-log4j-open-source-vulnerabilities-confound-software-developers-e81b931560",
-        "https://github.com/topics/cve-2021-44228?l=go&o=asc&s=forks",
         "https://packetstormsecurity.com/files/170178/idcm51-escalate.txt",
         "https://medium.com/purplebox/log4j-2564454c5c0e",
         "https://www.youtube.com/watch?v=O3BteO5tfJc",
@@ -37389,36 +37177,23 @@
         "https://www.youtube.com/watch?v=kfpUUE329pY",
         "https://medium.com/@brammaputram/20-hours-ago-6a2cf1a29e30",
         "https://medium.com/@lawfulTruth/commemorative-nrl-themed-birth-certificates-now-available-http-ift-tt-2r88wmm-260576324a0c?readmore=1&source=follow_footer---------1----------------------------",
-        "https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832/pulls",
-        "https://github.com/lucab85/log4j-cve-2021-44228/blob/main/log4j-cve-2021-44228.yml",
-        "https://github.com/topics/cve-2021-45046",
         "https://medium.com/@wiktorderda/wireshark-for-cybersecurity-and-threat-hunting-log4j-exploit-cyberdefense-b93ca45595d3",
         "https://github.com/0-x-2-2/CVE-2021-44228",
-        "https://github.com/lucab85/log4j-cve-2021-44228/blob/main/vars.yml",
         "https://www.youtube.com/watch?v=GJnkuO9JYgM",
         "https://github.com/dtact/divd-2021-00038--log4j-scanner",
         "https://www.youtube.com/watch?v=3k2fcNLPzsg",
-        "https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent/blob/main/daemonset.yaml",
         "https://medium.com/fleetdm/4-tips-for-github-actions-usability-2-debugging-4c0c920adfde",
-        "https://github.com/stackrox/contributions/blob/main/policies/CVE-2021-44228-build-deploy.json",
         "https://github.com/kubearmor/log4j-CVE-2021-44228",
         "https://www.youtube.com/watch?v=YLNf4JW4_Zg",
         "https://medium.com/kontain/how-to-avoid-getting-carpet-bombed-by-polkit-exec-and-log4jshell-and-kubernetes-container-escape-658e082a3286",
         "https://packetstormsecurity.com/files/cve/CVE-2021-45046",
         "https://www.youtube.com/watch?v=O7zeYx_Sz5c",
-        "https://github.com/topics/cve-2017-5645",
         "https://www.youtube.com/watch?v=49xZa_QEVps",
-        "https://github.com/topics/cve-2021-44228",
         "https://medium.com/@sbseltzer/introductions-97bbded8351c",
-        "https://github.com/opensearch-project/logstash-output-opensearch/issues/107",
         "https://www.youtube.com/watch?v=t7frgKkQ1J4",
         "https://medium.com/classkick/empowering-teachers-at-every-grade-level-82055e1d09ef",
         "https://www.youtube.com/watch?v=tYLHYljb2Rc",
-        "https://github.com/salesforce-marketingcloud/FuelSDK-Java/issues/133",
-        "https://github.com/jeremylong/DependencyCheck/issues/3864",
         "https://github.com/jaehnri/CVE-2021-44228",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/releases",
-        "https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes/blob/main/sha1sum.txt"
     ],
     "CVE-2021-4428": [
         "https://www.youtube.com/watch?v=8Y1S1DQEw3k",
@@ -37578,93 +37353,46 @@
         "https://medium.com/bugbountywriteup/my-cve-2021-45043-lfi-write-up-441dad30dd7f"
     ],
     "CVE-2021-45046": [
-        "https://github.com/topics/cve-2021-45046?l=yara",
-        "https://github.com/reportportal/reportportal/issues/1633",
         "https://github.com/brechtsanders/find_log4j",
-        "https://github.com/docker-solr/docker-solr/issues/407",
-        "https://github.com/Graylog2/graylog2-server/issues/11856",
-        "https://github.com/opensearch-project/helm-charts/issues/178",
         "https://github.com/DANSI/PowerShell-Log4J-Scanner",
-        "https://securitylab.github.com/advisories/GHSL-2021-1054_GHSL-2021-1055_log4j2",
         "https://github.com/rohankumardubey/CVE-2021-44228_scanner",
-        "https://github.com/folio-org/mod-user-import/blob/master/NEWS.md",
-        "https://github.com/anchore/grype/issues/552",
         "https://medium.com/ms-club-of-sliit/how-to-detect-prevent-and-recover-from-crypto-jacking-cb4a7a772009",
-        "https://github.com/hazelcast/hazelcast/security/advisories/GHSA-v57x-gxfj-484q",
         "https://github.com/logpresso/CVE-2021-44228-Scanner",
         "https://github.com/BobTheShoplifter/CVE-2021-45046-Info",
-        "https://github.com/topics/cve-2021-45046?o=asc&s=updated",
         "https://github.com/pravin-pp/log4j2-CVE-2021-45046",
         "https://github.com/Diverto/nse-log4shell",
-        "https://github.com/aquasecurity/trivy/issues/1629",
-        "https://github.com/Graylog2/graylog-s3-lambda/releases",
         "https://github.com/jfrog/log4j-tools/find/main",
         "https://github.com/kdpuvvadi/omada-ansible",
-        "https://github.com/apache/logging-log4j2/actions/runs/1579240810",
-        "https://github.com/fullhunt/log4j-scan/issues/110",
-        "https://github.com/elastic/apm-agent-java/issues/2345",
         "https://medium.com/ecloudture/log4shell-apache-log4j-%E6%97%A5%E8%AA%8C%E6%A1%86%E6%9E%B6%E7%B3%BB%E7%B5%B1%E9%87%8D%E5%A4%A7%E6%BC%8F%E6%B4%9E-cve-2021-44228-bfacc5e8bff2",
         "https://github.com/advisories/GHSA-7rjr-3q55-vv33",
-        "https://github.com/elastic/elasticsearch/issues/81867",
-        "https://github.com/apache/druid/issues/12101",
         "https://www.youtube.com/watch?v=NmBgUjGbZ7Q",
-        "https://github.com/apache/logging-log4j2/actions/runs/1585879410",
-        "https://github.com/qbicsoftware/projectbrowser-portlet/blob/master/CHANGELOG.rst",
-        "https://github.com/topics/cve-2021-45046?l=rust",
-        "https://github.com/Cyb3rWard0g/log4jshell-lab/blob/main/research-notes/2022-01-03_01-CVE-2021-45046-simulation.md",
-        "https://github.com/qbicsoftware/core-utils-lib/blob/master/CHANGELOG.rst",
         "https://medium.com/@techguysfdc/update-the-severity-score-of-cve-2021-45046-originally-classified-as-a-dos-bug-has-since-been-67a1f30ceac1",
         "https://github.com/fullhunt/log4j-scan",
-        "https://github.com/zaproxy/zaproxy/issues/6980",
         "https://medium.com/pvs-studio/what-is-cve-and-what-vulnerabilities-can-it-tell-us-about-4672a8762546",
-        "https://github.com/kubeflow/manifests/issues/2132",
         "https://github.com/advisories/GHSA-7rjr-3q55-vv33/dependabot",
         "https://github.com/advisories/GHSA-jfh8-c2jp-5v3q",
-        "https://github.com/aquasecurity/trivy/issues/1490",
-        "https://github.com/docker-solr/docker-solr/issues/398",
         "https://www.youtube.com/watch?v=2qenXEw26Ig",
-        "https://github.com/prasser/easy-smpc/issues/99",
-        "https://github.com/newrelic/docs-website/issues/5311",
         "https://github.com/strimzi/strimzi-kafka-operator/discussions/6023",
-        "https://github.com/projectdiscovery/nuclei-templates/commits?after=7497a060625bcdb26fc868226414de574e95aeb6+34",
-        "https://github.com/strimzi/strimzi-kafka-operator/issues/6043",
         "https://www.youtube.com/watch?v=kvREvOvSWt4",
-        "https://github.com/obsidiandynamics/kafdrop/issues/347",
-        "https://github.com/aquasecurity/trivy/issues/1589",
-        "https://github.com/Cybereason/Logout4Shell/blob/main/README.md",
         "https://github.com/mergebase/log4j-samples",
-        "https://github.com/italia/spid-spring/issues/22",
         "https://www.youtube.com/watch?v=1AgqtlXSpAc",
         "https://github.com/hupe1980/scan4log4shell",
-        "https://github.com/Cyb3rWard0g/log4jshell-lab/blob/main/README.md",
         "https://www.youtube.com/watch?v=ORFJIBom8SM",
         "https://medium.com/@mcdeepak/30-days-since-log4j-vulnerability-great-learning-opportunity-700cc096f6b8",
         "https://github.com/cckuailong/Log4j_CVE-2021-45046",
         "https://medium.com/purplebox/log4j-2564454c5c0e",
-        "https://github.com/aiven/jdbc-connector-for-apache-kafka/blob/master/cve-list.md",
-        "https://github.com/jeremylong/DependencyCheck/issues/3887",
         "https://medium.com/starschema-blog/log4j-vulnerability-in-tableau-how-to-fix-workaround-unofficial-f6bf63320f13",
         "https://github.com/ludy-dev/cve-2021-45046",
         "https://github.com/tejas-nagchandi/CVE-2021-45046",
         "https://github.com/X1pe0/Log4J-Scan-Win",
-        "https://github.com/google/security-research/security/advisories/GHSA-ggmf-hg75-88gg",
-        "https://github.com/logpresso/CVE-2021-44228-Scanner/issues",
         "https://github.com/Cyb3rWard0g/log4jshell-lab",
         "https://medium.com/@techguysfdc/web-infrastructure-company-cloudflare-on-wednesday-revealed-that-threat-actors-are-actively-6c22f8e5b7e6",
         "https://www.youtube.com/watch?v=Zs5T116IzPo",
         "https://github.com/orgs/community/discussions/24647",
-        "https://github.com/DataDog/datadog-agent/issues/10221",
         "https://github.com/CaptanMoss/Log4Shell-Sandbox-Signature",
-        "https://github.com/DefectDojo/django-DefectDojo/issues/6258",
-        "https://github.com/jitsi/docker-jitsi-meet/issues/1173",
-        "https://github.com/cckuailong/Log4j_CVE-2021-45046/blob/master/README.md",
         "https://medium.com/ms-club-of-sliit/wireframing-tools-d54d462d2499",
         "https://github.com/CERTCC/CVE-2021-44228_scanner",
         "https://github.com/strimzi/strimzi-kafka-operator/discussions/6507",
-        "https://github.com/cisagov/log4j-affected-db/issues/181",
-        "https://github.com/apache/logging-log4j2/actions/runs/1585879410/workflow",
-        "https://github.com/NixOS/nixpkgs/issues/150288",
-        "https://github.com/qbicsoftware/data-model-lib/blob/master/CHANGELOG.rst"
     ],
     "CVE-2021-45078": [
         "https://packetstormsecurity.com/files/cve/CVE-2021-45078"
@@ -37688,11 +37416,8 @@
         "https://packetstormsecurity.com/files/cve/CVE-2021-45105",
         "https://medium.com/@knoldus/log4j-cve-2021-45105-all-we-know-is-wrong-ca8bb308a49f",
         "https://medium.com/@techguysfdc/apache-issues-3rd-patch-to-fix-new-high-severity-log4j-vulnerability-31b1775e6de2",
-        "https://github.com/TheHive-Project/Cortex/issues/400",
-        "https://github.com/flathub/cc.arduino.arduinoide/blob/master/arduino-appdata-fixes.patch",
         "https://github.com/advisories/GHSA-p6xc-xr62-6r2g",
         "https://medium.com/cpayfoundation/cryptopay-security-and-client-protection-90d341ead09a",
-        "https://github.com/cloudera/cloudera-scripts-for-log4j/issues/47"
     ],
     "CVE-2021-45115": [
         "https://packetstormsecurity.com/files/cve/CVE-2021-45116"
@@ -39543,7 +39268,6 @@
         "https://medium.com/p/34e52fa8e2",
         "https://www.exploit-db.com/exploits/50932",
         "https://packetstormsecurity.com/files/cve/CVE-2022-1388",
-        "https://github.com/Nieuport/news-and-links/blob/gh-pages/docs/2023.04.28.md",
         "https://medium.com/wallarm/howto-everything-you-need-to-protect-against-shellshock-1aafdf7a0208",
         "https://packetstormsecurity.com/files/167007/F5-BIG-IP-Remote-Code-Execution.html"
     ],
@@ -40783,7 +40507,6 @@
     ],
     "CVE-2022-22047": [
         "https://packetstormsecurity.com/files/cve/CVE-2022-22026",
-        "https://medium.com/system-weakness/security-advisory-critical-patches-in-adobe-and-microsoft-products-9793a09de704",
         "https://www.youtube.com/watch?v=c_GfcGY3mGs",
         "https://www.youtube.com/watch?v=VZlFW_xKMts"
     ],
@@ -41329,7 +41052,6 @@
         "https://medium.com/@.Bio_Logik./dmme-weekly-update-use-case-oh-dear-website-and-privacy-49d6cd294683",
         "https://medium.com/@02anshika/task-automation-using-jenkins-63f368f37e92",
         "https://www.youtube.com/watch?v=hmXraNfWzRk",
-        "https://github.com/topics/cve-2022-42889?l=python",
         "https://www.youtube.com/watch?v=Aj26I54N_bQ",
         "https://medium.com/system-weakness/writing-your-first-extension-in-burp-suite-part-1-1645e9bd8f69",
         "https://medium.com/bugbountywriteup/operational-methodologies-of-cyber-terrorist-organization-transparent-tribe-3389bdc1db3e",
@@ -41348,14 +41070,12 @@
         "https://medium.com/4iqdelvedeep/hackers-are-shifting-focus-to-attacking-small-businesses-9d83de62a4fc",
         "https://www.youtube.com/watch?v=m9DI0gYBqn8",
         "https://www.youtube.com/watch?v=IPA1gCalFrE",
-        "https://github.com/topics/cve-2021-45105?o=asc&s=updated",
         "https://www.youtube.com/watch?v=RYp-DDGCFlM",
         "https://www.youtube.com/watch?v=rfPuNnRhBEQ",
         "https://www.youtube.com/watch?v=xyS72RNH1Tk",
         "https://medium.com/@defipump/defi-pump-675c6dcbfac7",
         "https://medium.com/@dogrusozba/rce-flaw-for-java-spring-framework-spring4shell-cve-2022-22965-75b559b58302",
         "https://www.youtube.com/watch?v=O9Akf0AjAiQ",
-        "https://github.com/topics/cve-2020-0796?o=asc&s=forks",
         "https://medium.com/@upvcexperts/bespoke-conservatories-in-water-end-upvc-conservatory-design-water-end-https-t-co-9q7ho7g0he-439dc744bbd1",
         "https://medium.com/@cxzero/spring4shell-cve-2022-22965-vulnerability-analysis-and-exploitation-fae244dfd3eb",
         "https://www.youtube.com/watch?v=3R9l3CMVmH4",
@@ -42465,7 +42185,6 @@
     "CVE-2022-25598": [
         "https://medium.com/@ApacheDolphinScheduler/first-anniversary-celebration-of-apache-dolphinschedulers-graduation-from-asf-incubator-31b13811ddb2",
         "https://medium.com/readme/biometrics-are-key-to-a-passwordless-future-they-also-pose-vexing-cyber-risks-33997818ba09",
-        "https://medium.com/@ApacheDolphinScheduler/security-notice-cve-2022-25598-description-of-the-vulnerability-of-apache-dolphinscheduler-fa9883a70009"
     ],
     "CVE-2022-25607": [
         "https://wpscan.com/vulnerability/cc8c6223-628d-44d3-a3a9-3570341f9c28"
@@ -43615,7 +43334,6 @@
     "CVE-2022-29333": [
         "https://www.youtube.com/watch?v=gPgd6Dobcq8",
         "https://medium.com/geekculture/duckduckgos-email-protection-service-9850b45af9c9",
-        "https://medium.com/extremetech-access/security-researcher-adds-spy-chip-to-it-equipment-for-just-200-d7c58159b4a3",
         "https://www.youtube.com/watch?v=B46wtd-ZNog"
     ],
     "CVE-2022-2935": [
@@ -43915,9 +43633,7 @@
         "https://medium.com/@frank.leitner/write-up-arbitrary-object-injection-in-php-portswigger-academy-2ec0714b2e17",
         "https://www.youtube.com/watch?v=aF6rHhRZHeY",
         "https://medium.com/the-musketeer-fund/musketeer-weekly-updates-3-dcf0e8661128",
-        "https://medium.com/security-thinking-cap/six-phishing-tactics-you-should-recognize-421c3b201516",
         "https://medium.com/@socfortress/wazuh-detection-rules-for-ms-rce-cve-2022-30190-follina-609df5192fe4",
-        "https://medium.com/@sygitech/security-and-vulnerability-assessment-by-managed-it-services-18f12f9c80b1",
         "https://medium.com/@johnmikey/certified-cyber-security-professional-bd055afac5e",
         "https://www.youtube.com/watch?v=AmQnqFWP9-Y",
         "https://medium.com/@andre.luiz1987/muitos-campos-3-maneiras-de-evitar-a-explos%C3%A3o-de-mapeamento-no-elasticsearch-239ba086e412",
@@ -44003,7 +43719,6 @@
         "https://www.youtube.com/watch?v=uigRVyTOmM8",
         "https://medium.com/hubsecurity/hub-weekly-digest-healthcare-iot-nuance-acquisition-ransomware-and-new-api-research-95c4be7f36f5",
         "https://medium.com/@wahyuafrizal11/android-fundamentals-05-2-cards-and-colors-711ea067063e",
-        "https://medium.com/@danchodanchev/security-interview-with-michael-debolt-vp-of-intelligence-intel-471-9f98af4a6329",
         "https://medium.com/@yiotaSWV/6-ways-to-feel-and-be-safe-at-home-c60bf0d7009f",
         "https://packetstormsecurity.com/files/cve/CVE-2022-30190"
     ],
@@ -45309,7 +45024,6 @@
         "https://medium.com/@minhduc261298/react-journey-1-components-7b397c2d917e"
     ],
     "CVE-2022-34966": [
-        "https://medium.com/poloniex/security-reminder-from-poloniex-e8fe908c1f13",
         "https://medium.com/poloniex/how-to-prepare-for-the-merge-27bca51ae86"
     ],
     "CVE-2022-35013": [
@@ -45706,7 +45420,6 @@
         "https://medium.com/@cupc4k3/vulnerabilities-in-faveo-service-desk-37a63f53d896",
         "https://medium.com/stolabs/latest",
         "https://medium.com/@cupc4k3/cve-2023-24625-idor-in-faveo-service-desk-37a63f53d896",
-        "https://medium.com/stolabs/issues-found-on-nagios-network-analyzer-2-4-2-50ec4ffb5e25",
         "https://medium.com/stolabs/cve-2022-36223-administrator-account-takeover-in-emby-media-server-616fc2a6704f"
     ],
     "CVE-2022-36266": [
@@ -45809,7 +45522,6 @@
     "CVE-2022-3656": [
         "https://medium.com/@coinzone/california-dmv-puts-car-titles-on-tezos-blockchain-consumer-applications-on-the-way-c4dabd0030e9",
         "https://github.com/advisories/GHSA-mjvr-2vf5-fx5p",
-        "https://medium.com/@coinzone/security-alert-data-of-2-5-billion-google-chrome-users-is-at-risk-94edb6dc150c",
         "https://packetstormsecurity.com/files/cve/CVE-2022-3656"
     ],
     "CVE-2022-36562": [
@@ -47325,11 +47037,8 @@
         "https://packetstormsecurity.com/files/tags/web",
         "https://packetstormsecurity.com/files/cve/CVE-2022-42856",
         "https://packetstormsecurity.com/files/170367/RHSA-2023-0016-01.txt",
-        "https://github.com/gmatuz/inthewilddb/blob/master/rss.xml",
         "https://github.com/xaitax/cisa-catalog-known-vulnerabilities",
-        "https://github.com/xqx12/daily-info/blob/master/tech_info_20230303.md",
         "https://packetstormsecurity.com/files/170374/RHSA-2023-0021-01.txt",
-        "https://github.com/openctibr/threatFeeds/blob/main/ExploitableVulnerabilitiesFeed.txt",
         "https://packetstormsecurity.com/files/170695/APPLE-SA-2023-01-23-3.txt"
     ],
     "CVE-2022-4286": [
@@ -48204,7 +47913,6 @@
         "https://www.exploit-db.com/exploits/51218"
     ],
     "CVE-2022-47930": [
-        "https://medium.com/@iofinnet/security-disclosure-for-ecdsa-and-eddsa-threshold-signature-schemes-4e969af7155b"
     ],
     "CVE-2022-47940": [
         "https://packetstormsecurity.com/files/related/170967/Ubuntu-Security-Notice-USN-5860-1.html",
@@ -48608,7 +48316,6 @@
         "https://www.youtube.com/watch?v=_sh7qUUx9eo",
         "https://packetstormsecurity.com/files/171410/RHSA-2023-1335-01.txt",
         "https://packetstormsecurity.com/files/170892/Ubuntu-Security-Notice-USN-5844-1.html",
-        "https://github.com/python/cpython/issues/101726",
         "https://packetstormsecurity.com/files/170894/Ubuntu-Security-Notice-USN-5845-1.html",
         "https://github.com/advisories/GHSA-x4qr-2fvf-3mr5",
         "https://packetstormsecurity.com/files/cve/CVE-2023-0286",
@@ -48853,8 +48560,6 @@
     "CVE-2023-0464": [
         "https://github.com/advisories/GHSA-w2w6-xp88-5cvw",
         "https://packetstormsecurity.com/files/172044/Ubuntu-Security-Notice-USN-6039-1.html",
-        "https://github.com/osquery/osquery/issues/7975",
-        "https://github.com/aquasecurity/trivy/issues/3909"
     ],
     "CVE-2023-0469": [
         "https://packetstormsecurity.com/files/cve/CVE-2023-0469"
@@ -49211,7 +48916,6 @@
     ],
     "CVE-2023-0842": [
         "https://github.com/advisories/GHSA-776f-qx25-q3cc",
-        "https://github.com/Leonidas-from-XIV/node-xml2js/issues/663"
     ],
     "CVE-2023-0902": [
         "https://www.exploit-db.com/exploits/51287",
@@ -49453,11 +49157,8 @@
     "CVE-2023-1370": [
         "https://packetstormsecurity.com/files/171860/USN-6011-1.txt",
         "https://github.com/advisories/GHSA-493p-pfq6-5258",
-        "https://github.com/jeremylong/DependencyCheck/issues/5622",
-        "https://github.com/Azure/azure-sdk-for-java/issues/34256/linked_closing_reference?reference_location=REPO_ISSUES_INDEX"
     ],
     "CVE-2023-1389": [
-        "https://github.com/karimhabush/cyberowl/blob/main/README.md",
         "https://github.com/advisories/GHSA-h49r-m2rg-6pgf"
     ],
     "CVE-2023-1393": [
@@ -49716,11 +49417,9 @@
         "https://packetstormsecurity.com/files/tags/bypass"
     ],
     "CVE-2023-20859": [
-        "https://github.com/jeremylong/DependencyCheck/issues/5615"
     ],
     "CVE-2023-20860": [
         "https://github.com/limo520/CVE-2023-20860",
-        "https://github.com/hapifhir/hapi-fhir/issues/4688"
     ],
     "CVE-2023-20861": [
         "https://medium.com/system-weakness/fuzzing-finds-cve-in-spring-io-dac85e83a02b",
@@ -49731,7 +49430,6 @@
     ],
     "CVE-2023-20869": [
         "https://github.com/Threekiii/CVE",
-        "https://github.com/CVEProject/cvelistV5/releases",
         "https://www.youtube.com/watch?v=y4PxlPxZc_0"
     ],
     "CVE-2023-20928": [
@@ -49904,7 +49602,6 @@
     ],
     "CVE-2023-21608": [
         "https://www.youtube.com/watch?v=QxM9kwS0wmQ",
-        "https://github.com/hacksysteam/CVE-2023-21608/security",
         "https://github.com/Malwareman007/CVE-2023-21608",
         "https://www.youtube.com/watch?v=cguBkC0opXk",
         "https://github.com/hacksysteam/CVE-2023-21608",
@@ -49957,7 +49654,6 @@
         "https://github.com/advisories/GHSA-4r79-wrpg-4jmm"
     ],
     "CVE-2023-21707": [
-        "https://github.com/righel/ms-exchange-version-nse/blob/main/ms-exchange-versions-cves-dict.json",
         "https://www.youtube.com/watch?v=nmv9_PwAsa8",
         "https://github.com/advisories/GHSA-4g24-qfvp-36w8"
     ],
@@ -50094,7 +49790,6 @@
     ],
     "CVE-2023-21808": [
         "https://github.com/advisories/GHSA-824j-wqm8-89mj",
-        "https://github.com/dotnet/announcements/issues/247"
     ],
     "CVE-2023-21817": [
         "https://gist.github.com/monoxgas/f615514fb51ebb55a7229f3cf79cf95b"
@@ -50209,87 +49904,30 @@
     ],
     "CVE-2023-21839": [
         "https://github.com/fakenews2025/CVE-2023-21839",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/rebind_request.go",
-        "https://github.com/Mr-xn/Penetration_Testing_POC/commits",
-        "https://github.com/orgs/Sec-Fork/repositories?language=java&type=all",
         "https://github.com/CVEDB/top",
-        "https://github.com/gobysec/Weblogic/blob/main/README-zh.md",
         "https://github.com/20142995/pocsuite3",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/locate_request.go",
         "https://github.com/houqe/POC_CVE-2023-21839",
-        "https://github.com/topics/weblogic-exploit",
-        "https://github.com/topics/cve-2023-21839",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/log.go",
-        "https://github.com/k8gege/k8gege.github.io/blob/master/atom.xml",
         "https://github.com/dream0x01/weblogic-framework",
-        "https://github.com/DXask88MA/Weblogic-CVE-2023-21839/issues",
-        "https://github.com/4ra1n/CVE-2023-21839/pulls",
         "https://github.com/4ra1n/CVE-2023-21839",
-        "https://github.com/Mr-xn/Penetration_Testing_POC/blob/master/README.md",
-        "https://github.com/topics/weblogic?l=go",
-        "https://github.com/topics/weblogic?o=desc&s=updated",
-        "https://github.com/4ra1n/CVE-2023-21839/security",
-        "https://github.com/k8gege/k8gege.github.io/blob/master/sitemap.xml",
-        "https://github.com/gobysec/Weblogic/blob/main/Weblogic_Serialization_Vulnerability_and_IIOP_Protocol_en_US.md",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/README.md",
         "https://github.com/20142995/sectool",
-        "https://github.com/topics/weblogic",
         "https://github.com/DXask88MA",
         "https://github.com/taielab/awesome-hacking-lists",
         "https://github.com/hktalent/TOP",
-        "https://github.com/houqe/POC_CVE-2023-21839/blob/main/README.md",
-        "https://github.com/MrWQ/vulnerability-paper/blob/master/vulnerability-paper.json",
-        "https://github.com/topics/cve-2023-21979",
-        "https://github.com/DXask88MA/Weblogic-CVE-2023-21839/releases",
         "https://github.com/Firebasky/CVE-2023-21839",
-        "https://github.com/KimJun1010/WeblogicTool/blob/main/README.md",
-        "https://github.com/topics/weblogic?o=desc&s=forks",
-        "https://github.com/DXask88MA/Weblogic-CVE-2023-21839/pulls",
-        "https://github.com/DXask88MA/Weblogic-CVE-2023-21839/actions",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/resolve_request.go",
         "https://github.com/KimJun1010/WeblogicTool",
-        "https://github.com/rapid7/metasploit-framework/pulls",
         "https://github.com/Threekiii/Awesome-Exploit",
         "https://github.com/advisories/GHSA-f8x3-c29w-wfmj",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/giop.go",
-        "https://github.com/Firebasky/CVE-2023-21839/actions",
-        "https://github.com/gobysec/Weblogic/blob/main/Weblogic_Serialization_Vulnerability_and_IIOP_Protocol_zh_CN.md",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/.gitignore",
         "https://github.com/skyblueflag/WebSecurityStudy",
         "https://github.com/Mr-xn/Penetration_Testing_POC",
         "https://github.com/Threekiii/CVE",
         "https://github.com/gwillcox-r7",
-        "https://github.com/topics/weblogic-framework",
-        "https://github.com/topics/weblogic?l=java&o=desc&s=stars",
-        "https://github.com/topics/weblogic?o=desc&s=",
-        "https://github.com/topics/cve-2023-21931",
-        "https://github.com/gobysec/GobyVuls/blob/master/GobyVuls-Document.md",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/cmd/main.go",
-        "https://github.com/gobysec/Weblogic/blob/main/Weblogic%20Serialization%20Vulnerability%20and%20IIOP%20Protocol.md",
         "https://github.com/DXask88MA/Weblogic-CVE-2023-21839/projects",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/version.go",
-        "https://github.com/4ra1n/4ra1n/blob/main/SECURITY.md",
-        "https://github.com/topics/cve-2023-21839?l=java",
-        "https://github.com/xqx12/daily-info/blob/master/tech_info_20230303.md",
         "https://github.com/4ra1n/CVE-2023-21839/pull/1",
-        "https://github.com/vulhub/vulhub/commits",
         "https://github.com/Sec-Fork",
-        "https://github.com/xqx12/daily-info/blob/master/tech_info_20230227.md",
-        "https://github.com/orgs/Sec-Fork/repositories?language=go&type=all",
-        "https://github.com/xqx12/daily-info/blob/master/tech_info_202302.md",
         "https://github.com/DXask88MA/Weblogic-CVE-2023-21839",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/go.mod",
-        "https://github.com/4ra1n/CVE-2023-21839/actions",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/constant.go",
-        "https://github.com/DXask88MA/Weblogic-CVE-2023-21839/security",
         "https://github.com/CVEDB/awesome-cve-repo",
-        "https://github.com/topics/weblogic?o=desc&s=stars",
-        "https://github.com/xqx12/daily-info/blob/master/tech_info_20230304.md",
-        "https://github.com/xqx12/daily-info/blob/master/tech_info_20230228.md",
         "https://github.com/4ra1n",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/service_context.go",
         "https://github.com/D2550",
-        "https://github.com/4ra1n/CVE-2023-21839/blob/master/header.go"
     ],
     "CVE-2023-21840": [
         "https://packetstormsecurity.com/files/os/linux",
@@ -50478,18 +50116,9 @@
     ],
     "CVE-2023-21931": [
         "https://github.com/gobysec/GobyVuls",
-        "https://github.com/gobysec/Weblogic/blob/main/WebLogic_CVE-2023-21931_zh_CN.md",
-        "https://github.com/gobysec/GobyVuls/blob/master/CVE-2023-21931.md",
-        "https://github.com/gobysec/Weblogic/blob/main/WebLogic_CVE-2023-21931_en_US.md",
-        "https://github.com/topics/cve-2023-21931",
-        "https://github.com/gobysec/GobyVuls/blob/master/GobyVuls-Document.md",
-        "https://github.com/gobysec/Weblogic/blob/main/README.md",
         "https://github.com/gobysec/Weblogic",
-        "https://github.com/lyy289065406/threat-broadcast/blob/master/docs/index.html",
         "https://github.com/X1r0z/X1r0z",
-        "https://github.com/4ra1n/4ra1n/blob/main/SECURITY.md",
         "https://github.com/advisories/GHSA-w8v6-gxpj-3qp5",
-        "https://github.com/gobysec/Weblogic/blob/main/README-zh.md"
     ],
     "CVE-2023-21939": [
         "https://packetstormsecurity.com/files/171997/RHSA-2023-1910-01.txt"
@@ -50689,7 +50318,6 @@
         "https://github.com/advisories/GHSA-59qw-42jc-ww5f"
     ],
     "CVE-2023-22621": [
-        "https://medium.com/strapi/security-disclosure-of-vulnerabilities-cve-2023-22893-cve-2023-22621-and-cve-2023-22894-59a9ade86199",
         "https://github.com/sofianeelhor/CVE-2023-22621-POC"
     ],
     "CVE-2023-22622": [
@@ -50755,9 +50383,7 @@
     ],
     "CVE-2023-22809": [
         "https://medium.com/@tepes_alexandru/manage-file-permissions-in-linux-aa58b1982f9f",
-        "https://github.com/topics/zero-days",
         "https://packetstormsecurity.com/files/170638/Red-Hat-Security-Advisory-2023-0280-01.html",
-        "https://github.com/topics/rce?o=desc&s=updated",
         "https://medium.com/@knoldus/dangerous-linux-commands-82e577b5fd04?readmore=1&source=follow_footer---------4----------------------------",
         "https://medium.com/geekculture/monitor-processes-in-linux-with-custom-script-a6ceffc004d3",
         "https://packetstormsecurity.com/files/favorite/170593",
@@ -50771,14 +50397,12 @@
         "https://packetstormsecurity.com/files/170636/RHSA-2023-0284-01.txt",
         "https://packetstormsecurity.com/files/date/2023-01-23",
         "https://medium.com/@compilepeace/software-reverse-engineering-diffusing-phase-2-5230300660dc",
-        "https://github.com/topics/rce?l=python&o=desc&s=updated",
         "https://packetstormsecurity.com/files/tags/advisory",
         "https://packetstormsecurity.com/files/related/170635/Red-Hat-Security-Advisory-2023-0282-01.html",
         "https://medium.com/magda-on-cyber/taking-down-the-founder-of-the-dark-web-marketplace-thailand-4124f8edb708",
         "https://medium.com/access-insurance/cyber-security-fundamentals-for-charities-e6b3f12264b5",
         "https://medium.com/@sam5epi0l/use-android-to-hunt-down-social-media-accounts-with-sherlock-75515e9f2f23",
         "https://medium.com/asecuritysite-when-bob-met-alice/what-ransomware-written-in-java-d6ab41a0456",
-        "https://github.com/topics/ms-office?l=python",
         "https://packetstormsecurity.com/files/170599/Ubuntu-Security-Notice-USN-5811-2.html",
         "https://packetstormsecurity.com/files/%20view/64687/3vilSh3ll.c",
         "https://packetstormsecurity.com/files/170632/Red-Hat-Security-Advisory-2023-0292-01.html",
@@ -50787,7 +50411,6 @@
         "https://medium.com/feedium/best-cpp-programming-books-bc6374b8e8f8",
         "https://packetstormsecurity.com/files/download/170641/RHSA-2023-0281-01.txt",
         "https://medium.com/for-linux-users/linux-tip-higher-performance-with-zswap-2a4654b935de",
-        "https://github.com/topics/cve-2023-23752",
         "https://packetstormsecurity.com/files/authors/2821",
         "https://medium.com/@rishab07/redirection-operator-in-linux-b7a856c80ad9",
         "https://medium.com/trabe/rubber-ducky-learning-about-keystroke-injection-324f462f80fa",
@@ -50795,7 +50418,6 @@
         "https://medium.com/@sqrrldata/the-cyber-hunting-maturity-model-6d506faa8ad5",
         "https://medium.com/swlh/setting-up-a-basic-dhcp-client-and-server-in-linux-9005457df607",
         "https://medium.com/purple-team/compromising-llmnr-and-nbt-ns-using-responder-3eb9842f4298",
-        "https://github.com/topics/poc?l=python&o=desc&s=updated",
         "https://packetstormsecurity.com/files/tags/root",
         "https://medium.com/@numencyberlabs/an-analysis-of-wintermutes-usd-160-million-hacking-e38764ba3de0",
         "https://packetstormsecurity.com/files/170632/RHSA-2023-0292-01.txt",
@@ -50813,9 +50435,7 @@
         "https://medium.com/@liad_levy/reverse-pyarmor-obfuscated-python-script-using-memory-dump-technique-9823b856be7a",
         "https://packetstormsecurity.com/files/date/2023-01",
         "https://medium.com/@numencyberlabs/loss-1-5-m-technical-analysis-for-uvtoken-attacked-83ae7c35f10e",
-        "https://github.com/topics/0day?o=desc&s=updated",
         "https://medium.com/@avalexus/the-rapid-attacks-on-linux-users-ff9e129783f3",
-        "https://github.com/topics/ms-office?o=asc&s=stars",
         "https://medium.com/@ibederov_en/hacking-surveillance-cameras-7c77d97e11e6",
         "https://medium.com/@jstauffer07/why-are-your-esx-servers-on-production-885f31a35b36",
         "https://packetstormsecurity.com/files/favorite/170629",
@@ -50832,14 +50452,12 @@
         "https://medium.com/@christina.jacob.koikara/what-is-xdp-the-express-data-path-in-linux-kernel-9413880a0113",
         "https://packetstormsecurity.com/files/170645/Red-Hat-Security-Advisory-2023-0291-01.html",
         "https://packetstormsecurity.com/files/170641/Red-Hat-Security-Advisory-2023-0281-01.html",
-        "https://github.com/topics/cve-2023-28432",
         "https://packetstormsecurity.com/files/171644/sudo1912p1-escalate.txt",
         "https://packetstormsecurity.com/files/download/170597/USN-5811-1.txt",
         "https://medium.com/@dev.nest/javascript-mutation-testing-made-easy-with-stryker-d0c670baaa43",
         "https://www.youtube.com/watch?v=dhaeYrGOYwg",
         "https://packetstormsecurity.com/files/171644/sudo-1.9.12p1-Privilege-Escalation.html",
         "https://medium.com/@dev.nest/securing-your-web-application-how-to-fix-a-vulnerability-in-symfony-http-cache-component-31923831ef6e",
-        "https://github.com/topics/zero-day?o=asc&s=forks",
         "https://medium.com/@kathir-i/os-vs-kernel-and-unix-vs-linux-d69407702fe6",
         "https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc",
         "https://packetstormsecurity.com/files/download/170638/RHSA-2023-0280-01.txt",
@@ -50850,7 +50468,6 @@
         "https://www.exploit-db.com/exploits/51217",
         "https://packetstormsecurity.com/files/170593/Debian-Security-Advisory-5321-1.html",
         "https://medium.com/dataseries/why-no-operating-system-is-safe-c8001de00539",
-        "https://github.com/topics/exploit?l=python&o=desc&s=updated&utf8=%E2%9C%93",
         "https://medium.com/purple-team/open-source-vulnerability-assessment-tool-openvas-e7036c1e48fd",
         "https://medium.com/codex/complete-self-hosted-bitwarden-for-raspberry-pi-24b59c3b02df",
         "https://medium.com/numen-cyber-labs/cve-2022-36537-vulnerability-technical-analysis-with-exp-667401766746",
@@ -50873,7 +50490,6 @@
         "https://medium.com/@josephhyatt/compiling-c-code-in-command-prompt-c66ab71b743d",
         "https://medium.com/@paulkova/this-is-like-keeping-the-keys-under-the-mat-at-the-front-door-in-the-flower-pot-or-under-a-brick-6c7fa9d76c5c",
         "https://medium.com/intive-developers/sambacry-old-protocol-new-threat-a0c0945029a",
-        "https://github.com/topics/zero-day?l=python",
         "https://medium.com/data-engineering-insight/shell-commands-01-introducing-the-ls-command-951a8b8b8d67",
         "https://medium.com/@tonylixu/devops-in-linux-proc-directory-part-three-fc07ad24ff3e",
         "https://medium.com/@akarX23/a-dive-into-tls-1-3-architecture-and-its-advantages-over-tls-1-2-2f552de24fa0",
@@ -50889,13 +50505,10 @@
         "https://medium.com/@dev.nest/testing-your-code-simplifying-the-big-picture-and-purpose-of-integration-and-unit-tests-8dd70bd20eac",
         "https://medium.com/yarden-shafir/yes-more-callbacks-the-kernel-extension-mechanism-c7300119a37a",
         "https://medium.com/@ismaelbouarfa/building-a-secure-cloud-environment-best-practices-and-key-considerations-78d9b25d4935",
-        "https://github.com/topics/zero-day",
         "https://packetstormsecurity.com/files/171081/RHSA-2023-0859-01.txt",
-        "https://github.com/topics/code?l=python&o=desc&s=updated",
         "https://medium.com/@cloud_tips/casb-gartner-definition-db331afd073",
         "https://packetstormsecurity.com/files/170635/Red-Hat-Security-Advisory-2023-0282-01.html",
         "https://medium.com/@ruvi-d/toolchains-a-horror-story-bef1ef522292",
-        "https://github.com/topics/poc?o=desc&s=updated",
         "https://medium.com/purple-team/hide-information-in-image-files-using-wxhexeditor-744618d6a181",
         "https://medium.com/@sreejithkj52/onos-tutorial-with-mininet-4b2ce99a474d",
         "https://medium.com/@ibederov_en/my-website-domain-investigation-toolkit-dad2eb8fcdd3",
@@ -50908,11 +50521,8 @@
         "https://medium.com/swlh/yet-another-raspberry-pi-k8s-cluster-ea05fb48e9a8",
         "https://packetstormsecurity.com/files/download/170629/RHSA-2023-0283-01.txt",
         "https://medium.com/@assume-breach/home-grown-read-team-lets-make-some-onenote-phishing-attachments-a14f4ef6ccc4",
-        "https://github.com/topics/cve-2023-22809",
-        "https://github.com/topics/cve?l=python&o=desc&s=updated",
         "https://medium.com/@ibederov_en/51-osint-extensions-for-chrome-ec3c3a53da0a",
         "https://github.com/advisories/GHSA-3vwp-294x-6v9c",
-        "https://github.com/topics/zeroday",
         "https://medium.com/tech-tajawal/writing-shell-scripts-the-beginners-guide-4778e2c4f609",
         "https://medium.com/@ibederov_en/mobile-database-with-information-leaks-e6f14bfe2f22",
         "https://medium.com/@chidozieduru/obfuscate-your-php-source-code-da8fa6e5f3f9",
@@ -50958,7 +50568,6 @@
         "https://www.exploit-db.com/exploits/51239",
         "https://packetstormsecurity.com/files/171046/kardexmlogvcc5712-exec.txt",
         "https://packetstormsecurity.com/files/cve/CVE-2023-22855",
-        "https://github.com/patrickhener/CVE-2023-22855/blob/main/advisory/advisory.md",
         "https://packetstormsecurity.com/files/date/2023-02-17",
         "https://packetstormsecurity.com/files/171689/kardexmlogmcc5712-exec.txt"
     ],
@@ -50973,7 +50582,6 @@
     ],
     "CVE-2023-22897": [
         "https://packetstormsecurity.com/files/171928/SecurePoint-UTM-12.x-Memory-Leak.html",
-        "https://github.com/MrTuxracer/advisories/blob/master/CVEs/CVE-2023-22897.txt"
     ],
     "CVE-2023-22898": [
         "https://github.com/advisories/GHSA-m7r3-6mr9-xj8f"
@@ -51053,7 +50661,6 @@
     "CVE-2023-23330": [
         "https://medium.com/@sdgeek/hack-the-box-htb-valentine-984c28aed8a7",
         "https://medium.com/@b0rn2r00t/friendzone-hackthebox-write-up-2b33b5947fd8",
-        "https://medium.com/@shatabda/security-ssi-injection-what-how-fbce1dc232b9",
         "https://medium.com/@jodunk_/hackthebox-previse-walkthrough-linux-7165a0afebb"
     ],
     "CVE-2023-23331": [
@@ -51120,7 +50727,6 @@
         "https://github.com/BronzeBee/cve-2023-23397",
         "https://github.com/ahmedkhlief/CVE-2023-23397-POC",
         "https://www.youtube.com/watch?v=pj-0RJZDBYg",
-        "https://github.com/microsoft/CSS-Exchange/issues/1584",
         "https://www.youtube.com/watch?v=vh7pfEUfzCw",
         "https://github.com/BillSkiCO/CVE-2023-23397_EXPLOIT",
         "https://www.youtube.com/watch?v=HkOeRncBTe0",
@@ -51139,7 +50745,6 @@
         "https://medium.com/@securitylit/hack-a-smart-contract-time-manipulation-attack-2ec07c6164e3",
         "https://www.youtube.com/watch?v=01k60OWdyF8",
         "https://www.youtube.com/watch?v=frbaxLNXwZE",
-        "https://github.com/microsoft/CSS-Exchange/issues/1581",
         "https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY",
         "https://github.com/tiepologian/CVE-2023-23397",
         "https://medium.com/@wrellis82/critical-outlook-bug-allows-easy-exploitation-researchers-reveal-de53801d4093",
@@ -51147,9 +50752,7 @@
         "https://medium.com/@securitylit/understanding-cve-2023-23397-the-microsoft-outlook-vulnerability-you-need-to-know-about-d942003dc9b4",
         "https://github.com/advisories/GHSA-4778-q233-jmh5",
         "https://medium.com/bugbountywriteup/advanced-web-application-security-exploiting-ssti-vulnerabilities-934009db7d56",
-        "https://github.com/microsoft/CSS-Exchange/issues/1637",
         "https://www.youtube.com/watch?v=7mcv8C38naE",
-        "https://github.com/microsoft/CSS-Exchange/issues/1572",
         "https://www.youtube.com/watch?v=QsPDnbFaTmU",
         "https://www.youtube.com/watch?v=PXskyxVznhk",
         "https://medium.com/@securitylit/5-common-vulnerabilities-in-smart-contracts-4ca374eab45d",
@@ -51262,7 +50865,6 @@
         "https://medium.com/@exploit_daily/staying-ahead-of-the-curve-cyber-security-threats-in-2023-eca141d72339",
         "https://medium.com/@shebl/tryhckme-blue-walkthrough-60d183b1e09c",
         "https://medium.com/swlh/intro-to-metasploit-19e3d07ff725",
-        "https://medium.com/stolabs/issues-found-on-nagios-network-analyzer-2-4-2-50ec4ffb5e25",
         "https://medium.com/sources-and-sinks/podcast-software-securibility-with-shannon-lietz-intuit-ef61a4174a44",
         "https://medium.com/pvs-studio/what-is-cve-and-what-vulnerabilities-can-it-tell-us-about-4672a8762546",
         "https://medium.com/wortell/what-is-and-how-to-monitor-for-citrixmash-cve-2019-19781-95e20d7926a7",
@@ -51482,7 +51084,6 @@
     ],
     "CVE-2023-23504": [
         "https://packetstormsecurity.com/files/170694/APPLE-SA-2023-01-23-2.txt",
-        "https://github.com/adamdoupe/adamd-pocs/blob/main/CVE-2023-23504/CVE-2023-23504.c",
         "https://packetstormsecurity.com/files/cve/CVE-2023-23504"
     ],
     "CVE-2023-23505": [
@@ -51736,7 +51337,6 @@
         "https://github.com/advisories/GHSA-84gr-vfg9-783r"
     ],
     "CVE-2023-23752": [
-        "https://medium.com/@cyb_detective/using-nuclei-for-osint-5-minute-basic-guide-f8764424902b",
         "https://www.exploit-db.com/exploits/51334",
         "https://github.com/adhikara13/CVE-2023-23752",
         "https://packetstormsecurity.com/files/cve/CVE-2023-23752",
@@ -51854,17 +51454,13 @@
         "https://medium.com/system-weakness/cve-2023-24044-host-header-injection-on-the-login-page-of-plesk-obsidian-cb53661d7db6"
     ],
     "CVE-2023-24055": [
-        "https://github.com/alt3kx/CVE-2023-24055_PoC/pulls",
-        "https://github.com/keepassxreboot/keepassxc/issues/9041",
         "https://github.com/advisories/GHSA-xf2q-qxhf-rqh5",
         "https://www.youtube.com/watch?v=tqK1bns51ek",
         "https://www.youtube.com/watch?v=okx-EqleMzc",
-        "https://github.com/alt3kx/CVE-2023-24055_PoC/security",
         "https://medium.com/@wearethehackers-com/stop-using-keepass-it-has-a-backdoor-and-it-might-be-not-a-single-one-cd779308c17",
         "https://www.youtube.com/watch?v=JM5zyDAaohE",
         "https://www.youtube.com/watch?v=u8MESv7NBPU",
         "https://www.youtube.com/watch?v=3C5lYBYvGG0",
-        "https://github.com/Kunzisoft/KeePassDX/issues/1497",
         "https://www.youtube.com/watch?v=AAubt8_-As0",
         "https://www.youtube.com/watch?v=6dK17ACP3pA",
         "https://github.com/alt3kx/CVE-2023-24055_PoC",
@@ -51903,7 +51499,6 @@
         "https://github.com/advisories/GHSA-p8fp-578x-89v2"
     ],
     "CVE-2023-24090": [
-        "https://github.com/ZYen12138/RouterOS/blob/main/CVE-2023-24094.md"
     ],
     "CVE-2023-24095": [
         "https://github.com/advisories/GHSA-r5mg-x7hq-vwwm"
@@ -51930,7 +51525,6 @@
         "https://packetstormsecurity.com/files/cve/CVE-2023-24329",
         "https://packetstormsecurity.com/files/os/linux",
         "https://packetstormsecurity.com/files/171405/Ubuntu-Security-Notice-USN-5960-1.html",
-        "https://github.com/python/cpython/issues/102153"
     ],
     "CVE-2023-24422": [
         "https://packetstormsecurity.com/files/cve/CVE-2023-24422",
@@ -51963,7 +51557,6 @@
     "CVE-2023-24534": [
         "https://github.com/advisories/GHSA-8v5j-pwr7-w5f8",
         "https://github.com/advisories/GHSA-7hj9-rv74-5g92",
-        "https://github.com/golang/go/issues/58975"
     ],
     "CVE-2023-24535": [
         "https://github.com/advisories/GHSA-hw7c-3rfg-p46j"
@@ -51973,11 +51566,8 @@
     ],
     "CVE-2023-24537": [
         "https://github.com/advisories/GHSA-fp86-2355-v99r",
-        "https://github.com/golang/go/issues/59180"
     ],
     "CVE-2023-24538": [
-        "https://github.com/golang/go/issues/59234",
-        "https://github.com/golang/go/issues/59271",
         "https://github.com/advisories/GHSA-v4m2-x4rp-hv22"
     ],
     "CVE-2023-24569": [
@@ -52058,7 +51648,6 @@
         "https://github.com/advisories/GHSA-hfrx-6qgj-fp6c"
     ],
     "CVE-2023-25135": [
-        "https://github.com/ambionics/vbulletin-exploits/blob/main/vbulletin-rce-cve-2023-25135.py",
         "https://github.com/ambionics/vbulletin-exploits"
     ],
     "CVE-2023-25136": [
@@ -52240,7 +51829,6 @@
         "https://packetstormsecurity.com/files/171400/Shannon-Baseband-NrSmPcoCodec-Intra-Object-Overflow.html"
     ],
     "CVE-2023-26119": [
-        "https://github.com/jeremylong/DependencyCheck/issues/5656"
     ],
     "CVE-2023-26213": [
         "https://packetstormsecurity.com/files/tags/arbitrary",
@@ -52251,10 +51839,8 @@
         "https://packetstormsecurity.com/files/cve/CVE-2023-26253"
     ],
     "CVE-2023-26255": [
-        "https://github.com/1nters3ct/CVEs/blob/main/CVE-2023-26255.md"
     ],
     "CVE-2023-26256": [
-        "https://github.com/1nters3ct/CVEs/blob/main/CVE-2023-26256.md"
     ],
     "CVE-2023-26326": [
         "https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c",
@@ -52304,10 +51890,8 @@
         "https://packetstormsecurity.com/files/cve/CVE-2023-26545"
     ],
     "CVE-2023-26556": [
-        "https://medium.com/@iofinnet/security-disclosure-for-ecdsa-and-eddsa-threshold-signature-schemes-4e969af7155b"
     ],
     "CVE-2023-26557": [
-        "https://medium.com/@iofinnet/security-disclosure-for-ecdsa-and-eddsa-threshold-signature-schemes-4e969af7155b"
     ],
     "CVE-2023-26602": [
         "https://packetstormsecurity.com/files/cve/CVE-2023-26602",
@@ -52411,48 +51995,24 @@
         "https://github.com/Impalabs/CVE-2023-27326"
     ],
     "CVE-2023-27350": [
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4829411541/workflow",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4829411539",
         "https://github.com/netlas-io/netlas-dorks",
         "https://github.com/adhikara13/CVE-2023-27350",
-        "https://github.com/horizon3ai/CVE-2023-27350/releases",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4829414564/workflow",
         "https://github.com/CrackerCat",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4829414566/workflow",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/workflows/new-templates.yml",
         "https://github.com/TamingSariMY",
         "https://github.com/horizon3ai/CVE-2023-27350",
         "https://github.com/horizon3ai/CVE-2023-27350/projects",
-        "https://github.com/horizon3ai/CVE-2023-27350/blob/main/CVE-2023-27350.py",
-        "https://github.com/advisories?query=sort%3Acreated-desc+severity%3Acritical",
-        "https://github.com/projectdiscovery/nuclei-templates/commits",
         "https://www.youtube.com/watch?v=IIYaF6m0U7A",
-        "https://github.com/advisories?query=type%3Aunreviewed+severity%3Acritical",
         "https://github.com/Zxc123456zxc",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4829673148",
-        "https://github.com/horizon3ai/CVE-2023-27350/security",
         "https://github.com/horizon3ai",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/workflows/template-checksum.yml",
         "https://github.com/hktalent/TOP",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4829673150",
-        "https://github.com/horizon3ai/CVE-2023-27350/pulls",
         "https://github.com/TamingSariMY/CVE-2023-27350-POC",
         "https://github.com/advisories/GHSA-cfg6-7x4x-p3pj",
         "https://www.youtube.com/watch?v=baoZSxCu02g",
-        "https://github.com/ARPSyndicate/cvemon/blob/master/README.md",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/workflows/syntax-checking.yml",
-        "https://github.com/horizon3ai/CVE-2023-27350/actions",
-        "https://github.com/projectdiscovery/nuclei-templates/blob/main/.new-additions",
         "https://github.com/MaanVader/CVE-2023-27350-POC",
         "https://github.com/GossiTheDog/ThreatHunting",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4829414564",
-        "https://github.com/advisories?query=severity%3Acritical",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/workflows/template-validate.yml"
     ],
     "CVE-2023-27351": [
-        "https://github.com/advisories?query=cwe%3A287",
         "https://github.com/advisories/GHSA-2c69-r2jh-xjvm",
-        "https://github.com/advisories?query=cwe%3A287+sort%3Aupdated-desc"
     ],
     "CVE-2023-27372": [
         "https://packetstormsecurity.com/files/os/linux",
@@ -52468,40 +52028,15 @@
         "https://packetstormsecurity.com/files/cve/CVE-2023-27522"
     ],
     "CVE-2023-27524": [
-        "https://github.com/horizon3ai/CVE-2023-27524/releases",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4806962137",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4804342565/workflow",
         "https://github.com/horizon3ai/CVE-2023-27524",
-        "https://github.com/lyy289065406/threat-broadcast/blob/master/docs/index.html",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4804366783/workflow",
         "https://github.com/netlas-io/netlas-dorks",
         "https://github.com/antx-code/CVE-2023-27524",
-        "https://github.com/advisories?query=type%3Areviewed+ecosystem%3Apip",
-        "https://github.com/horizon3ai/CVE-2023-27524/blob/main/requirements.txt",
-        "https://github.com/google/tsunami-security-scanner-plugins/issues",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/workflows/new-templates.yml",
         "https://github.com/passwa11",
-        "https://github.com/horizon3ai/CVE-2023-27524/pulls",
-        "https://github.com/horizon3ai/CVE-2023-27524/security",
         "https://github.com/horizon3ai/CVE-2023-27524/projects",
         "https://github.com/thezakman",
         "https://github.com/horizon3ai",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/workflows/template-checksum.yml",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4804342563/workflow",
         "https://github.com/advisories/GHSA-5cx2-vq3h-x52c",
-        "https://github.com/horizon3ai/CVE-2023-27524/blob/main/LICENSE",
-        "https://github.com/horizon3ai/CVE-2023-27524/blob/main/CVE-2023-27524.py",
-        "https://github.com/ARPSyndicate/cvemon/blob/master/README.md",
-        "https://github.com/rapid7/metasploit-framework/issues",
-        "https://github.com/horizon3ai/CVE-2023-27524/actions",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4804342565",
-        "https://github.com/projectdiscovery/nuclei-templates/blob/main/.new-additions",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/workflows/cve2json.yml",
         "https://github.com/Okaytc/Superset_auth_bypass_check",
-        "https://github.com/projectdiscovery/nuclei-templates/commits?after=f26a20397b781caf2f3fb8af0bac777f2682a626+34",
-        "https://github.com/projectdiscovery/nuclei-templates/actions/runs/4806962137/workflow",
-        "https://github.com/projectdiscovery/nuclei-templates/commits?after=aec73c5dae60c0b8ab300ae5bbfd34d3a40f2a0f+34",
-        "https://github.com/projectdiscovery/nuclei-templates/commits?after=18dc47d1a72f71bdf1e28902774f6a9e47e2d053+34",
         "https://github.com/nvn1729"
     ],
     "CVE-2023-27530": [
@@ -52636,7 +52171,6 @@
         "https://packetstormsecurity.com/files/cve/CVE-2023-27969"
     ],
     "CVE-2023-28100": [
-        "https://github.com/flatpak/flatpak/security/advisories/GHSA-7qpw-3vjv-xrqp"
     ],
     "CVE-2023-28104": [
         "https://github.com/advisories/GHSA-67g8-c724-8mp3"
@@ -52654,7 +52188,6 @@
     ],
     "CVE-2023-28155": [
         "https://github.com/advisories/GHSA-p8p7-x288-28g6",
-        "https://github.com/request/request/issues/3442"
     ],
     "CVE-2023-28160": [
         "https://packetstormsecurity.com/files/cve/CVE-2023-28160",
@@ -52710,10 +52243,8 @@
         "https://www.youtube.com/watch?v=ei-1VFCwTSE"
     ],
     "CVE-2023-28260": [
-        "https://github.com/dotnet/announcements/issues/250",
         "https://www.youtube.com/watch?v=8MWqdtF4Sio",
         "https://packetstormsecurity.com/files/171820/USN-6006-1.txt",
-        "https://github.com/PowerShell/Announcements/issues/39",
         "https://github.com/advisories/GHSA-w4m3-43gp-x8hx"
     ],
     "CVE-2023-28311": [
@@ -52778,7 +52309,6 @@
     ],
     "CVE-2023-28771": [
         "https://github.com/advisories/GHSA-3xvp-8qg2-x43w",
-        "https://github.com/advisories?query=cwe%3A78"
     ],
     "CVE-2023-28819": [
         "https://github.com/advisories/GHSA-474f-mcjv-pgrm"
@@ -52932,7 +52462,6 @@
         "https://github.com/advisories/GHSA-xv83-x443-7rmw"
     ],
     "CVE-2023-30857": [
-        "https://github.com/advisories",
         "https://github.com/advisories/GHSA-wwxh-74fx-33c6"
     ]
 }
