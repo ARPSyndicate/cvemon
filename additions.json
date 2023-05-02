@@ -992,7 +992,7 @@
         "https://github.com/advisories/GHSA-j5p7-jf4q-742q"
     ],
     "CVE-2015-10104": [
-        "https://github.com/advisories/GHSA-2gmv-qx2q-7g63",
+        "https://github.com/advisories/GHSA-2gmv-qx2q-7g63"
     ],
     "CVE-2015-10105": [
         "https://github.com/advisories/GHSA-pj62-8px7-m9hh"
@@ -23419,7 +23419,7 @@
         "https://github.com/advisories/GHSA-84p2-vf58-xhxv"
     ],
     "CVE-2019-5428": [
-        "https://github.com/advisories/GHSA-wv67-q8rr-grjp",
+        "https://github.com/advisories/GHSA-wv67-q8rr-grjp"
     ],
     "CVE-2019-5432": [
         "https://github.com/advisories/GHSA-wv67-9jq7-8r69"
@@ -28421,7 +28421,7 @@
     ],
     "CVE-2020-3153": [
         "https://packetstormsecurity.com/files/159420/Cisco-AnyConnect-Privilege-Escalation.html",
-        "https://www.youtube.com/watch?v=7mjByDCeKBw",
+        "https://www.youtube.com/watch?v=7mjByDCeKBw"
     ],
     "CVE-2020-3161": [
         "https://packetstormsecurity.com/files/157265/Cisco-IP-Phone-11.7-Denial-Of-Service.html",
@@ -36620,7 +36620,7 @@
     "CVE-2021-43633": [
         "https://medium.com/built-to-adapt/can-banks-stop-cyber-criminals-50050ea5d8d",
         "https://medium.com/@shaunwhorton/how-i-found-two-different-xss-vulnerabilities-a491144e8494",
-        "https://medium.com/@YUSUPHKILEO/the-soaring-cyber-attacks-in-africa-6da5df6e9efa",
+        "https://medium.com/@YUSUPHKILEO/the-soaring-cyber-attacks-in-africa-6da5df6e9efa"
     ],
     "CVE-2021-43636": [
         "https://github.com/advisories/GHSA-3c89-xf6c-m942"
@@ -37193,7 +37193,7 @@
         "https://www.youtube.com/watch?v=t7frgKkQ1J4",
         "https://medium.com/classkick/empowering-teachers-at-every-grade-level-82055e1d09ef",
         "https://www.youtube.com/watch?v=tYLHYljb2Rc",
-        "https://github.com/jaehnri/CVE-2021-44228",
+        "https://github.com/jaehnri/CVE-2021-44228"
     ],
     "CVE-2021-4428": [
         "https://www.youtube.com/watch?v=8Y1S1DQEw3k",
@@ -37392,7 +37392,7 @@
         "https://github.com/CaptanMoss/Log4Shell-Sandbox-Signature",
         "https://medium.com/ms-club-of-sliit/wireframing-tools-d54d462d2499",
         "https://github.com/CERTCC/CVE-2021-44228_scanner",
-        "https://github.com/strimzi/strimzi-kafka-operator/discussions/6507",
+        "https://github.com/strimzi/strimzi-kafka-operator/discussions/6507"
     ],
     "CVE-2021-45078": [
         "https://packetstormsecurity.com/files/cve/CVE-2021-45078"
@@ -37417,7 +37417,7 @@
         "https://medium.com/@knoldus/log4j-cve-2021-45105-all-we-know-is-wrong-ca8bb308a49f",
         "https://medium.com/@techguysfdc/apache-issues-3rd-patch-to-fix-new-high-severity-log4j-vulnerability-31b1775e6de2",
         "https://github.com/advisories/GHSA-p6xc-xr62-6r2g",
-        "https://medium.com/cpayfoundation/cryptopay-security-and-client-protection-90d341ead09a",
+        "https://medium.com/cpayfoundation/cryptopay-security-and-client-protection-90d341ead09a"
     ],
     "CVE-2021-45115": [
         "https://packetstormsecurity.com/files/cve/CVE-2021-45116"
@@ -42184,7 +42184,7 @@
     ],
     "CVE-2022-25598": [
         "https://medium.com/@ApacheDolphinScheduler/first-anniversary-celebration-of-apache-dolphinschedulers-graduation-from-asf-incubator-31b13811ddb2",
-        "https://medium.com/readme/biometrics-are-key-to-a-passwordless-future-they-also-pose-vexing-cyber-risks-33997818ba09",
+        "https://medium.com/readme/biometrics-are-key-to-a-passwordless-future-they-also-pose-vexing-cyber-risks-33997818ba09"
     ],
     "CVE-2022-25607": [
         "https://wpscan.com/vulnerability/cc8c6223-628d-44d3-a3a9-3570341f9c28"
@@ -48559,7 +48559,7 @@
     ],
     "CVE-2023-0464": [
         "https://github.com/advisories/GHSA-w2w6-xp88-5cvw",
-        "https://packetstormsecurity.com/files/172044/Ubuntu-Security-Notice-USN-6039-1.html",
+        "https://packetstormsecurity.com/files/172044/Ubuntu-Security-Notice-USN-6039-1.html"
     ],
     "CVE-2023-0469": [
         "https://packetstormsecurity.com/files/cve/CVE-2023-0469"
@@ -48915,7 +48915,7 @@
         "https://packetstormsecurity.com/files/171888/Debian-Security-Advisory-5388-1.html"
     ],
     "CVE-2023-0842": [
-        "https://github.com/advisories/GHSA-776f-qx25-q3cc",
+        "https://github.com/advisories/GHSA-776f-qx25-q3cc"
     ],
     "CVE-2023-0902": [
         "https://www.exploit-db.com/exploits/51287",
@@ -49156,7 +49156,7 @@
     ],
     "CVE-2023-1370": [
         "https://packetstormsecurity.com/files/171860/USN-6011-1.txt",
-        "https://github.com/advisories/GHSA-493p-pfq6-5258",
+        "https://github.com/advisories/GHSA-493p-pfq6-5258"
     ],
     "CVE-2023-1389": [
         "https://github.com/advisories/GHSA-h49r-m2rg-6pgf"
@@ -49419,7 +49419,7 @@
     "CVE-2023-20859": [
     ],
     "CVE-2023-20860": [
-        "https://github.com/limo520/CVE-2023-20860",
+        "https://github.com/limo520/CVE-2023-20860"
     ],
     "CVE-2023-20861": [
         "https://medium.com/system-weakness/fuzzing-finds-cve-in-spring-io-dac85e83a02b",
@@ -49789,7 +49789,7 @@
         "https://github.com/advisories/GHSA-jpw8-vg77-hg97"
     ],
     "CVE-2023-21808": [
-        "https://github.com/advisories/GHSA-824j-wqm8-89mj",
+        "https://github.com/advisories/GHSA-824j-wqm8-89mj"
     ],
     "CVE-2023-21817": [
         "https://gist.github.com/monoxgas/f615514fb51ebb55a7229f3cf79cf95b"
@@ -49927,7 +49927,7 @@
         "https://github.com/DXask88MA/Weblogic-CVE-2023-21839",
         "https://github.com/CVEDB/awesome-cve-repo",
         "https://github.com/4ra1n",
-        "https://github.com/D2550",
+        "https://github.com/D2550"
     ],
     "CVE-2023-21840": [
         "https://packetstormsecurity.com/files/os/linux",
@@ -50118,7 +50118,7 @@
         "https://github.com/gobysec/GobyVuls",
         "https://github.com/gobysec/Weblogic",
         "https://github.com/X1r0z/X1r0z",
-        "https://github.com/advisories/GHSA-w8v6-gxpj-3qp5",
+        "https://github.com/advisories/GHSA-w8v6-gxpj-3qp5"
     ],
     "CVE-2023-21939": [
         "https://packetstormsecurity.com/files/171997/RHSA-2023-1910-01.txt"
@@ -50581,7 +50581,7 @@
         "https://github.com/advisories/GHSA-96jv-r488-c2rj"
     ],
     "CVE-2023-22897": [
-        "https://packetstormsecurity.com/files/171928/SecurePoint-UTM-12.x-Memory-Leak.html",
+        "https://packetstormsecurity.com/files/171928/SecurePoint-UTM-12.x-Memory-Leak.html"
     ],
     "CVE-2023-22898": [
         "https://github.com/advisories/GHSA-m7r3-6mr9-xj8f"
@@ -51524,7 +51524,7 @@
     "CVE-2023-24329": [
         "https://packetstormsecurity.com/files/cve/CVE-2023-24329",
         "https://packetstormsecurity.com/files/os/linux",
-        "https://packetstormsecurity.com/files/171405/Ubuntu-Security-Notice-USN-5960-1.html",
+        "https://packetstormsecurity.com/files/171405/Ubuntu-Security-Notice-USN-5960-1.html"
     ],
     "CVE-2023-24422": [
         "https://packetstormsecurity.com/files/cve/CVE-2023-24422",
@@ -51556,7 +51556,7 @@
     ],
     "CVE-2023-24534": [
         "https://github.com/advisories/GHSA-8v5j-pwr7-w5f8",
-        "https://github.com/advisories/GHSA-7hj9-rv74-5g92",
+        "https://github.com/advisories/GHSA-7hj9-rv74-5g92"
     ],
     "CVE-2023-24535": [
         "https://github.com/advisories/GHSA-hw7c-3rfg-p46j"
@@ -51565,7 +51565,7 @@
         "https://github.com/advisories/GHSA-9f7g-gqwh-jpf5"
     ],
     "CVE-2023-24537": [
-        "https://github.com/advisories/GHSA-fp86-2355-v99r",
+        "https://github.com/advisories/GHSA-fp86-2355-v99r"
     ],
     "CVE-2023-24538": [
         "https://github.com/advisories/GHSA-v4m2-x4rp-hv22"
@@ -52009,10 +52009,10 @@
         "https://github.com/advisories/GHSA-cfg6-7x4x-p3pj",
         "https://www.youtube.com/watch?v=baoZSxCu02g",
         "https://github.com/MaanVader/CVE-2023-27350-POC",
-        "https://github.com/GossiTheDog/ThreatHunting",
+        "https://github.com/GossiTheDog/ThreatHunting"
     ],
     "CVE-2023-27351": [
-        "https://github.com/advisories/GHSA-2c69-r2jh-xjvm",
+        "https://github.com/advisories/GHSA-2c69-r2jh-xjvm"
     ],
     "CVE-2023-27372": [
         "https://packetstormsecurity.com/files/os/linux",
@@ -52187,7 +52187,7 @@
         "https://packetstormsecurity.com/files/171704/RHSA-2023-1591-01.txt"
     ],
     "CVE-2023-28155": [
-        "https://github.com/advisories/GHSA-p8p7-x288-28g6",
+        "https://github.com/advisories/GHSA-p8p7-x288-28g6"
     ],
     "CVE-2023-28160": [
         "https://packetstormsecurity.com/files/cve/CVE-2023-28160",
@@ -52308,7 +52308,7 @@
         "https://packetstormsecurity.com/files/tags/advisory/page5"
     ],
     "CVE-2023-28771": [
-        "https://github.com/advisories/GHSA-3xvp-8qg2-x43w",
+        "https://github.com/advisories/GHSA-3xvp-8qg2-x43w"
     ],
     "CVE-2023-28819": [
         "https://github.com/advisories/GHSA-474f-mcjv-pgrm"
