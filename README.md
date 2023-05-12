@@ -1,14 +1,6 @@
 ## CVEMON - Monitoring exploits & references for CVEs
-- **[CVE-2023-31059](https://in.scanfactory.io/cvemon/CVE-2023-31059.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-31059.yaml
-- **[CVE-2023-2123](https://in.scanfactory.io/cvemon/CVE-2023-2123.html)** https://github.com/daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin
-- **[CVE-2022-3980](https://in.scanfactory.io/cvemon/CVE-2022-3980.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2022/CVE-2022-3980.yaml
-- **[CVE-2022-30114](https://in.scanfactory.io/cvemon/CVE-2022-30114.html)** https://github.com/str0ng4le/CVE-2022-30114
-- **[CVE-2023-28772](https://in.scanfactory.io/cvemon/CVE-2023-28772.html)** https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772
-- **[CVE-2023-28772](https://in.scanfactory.io/cvemon/CVE-2023-28772.html)** https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu
-- **[CVE-2023-23638](https://in.scanfactory.io/cvemon/CVE-2023-23638.html)** https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp
-- **[CVE-2023-0461](https://in.scanfactory.io/cvemon/CVE-2023-0461.html)** https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd
-- **[CVE-2022-43939](https://in.scanfactory.io/cvemon/CVE-2022-43939.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/pentaho_business_server_authbypass_and_ssti.rb
-- **[CVE-2022-43769](https://in.scanfactory.io/cvemon/CVE-2022-43769.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/pentaho_business_server_authbypass_and_ssti.rb
-- **[CVE-2022-24716](https://in.scanfactory.io/cvemon/CVE-2022-24716.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2022/CVE-2022-24716.yaml
-- **[CVE-2022-0847](https://in.scanfactory.io/cvemon/CVE-2022-0847.html)** https://github.com/4bhishek0/CVE-2022-0847-Poc
-- **[CVE-2019-3398](https://in.scanfactory.io/cvemon/CVE-2019-3398.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2019/CVE-2019-3398.yaml
+- **[CVE-2023-28772](https://in.scanfactory.io/cvemon/CVE-2023-28772.html)** https://github.com/hshivhare67/kernel_v4.1.15_CVE-2023-28772
+- **[CVE-2022-46169](https://in.scanfactory.io/cvemon/CVE-2022-46169.html)** https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169
+- **[CVE-2021-43798](https://in.scanfactory.io/cvemon/CVE-2021-43798.html)** https://github.com/FAOG99/GrafanaDirectoryScanner
+- **[CVE-2021-3156](https://in.scanfactory.io/cvemon/CVE-2021-3156.html)** https://github.com/mutur4/CVE-2021-3156
+- **[CVE-2018-8174](https://in.scanfactory.io/cvemon/CVE-2018-8174.html)** https://github.com/delina1/CVE-2018-8174_EXP
