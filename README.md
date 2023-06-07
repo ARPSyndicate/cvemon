@@ -1,12 +1,11 @@
 ## CVEMON - Monitoring exploits & references for CVEs
-- **[CVE-2023-33977](https://in.scanfactory.io/cvemon/CVE-2023-33977.html)** https://github.com/mnqazi/CVE-2023-33977
-- **[CVE-2019-1943](https://in.scanfactory.io/cvemon/CVE-2019-1943.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2019/CVE-2019-1943.yaml
-- **[CVE-2023-34362](https://in.scanfactory.io/cvemon/CVE-2023-34362.html)** https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs
-- **[CVE-2023-33246](https://in.scanfactory.io/cvemon/CVE-2023-33246.html)** https://github.com/Serendipity-Lucky/CVE-2023-33246
-- **[CVE-2023-28178](https://in.scanfactory.io/cvemon/CVE-2023-28178.html)** https://github.com/ahickmansec/CVE-2023-28178-patch
-- **[CVE-2023-2732](https://in.scanfactory.io/cvemon/CVE-2023-2732.html)** https://github.com/Jenderal92/WP-CVE-2023-2732
-- **[CVE-2023-25157](https://in.scanfactory.io/cvemon/CVE-2023-25157.html)** https://github.com/win3zz/CVE-2023-25157
-- **[CVE-2022-24706](https://in.scanfactory.io/cvemon/CVE-2022-24706.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/network/cves/2022/CVE-2022-24706.yaml
-- **[CVE-2021-22911](https://in.scanfactory.io/cvemon/CVE-2021-22911.html)** https://github.com/MrDottt/CVE-2021-22911
-- **[CVE-2018-6574](https://in.scanfactory.io/cvemon/CVE-2018-6574.html)** https://github.com/markisback/CVE-2018-6574
-- **[CVE-2018-2628](https://in.scanfactory.io/cvemon/CVE-2018-2628.html)** https://github.com/cscadoge/weblogic-cve-2018-2628
+- **[CVE-2023-34362](https://in.scanfactory.io/cvemon/CVE-2023-34362.html)** https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn
+- **[CVE-2023-33829](https://in.scanfactory.io/cvemon/CVE-2023-33829.html)** https://github.com/CKevens/CVE-2023-33829-POC
+- **[CVE-2023-33246](https://in.scanfactory.io/cvemon/CVE-2023-33246.html)** https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku
+- **[CVE-2023-29325](https://in.scanfactory.io/cvemon/CVE-2023-29325.html)** https://github.com/a-bazi/test-CVE-2023-29325
+- **[CVE-2023-2825](https://in.scanfactory.io/cvemon/CVE-2023-2825.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/gather/gitlab_authenticated_subgroups_file_read.rb
+- **[CVE-2023-27350](https://in.scanfactory.io/cvemon/CVE-2023-27350.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/papercut_ng_auth_bypass.rb
+- **[CVE-2023-23488](https://in.scanfactory.io/cvemon/CVE-2023-23488.html)** https://github.com/cybfar/CVE-2023-23488-pmpro-2.8
+- **[CVE-2022-39227](https://in.scanfactory.io/cvemon/CVE-2022-39227.html)** https://github.com/user0x1337/CVE-2022-39227
+- **[CVE-2022-23773](https://in.scanfactory.io/cvemon/CVE-2022-23773.html)** https://github.com/YouShengLiu/CVE-2022-23773-Reproduce
+- **[CVE-2022-22965](https://in.scanfactory.io/cvemon/CVE-2022-22965.html)** https://github.com/dbgee/Spring4Shell
