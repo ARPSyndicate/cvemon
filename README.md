@@ -1,11 +1,16 @@
 ## CVEMON - Monitoring exploits & references for CVEs
-- **[CVE-2023-34362](https://in.scanfactory.io/cvemon/CVE-2023-34362.html)** https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn
-- **[CVE-2023-33829](https://in.scanfactory.io/cvemon/CVE-2023-33829.html)** https://github.com/CKevens/CVE-2023-33829-POC
-- **[CVE-2023-33246](https://in.scanfactory.io/cvemon/CVE-2023-33246.html)** https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku
-- **[CVE-2023-29325](https://in.scanfactory.io/cvemon/CVE-2023-29325.html)** https://github.com/a-bazi/test-CVE-2023-29325
-- **[CVE-2023-2825](https://in.scanfactory.io/cvemon/CVE-2023-2825.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/gather/gitlab_authenticated_subgroups_file_read.rb
-- **[CVE-2023-27350](https://in.scanfactory.io/cvemon/CVE-2023-27350.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/papercut_ng_auth_bypass.rb
-- **[CVE-2023-23488](https://in.scanfactory.io/cvemon/CVE-2023-23488.html)** https://github.com/cybfar/CVE-2023-23488-pmpro-2.8
-- **[CVE-2022-39227](https://in.scanfactory.io/cvemon/CVE-2022-39227.html)** https://github.com/user0x1337/CVE-2022-39227
-- **[CVE-2022-23773](https://in.scanfactory.io/cvemon/CVE-2022-23773.html)** https://github.com/YouShengLiu/CVE-2022-23773-Reproduce
-- **[CVE-2022-22965](https://in.scanfactory.io/cvemon/CVE-2022-22965.html)** https://github.com/dbgee/Spring4Shell
+- **[CVE-2023-51504](https://in.scanfactory.io/cvemon/CVE-2023-51504.html)** https://github.com/Sybelle03/CVE-2023-51504
+- **[CVE-2023-33253](https://in.scanfactory.io/cvemon/CVE-2023-33253.html)** https://github.com/Toxich4/CVE-2023-33253
+- **[CVE-2023-1133](https://in.scanfactory.io/cvemon/CVE-2023-1133.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/misc/delta_electronics_infrasuite_deserialization.rb
+- **[CVE-2023-10608](https://in.scanfactory.io/cvemon/CVE-2023-10608.html)** https://github.com/b35363/cve-2023-10608-PoC
+- **[CVE-2019-1041](https://in.scanfactory.io/cvemon/CVE-2019-1041.html)** https://github.com/5l1v3r1/CVE-2019-1041
+- **[CVE-2023-33246](https://in.scanfactory.io/cvemon/CVE-2023-33246.html)** https://github.com/v0ita/rocketMq_RCE
+- **[CVE-2023-33246](https://in.scanfactory.io/cvemon/CVE-2023-33246.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/network/cves/2023/CVE-2023-33246.yaml
+- **[CVE-2023-23638](https://in.scanfactory.io/cvemon/CVE-2023-23638.html)** https://github.com/CKevens/CVE-2023-23638-Tools
+- **[CVE-2023-22809](https://in.scanfactory.io/cvemon/CVE-2023-22809.html)** https://github.com/hello4r1end/patch_CVE-2023-22809
+- **[CVE-2023-21971](https://in.scanfactory.io/cvemon/CVE-2023-21971.html)** https://github.com/Avento/CVE-2023-21971_Analysis
+- **[CVE-2023-2033](https://in.scanfactory.io/cvemon/CVE-2023-2033.html)** https://github.com/WalccDev/CVE-2023-2033
+- **[CVE-2022-25765](https://in.scanfactory.io/cvemon/CVE-2022-25765.html)** https://github.com/PurpleWaveIO/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell
+- **[CVE-2021-43617](https://in.scanfactory.io/cvemon/CVE-2021-43617.html)** https://github.com/Sybelle03/CVE-2021-43617
+- **[CVE-2021-42013](https://in.scanfactory.io/cvemon/CVE-2021-42013.html)** https://github.com/cybfar/cve-2021-42013-httpd
+- **[CVE-2020-27786](https://in.scanfactory.io/cvemon/CVE-2020-27786.html)** https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27786
