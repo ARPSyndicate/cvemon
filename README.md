@@ -1,13 +1,11 @@
 ## CVEMON - Monitoring exploits & references for CVEs
-- **[CVE-2023-34960](https://in.scanfactory.io/cvemon/CVE-2023-34960.html)** https://github.com/Aituglo/CVE-2023-34960
-- **[CVE-2023-34096](https://in.scanfactory.io/cvemon/CVE-2023-34096.html)** https://github.com/galoget/Thruk-CVE-2023-34096
-- **[CVE-2023-32353](https://in.scanfactory.io/cvemon/CVE-2023-32353.html)** https://github.com/86x/CVE-2023-32353-PoC
-- **[CVE-2023-2986](https://in.scanfactory.io/cvemon/CVE-2023-2986.html)** https://github.com/Ayantaker/CVE-2023-2986
-- **[CVE-2023-0630](https://in.scanfactory.io/cvemon/CVE-2023-0630.html)** https://github.com/RandomRobbieBF/CVE-2023-0630
-- **[CVE-2021-45841](https://in.scanfactory.io/cvemon/CVE-2021-45841.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/terramaster_unauth_rce_cve_2021_45837.rb
-- **[CVE-2021-45839](https://in.scanfactory.io/cvemon/CVE-2021-45839.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/terramaster_unauth_rce_cve_2021_45837.rb
-- **[CVE-2021-45837](https://in.scanfactory.io/cvemon/CVE-2021-45837.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/terramaster_unauth_rce_cve_2021_45837.rb
-- **[CVE-2023-29336](https://in.scanfactory.io/cvemon/CVE-2023-29336.html)** https://github.com/m-cetin/CVE-2023-29336
-- **[CVE-2023-28771](https://in.scanfactory.io/cvemon/CVE-2023-28771.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/misc/zyxel_ike_decoder_rce_cve_2023_28771.rb
-- **[CVE-2023-2868](https://in.scanfactory.io/cvemon/CVE-2023-2868.html)** https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp
-- **[CVE-2022-0439](https://in.scanfactory.io/cvemon/CVE-2022-0439.html)** https://github.com/RandomRobbieBF/CVE-2022-0439
+- **[CVE-2023-3163](https://in.scanfactory.io/cvemon/CVE-2023-3163.html)** https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention
+- **[CVE-2023-31541](https://in.scanfactory.io/cvemon/CVE-2023-31541.html)** https://github.com/DreamD2v/CVE-2023-31541
+- **[CVE-2022-38694](https://in.scanfactory.io/cvemon/CVE-2022-38694.html)** https://github.com/TomKing062/ud710_patch
+- **[CVE-2022-38694](https://in.scanfactory.io/cvemon/CVE-2022-38694.html)** https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader
+- **[CVE-2023-2825](https://in.scanfactory.io/cvemon/CVE-2023-2825.html)** https://github.com/hheeyywweellccoommee/CVE-2023-2825-zaskh
+- **[CVE-2023-25157](https://in.scanfactory.io/cvemon/CVE-2023-25157.html)** https://github.com/0x2458bughunt/CVE-2023-25157
+- **[CVE-2023-25157](https://in.scanfactory.io/cvemon/CVE-2023-25157.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-25157.yaml
+- **[CVE-2023-21839](https://in.scanfactory.io/cvemon/CVE-2023-21839.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/iiop/cve_2023_21839_weblogic_rce.rb
+- **[CVE-2020-35665](https://in.scanfactory.io/cvemon/CVE-2020-35665.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/terramaster_unauth_rce_cve_2020_35665.rb
+- **[CVE-2020-28188](https://in.scanfactory.io/cvemon/CVE-2020-28188.html)** https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/terramaster_unauth_rce_cve_2020_35665.rb
