@@ -1,18 +1,10 @@
 ## CVEMON - Monitoring exploits & references for CVEs
-- **[CVE-2023-34830](https://in.scanfactory.io/cvemon/CVE-2023-34830.html)** https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below
-- **[CVE-2023-34600](https://in.scanfactory.io/cvemon/CVE-2023-34600.html)** https://github.com/costacoco/Adiscon
-- **[CVE-2009-0347](https://in.scanfactory.io/cvemon/CVE-2009-0347.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2009/CVE-2009-0347.yaml
-- **[CVE-2005-3634](https://in.scanfactory.io/cvemon/CVE-2005-3634.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2005/CVE-2005-3634.yaml
-- **[CVE-2004-1965](https://in.scanfactory.io/cvemon/CVE-2004-1965.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2004/CVE-2004-1965.yaml
-- **[CVE-2023-34362](https://in.scanfactory.io/cvemon/CVE-2023-34362.html)** https://github.com/kenbuckler/MOVEit-CVE-2023-34362
-- **[CVE-2023-34362](https://in.scanfactory.io/cvemon/CVE-2023-34362.html)** https://github.com/hheeyywweellccoommee/CVE-2023-34362-zcial
-- **[CVE-2023-27997](https://in.scanfactory.io/cvemon/CVE-2023-27997.html)** https://github.com/rio128128/CVE-2023-27997-POC
-- **[CVE-2023-23752](https://in.scanfactory.io/cvemon/CVE-2023-23752.html)** https://github.com/Sweelg/CVE-2023-23752
-- **[CVE-2023-23333](https://in.scanfactory.io/cvemon/CVE-2023-23333.html)** https://github.com/Mr-xn/CVE-2023-23333
-- **[CVE-2023-23333](https://in.scanfactory.io/cvemon/CVE-2023-23333.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-23333.yaml
-- **[CVE-2023-0630](https://in.scanfactory.io/cvemon/CVE-2023-0630.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-0630.yaml
-- **[CVE-2022-1011](https://in.scanfactory.io/cvemon/CVE-2022-1011.html)** https://github.com/xkaneiki/CVE-2022-1011
-- **[CVE-2021-24647](https://in.scanfactory.io/cvemon/CVE-2021-24647.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2021/CVE-2021-24647.yaml
-- **[CVE-2019-10098](https://in.scanfactory.io/cvemon/CVE-2019-10098.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2019/CVE-2019-10098.yaml
-- **[CVE-2016-6195](https://in.scanfactory.io/cvemon/CVE-2016-6195.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2016/CVE-2016-6195.yaml
-- **[CVE-2001-0537](https://in.scanfactory.io/cvemon/CVE-2001-0537.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2001/CVE-2001-0537.yaml
+- **[CVE-2023-24078](https://in.scanfactory.io/cvemon/CVE-2023-24078.html)** https://github.com/rio128128/CVE-2023-24078
+- **[CVE-2023-24078](https://in.scanfactory.io/cvemon/CVE-2023-24078.html)** https://github.com/overgrowncarrot1/CVE-2023-24078
+- **[CVE-2023-34960](https://in.scanfactory.io/cvemon/CVE-2023-34960.html)** https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/main/http/cves/2023/CVE-2023-34960.yaml
+- **[CVE-2023-32315](https://in.scanfactory.io/cvemon/CVE-2023-32315.html)** https://github.com/vulhub/vulhub/tree/master/openfire/CVE-2023-32315
+- **[CVE-2023-30777](https://in.scanfactory.io/cvemon/CVE-2023-30777.html)** https://github.com/Alucard0x1/CVE-2023-30777
+- **[CVE-2023-30212](https://in.scanfactory.io/cvemon/CVE-2023-30212.html)** https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab
+- **[CVE-2023-25610](https://in.scanfactory.io/cvemon/CVE-2023-25610.html)** https://github.com/qi4L/CVE-2023-25610
+- **[CVE-2023-25157](https://in.scanfactory.io/cvemon/CVE-2023-25157.html)** https://github.com/vulhub/vulhub/tree/master/geoserver/CVE-2023-25157
+- **[CVE-2022-22965](https://in.scanfactory.io/cvemon/CVE-2022-22965.html)** https://github.com/c33dd/CVE-2022-22965
